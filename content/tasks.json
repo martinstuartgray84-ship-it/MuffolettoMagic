@@ -670,5 +670,25 @@
     "who": "Geometra / Studio A3",
     "notes": "Nook 96 × 122 × 130 cm, and it sits over the top of the stairwell — so its floor probably spans the stair void rather than resting on solid masonry. Engineer to confirm what carries it: slab type, span, and the walls either side. Compare with A3's ground-floor tank + booster pump.",
     "added": "2026-11-14"
+  },
+  {
+    "id": "t068",
+    "title": "Tell Claude your jobs for the hallway and stairs (proposals are on the room page)",
+    "type": "admin",
+    "room": "ground-entrance-stair",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t069",
+    "title": "Photograph / sketch the pipe runs marked “TUBI” in the stairwell before they are painted over",
+    "type": "admin",
+    "room": "ground-entrance-stair",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
   }
 ]

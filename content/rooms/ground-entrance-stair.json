@@ -1,35 +1,126 @@
 {
   "slug": "ground-entrance-stair",
-  "name": "Entrance hall & staircase",
+  "name": "Hallway & staircase (all floors)",
   "nameIt": "Ingresso e vano scala",
   "floor": "ground",
-  "status": "survey",
+  "status": "designing",
   "dimensions": {
     "length": 3.0,
     "width": 1.2,
     "height": 2.87,
-    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. The staircase rises as a dog-leg on the right side of the house through all floors — painting it is one continuous job (approx. 12 m of stairwell height)."
+    "notes": "Stairwell about 12 m high in total. Entrance hall ≈3.0 × 1.2 m (2024 survey). Flights and landings to measure if needed."
   },
-  "orientation": "Arched stone-framed front door to the street (1.19 m wide)",
-  "photos": [],
+  "orientation": "Arched front door with fanlight to Largo Pietra Rossa; small octagonal window and a grilled niche on the landings",
+  "photos": [
+    {
+      "src": "/photos/ground-entrance-stair/07.jpg",
+      "caption": "Entrance hall from the bottom flight: old front door with fanlight, terracotta floor, door to the ground-floor room",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-entrance-stair/06.jpg",
+      "caption": "Lower flight: terrazzo steps, old meter cupboard, patched pipe run marked “2 TUBI 25”, shoe rack",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-entrance-stair/05.jpg",
+      "caption": "Landing with terrazzo floor: arched niche with iron grille and urn, door, large filler patch on the wall",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-entrance-stair/04.jpg",
+      "caption": "Marble flight with the wrought-iron scroll balustrade and arched soffit",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-entrance-stair/03.jpg",
+      "caption": "Landing with patterned cement tiles and the small octagonal window",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-entrance-stair/02.jpg",
+      "caption": "Upper landing: patched pipe run marked “TUBI”, access cover, tape remnants at the ceiling",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-entrance-stair/01.jpg",
+      "caption": "Top flight: lantern wall light, cracked and peeling walls, black painted skirting band",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "Narrow hall behind the arched front door (house no. 2) with the stair rising straight ahead. The stair turns at each level, with a small window on the angled side wall at first and second floor landings.",
+    "summary": "The staircase runs the full height of the house and changes character as it climbs. Entrance hall: narrow, with the old brown panelled front door (smart lock, fanlight above), terracotta tiles laid diagonally, and a brown door to the ground-floor room. Coats and a cabinet currently fill one side. Lower flights: speckled terrazzo steps and landings; an old painted meter cupboard in the wall. Middle flights: white-grey marble treads. Upper flights: dark stone or slate treads. Landings: one in terrazzo with an arched niche holding an iron fleur-de-lis grille and an urn; one in beautiful old patterned cement tiles (star and lattice design) with a small octagonal window. A wrought-iron scroll balustrade runs all the way up. Walls are cream, with a black-painted skirting band following the stairs, and black lantern-style wall lights at each level. The walls show the recent pipe and cable work: long grey filler patches (pencilled “TUBI” and “2 TUBI 25” where pipes run), white access covers, green tape remnants at ceiling lines, cracks, and peeling paint with old blue-green paint underneath near the top.",
     "keep": [
-      "Arched stone door surround and fanlight grille (façade)",
-      "Front door"
+      "Wrought-iron scroll balustrade — the best feature of the stair",
+      "Patterned cement-tile landing",
+      "Marble, terrazzo and stone treads",
+      "Arched niche with iron grille",
+      "Octagonal window",
+      "Old front door and fanlight",
+      "Old meter cupboard door (as a period detail)"
     ],
-    "issues": []
+    "issues": [
+      "Proposed by Claude (not yet agreed): Walls: fill and sand the pipe-run patches, cracks and peeling areas, then repaint the whole stairwell in one go (about 12 m high — needs a stair scaffold/tower)",
+      "Proposed by Claude (not yet agreed): Photograph or sketch where the pipes run (the “TUBI” marks) before painting over them — you will want to know later",
+      "Proposed by Claude (not yet agreed): Remove tape remnants; paint or replace the white access covers so they disappear",
+      "Proposed by Claude (not yet agreed): Loose cable hanging on the wall above the patterned-tile landing",
+      "Proposed by Claude (not yet agreed): Black skirting band: repaint crisply, or change colour",
+      "Proposed by Claude (not yet agreed): Lantern lights give cold white light — change to warm bulbs (2700K)",
+      "Proposed by Claude (not yet agreed): Balustrade: clean, treat rust, repaint black",
+      "Proposed by Claude (not yet agreed): Treads and landings: deep clean; polish marble; repair the patched inset on the marble landing",
+      "Proposed by Claude (not yet agreed): Entrance hall: coats, shoes and stored items on the stairs and landings — needs proper hooks, a slim bench and shoe storage",
+      "Proposed by Claude (not yet agreed): Front door: restore and repaint"
+    ]
   },
   "updated": "2026-11-14",
-  "proposal": {
-    "by": "Studio Architettura A3",
-    "date": "2026-04-15",
-    "summary": "Sewer connection passes under the entrance threshold to Largo Pietra Rossa.",
-    "drawings": [
+  "target": {
+    "concept": "DRAFT — the staircase is the spine of the house and already has the character: iron scrollwork, marble, terrazzo, old cement tiles. Finish the walls in one warm white from bottom to top so those features stand out, keep the dark skirting band as a crisp graphic line, warm the lighting, and give the entrance a proper place for coats and shoes.",
+    "mood": [
+      "historic",
+      "calm",
+      "the spine of the house"
+    ],
+    "palette": [
       {
-        "name": "Tavola 1 — ground floor, existing vs proposed",
-        "src": "/plans/a3-tav1-ground-floor.png",
-        "pdf": "/plans/a3-tav1-ground-floor-2026-04-15.pdf"
+        "name": "Warm white",
+        "hex": "#E8E1D0",
+        "role": "walls, soffits, ceilings",
+        "brand": "Farrow & Ball",
+        "code": "Lime White No. 1 (or colour-match, scrubbable matt)",
+        "finish": "durable matt",
+        "notes": "Same white as the top floor"
+      },
+      {
+        "name": "Off-black",
+        "hex": "#2B2B2B",
+        "role": "skirting band + balustrade",
+        "finish": "satin on metal, eggshell on the band"
+      },
+      {
+        "name": "Front door — to choose",
+        "hex": "#4A3426",
+        "role": "front door inside",
+        "notes": "Keep dark brown, or olive green to echo the lounge cupboards"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Entrance: row of iron hooks, slim bench with shoe storage under",
+        "status": "idea"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "Warm bulbs in all lantern wall lights",
+        "detail": "2700K, same bulb throughout",
+        "status": "idea"
       }
     ]
   }
