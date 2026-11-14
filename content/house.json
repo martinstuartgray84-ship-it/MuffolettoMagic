@@ -91,7 +91,7 @@
       "Keep and show the original features: beams, exposed stone and rock, patterned cement-tile floors, plaster cornices, the iron balustrade, old doors and built-in cupboards",
       "One strong colour idea per floor: navy at street level, deep green on the first floor, mushroom with a terracotta ceiling on the second, warm white under the open roof at the top",
       "The staircase ties it together: terracotta limewash above deep olive",
-      "Green is the house's thread — olive cupboards, teal kitchen, green bedroom, green front doors",
+      "Green is the house's thread — olive cupboards, olive kitchen, green bedroom, green front doors",
       "Black fittings in every bathroom; brass for lights and handles",
       "Breathable paints on old masonry — lime, mineral or silicate, not plastic emulsion",
       "Warm light everywhere: 2200–2700K"
@@ -159,10 +159,11 @@
         "code": "olive green"
       },
       {
-        "name": "Teal-green",
-        "hex": "#3F6B66",
+        "name": "Olive green (IKEA kitchen)",
+        "hex": "#5E6440",
         "role": "Top floor — kitchen units, utility cupboards",
-        "code": "match existing"
+        "brand": "IKEA",
+        "code": "match existing units — HEX approximate"
       },
       {
         "name": "Matt black",
