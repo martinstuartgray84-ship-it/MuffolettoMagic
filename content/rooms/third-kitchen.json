@@ -47,7 +47,7 @@
     }
   ],
   "current": {
-    "summary": "L-shaped kitchen, largely fitted. Base units in a deep teal-green with raised-panel doors and a glossy dark walnut-effect worktop. Sink run: black inset sink with black pull-out tap, slim dishwasher, grey-green metro-tile splashback finished with a brass trim, dark charcoal glazed wall cabinets with an open shelf below. Hob run: 4-burner gas hob, built-in stainless oven, black chimney hood, splashback in square pale-green tiles with brass trim. A wooden window to the front sits over the corner of the worktop. An arched opening beside the hob is currently covered with a black sheet. Oak-tone glazed double doors lead to the back terrace. Floor: large light-grey stone-effect tiles with matching tile skirting. Recessed ceiling downlights. The far end opens to the fridge & utility room and the bathroom door.",
+    "summary": "L-shaped kitchen, largely fitted. Base units in a deep teal-green with raised-panel doors and a glossy dark walnut-effect worktop. Sink run: black inset sink with black pull-out tap, slim dishwasher, grey-green metro-tile splashback finished with a brass trim, dark charcoal glazed wall cabinets with an open shelf below. Hob run: 4-burner gas hob, built-in stainless oven, black chimney hood, splashback in square pale-green tiles with brass trim. A wooden window to the front sits over the corner of the worktop. The arched opening beside the hob leads to the lounge (currently covered with a black sheet). Oak-tone glazed double doors lead to the back terrace. Floor: large light-grey stone-effect tiles with matching tile skirting. Recessed ceiling downlights. The far end opens to the fridge & utility room and the bathroom door.",
     "keep": [
       "Teal-green units, walnut-effect worktop, black sink and tap",
       "Both tiled splashbacks with their brass trims",
@@ -56,14 +56,14 @@
       "Floor tiles"
     ],
     "issues": [
-      "Walls: patched plaster in many places, unpainted — around the terrace doors, the utility end, the arch and above the splashbacks",
-      "Ceiling: holes, cracks radiating from the downlights, old fixing points — fill, skim, paint",
-      "Loose coil of cable hanging at the ceiling near the hood; open junction box with wires beside the terrace doors; open hole high on the wall at the utility end",
-      "Front window: frame and reveal unfinished (raw timber / exposed edges) — needs finishing or replacing",
-      "Arched opening covered with a black sheet — what is it to become? (door, curtain, open arch, cupboard?)",
-      "End panel of the hob run is unfinished (raw edge with trim)",
-      "Wall cabinets are charcoal, units are teal — intended, or to be unified?",
-      "Terrace doors sit above floor level with a raw sill/threshold inside"
+      "JOB 1 — Handles needed: 3 drawers, 5 cupboard doors, the dishwasher, plus 2 for the new IKEA wall cupboard = 11 handles",
+      "Proposed by Claude (not yet agreed): Walls: patched plaster in many places, unpainted — around the terrace doors, the utility end, the arch and above the splashbacks",
+      "Proposed by Claude (not yet agreed): Ceiling: holes, cracks radiating from the downlights, old fixing points — fill, skim, paint",
+      "Proposed by Claude (not yet agreed): Loose coil of cable hanging at the ceiling near the hood; open junction box with wires beside the terrace doors; open hole high on the wall at the utility end",
+      "Proposed by Claude (not yet agreed): Front window: frame and reveal unfinished (raw timber / exposed edges) — needs finishing or replacing",
+      "Proposed by Claude (not yet agreed): End panel of the hob run is unfinished (raw edge with trim)",
+      "Proposed by Claude (not yet agreed): Wall cabinets are charcoal, units are teal — intended, or to be unified?",
+      "Proposed by Claude (not yet agreed): Terrace doors sit above floor level with a raw sill/threshold inside"
     ]
   },
   "target": {
@@ -104,6 +104,18 @@
         "name": "Brass",
         "hex": "#B08D57",
         "role": "tile trims, handles on terrace doors — repeat for any new hardware"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Handles — recommendation: aged/brushed brass",
+        "detail": "Brass picks up the tile trims and the terrace-door handles. 5 knobs (about 30 mm) for cupboard doors, 3 cup pulls for drawers, 1 bar handle about 160 mm for the dishwasher (a knob is too weak for a sprung door), 2 knobs for the IKEA wall cupboard. Before buying: check whether the doors are already drilled and measure the hole spacing.",
+        "status": "idea"
+      },
+      {
+        "name": "New IKEA wall cupboard",
+        "detail": "On order — model, size and position to confirm",
+        "status": "ordered"
       }
     ]
   },

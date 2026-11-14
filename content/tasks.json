@@ -471,9 +471,10 @@
     "type": "admin",
     "room": "third-kitchen",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "It leads to the lounge"
   },
   {
     "id": "t050",
@@ -493,6 +494,17 @@
     "priority": "low",
     "status": "todo",
     "who": "Carpenter",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t052",
+    "title": "Kitchen job 1: buy and fit 11 handles — 3 drawers, 5 cupboard doors, 1 dishwasher, 2 for the new IKEA wall cupboard",
+    "type": "buy",
+    "room": "third-kitchen",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "notes": "Recommended: aged brass — 7 knobs, 3 cup pulls, 1 bar handle (dishwasher). Check existing hole spacing first",
     "added": "2026-11-14"
   }
 ]
