@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getHouse, getRooms, getTasks, area, wallArea, hexToRgb, inkFor, Room } from "@/lib/content";
+import { getHouse, getRooms, area, wallArea, hexToRgb, inkFor, Room, splitIssues } from "@/lib/content";
 import PrintButton from "@/components/PrintButton";
 
 export const metadata = { title: "Decorator brief · Casa Muffoletto" };
@@ -20,7 +20,6 @@ export default async function Brief({ params, searchParams }: Props) {
   } else rooms = all.filter((r) => r.slug === slug);
   if (!rooms.length && slug !== "house") notFound();
 
-  const tasks = getTasks();
   const floors = new Map(house.floors.map((f) => [f.id, f.name]));
   const today = new Date().toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
   const title = rooms.length === 1 ? rooms[0].name : slug === "house" ? "Whole house" : `${rooms.length} rooms`;
@@ -42,7 +41,7 @@ export default async function Brief({ params, searchParams }: Props) {
       </div>
       <article className="doc">
         <section className="cover">
-          <div className="eyebrow">Decoration brief · Capitolato lavori di tinteggiatura e finitura</div>
+          <div className="eyebrow">Works brief · Capitolato lavori</div>
           <h1>{house.name}</h1>
           <div style={{ fontFamily: "var(--serif)", fontSize: "1.5rem" }}>{title}</div>
           <p className="muted" style={{ marginTop: 18 }}>
@@ -84,8 +83,9 @@ export default async function Brief({ params, searchParams }: Props) {
         )}
 
         {rooms.map((r, i) => {
-          const photos = (r.photos ?? []).filter((p) => p.kind !== "inspiration").slice(0, 6);
-          const roomTasks = tasks.filter((t) => t.room === r.slug && t.status !== "done" && (t.type === "decor" || t.type === "fix"));
+          const photos = (r.photos ?? []).filter((p) => !p.kind || p.kind === "current" || p.kind === "detail").slice(0, 6);
+          const target = (r.photos ?? []).find((p) => p.kind === "render" || p.kind === "target");
+          const sp = splitIssues(r.current?.issues);
           const d = r.dimensions;
           return (
             <section className="room-section" key={r.slug}>
@@ -117,8 +117,16 @@ export default async function Brief({ params, searchParams }: Props) {
               {r.proposal?.summary && (<><h3 style={{ marginTop: 16 }}>Building works by others (architect: {r.proposal.by})</h3><p>{r.proposal.summary}</p>{r.proposal.items?.length ? <ul>{r.proposal.items.map((x) => <li key={x}>{x}</li>)}</ul> : null}</>)}
               {r.target?.concept && (<><h3 style={{ marginTop: 16 }}>Design intent</h3><p>{r.target.concept}</p></>)}
 
-              <h3>Scope of works</h3>
-              {r.brief?.scope?.length ? <ul>{r.brief.scope.map((s) => <li key={s}>{s}</li>)}</ul> : <p className="muted">To be defined.</p>}
+              <h3>Jobs</h3>
+              {sp.jobs.length ? <ol>{sp.jobs.map((s) => <li key={s}>{s}</li>)}</ol>
+                : r.brief?.scope?.length ? <ul>{r.brief.scope.map((s) => <li key={s}>{s}</li>)}</ul> : <p className="muted">To be defined.</p>}
+              {target && (
+                <figure style={{ margin: "14px 0 0" }}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={target.src} alt="" style={{ width: "100%", maxHeight: "95mm", objectFit: "cover", borderRadius: 6 }} />
+                  <figcaption className="small muted">Target — {target.caption}</figcaption>
+                </figure>
+              )}
 
               {r.brief?.surfaces?.length ? (
                 <>
@@ -159,15 +167,12 @@ export default async function Brief({ params, searchParams }: Props) {
                 </>
               ) : null}
 
-              {(r.current?.issues?.length || roomTasks.length) ? (
+              {sp.suggestions.length > 0 && (
                 <>
-                  <h3 style={{ marginTop: 16 }}>Known defects & repairs</h3>
-                  <ul>
-                    {r.current?.issues?.map((x) => <li key={x}>{x}</li>)}
-                    {roomTasks.map((t) => <li key={t.id}>{t.title}{t.notes ? ` — ${t.notes}` : ""}</li>)}
-                  </ul>
+                  <h3 style={{ marginTop: 16 }}>Also noted — not yet agreed, do not price unless asked</h3>
+                  <ul className="small muted">{sp.suggestions.map((x) => <li key={x}>{x}</li>)}</ul>
                 </>
-              ) : null}
+              )}
 
               {r.current?.keep?.length ? (<><h3 style={{ marginTop: 16 }}>Protect / do not alter</h3><ul>{r.current.keep.map((x) => <li key={x}>{x}</li>)}</ul></>) : null}
               {r.brief?.notes?.length ? (<><h3 style={{ marginTop: 16 }}>Important notes</h3><ul>{r.brief.notes.map((x) => <li key={x}>{x}</li>)}</ul></>) : null}

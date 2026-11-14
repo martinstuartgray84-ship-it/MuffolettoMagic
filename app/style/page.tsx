@@ -15,7 +15,7 @@ export default function Style() {
 
       {s.principles?.length ? (<><h2>Design principles</h2><ol>{s.principles.map((p) => <li key={p}>{p}</li>)}</ol></>) : null}
 
-      <h2>Whole-house palette</h2>
+      <h2>The house palette, floor by floor</h2>
       <Swatches palette={s.palette} />
 
       <div className="grid g2" style={{ marginTop: 18 }}>

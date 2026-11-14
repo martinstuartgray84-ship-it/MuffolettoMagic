@@ -78,6 +78,7 @@ export type Floor = { id: string; name: string; nameIt?: string; notes?: string;
 
 export type House = {
   name: string;
+  hero?: string;
   tagline?: string;
   location?: string;
   owners?: string[];
@@ -104,6 +105,7 @@ export type Task = {
   room?: string; // room slug, or omit for whole-house
   priority?: "high" | "medium" | "low";
   status: "todo" | "doing" | "waiting" | "done";
+  suggested?: boolean; // Claude's suggestion, not yet agreed by the owners
   who?: string; // "Martin", "Decorator", "Electrician"…
   cost?: number; // estimate, EUR
   link?: string;
@@ -200,4 +202,56 @@ export function hexToRgb(hex: string) {
   const h = hex.replace("#", "");
   const full = h.length === 3 ? h.split("").map((c) => c + c).join("") : h;
   return [0, 2, 4].map((i) => parseInt(full.slice(i, i + 2), 16)).join(", ");
+}
+
+/* ------------------------------------------------------------------ */
+/* Jobs, suggestions, decisions — parsed from a room's `current.issues` */
+/* Convention: "JOB …" = agreed by the owners; "Proposed by Claude      */
+/* (not yet agreed): …" = suggestion; "To decide/To confirm/IDEA" =    */
+/* open decision; anything else = something to check.                  */
+/* ------------------------------------------------------------------ */
+export function splitIssues(issues?: string[]) {
+  const jobs: string[] = [], suggestions: string[] = [], decisions: string[] = [], checks: string[] = [];
+  for (const raw of issues ?? []) {
+    const s = raw.trim();
+    if (/^JOB\b/i.test(s)) jobs.push(s.replace(/^JOB\s*\d*\s*[—–-]\s*/i, ""));
+    else if (/^Proposed by Claude/i.test(s)) suggestions.push(s.replace(/^Proposed by Claude[^:]*:\s*/i, ""));
+    else if (/^(To decide|To confirm|IDEA)\b/i.test(s)) decisions.push(s.replace(/^(To decide|To confirm|IDEA)\s*[:—–-]\s*/i, ""));
+    else checks.push(s);
+  }
+  return { jobs, suggestions, decisions, checks };
+}
+
+const TRADES: [RegExp, string][] = [
+  [/martin|stefany/i, "You — Martin & Stefany"],
+  [/gas/i, "Gas installer"],
+  [/electric/i, "Electrician"],
+  [/plumb/i, "Plumber"],
+  [/tiler/i, "Tiler"],
+  [/plaster/i, "Plasterer"],
+  [/decorator/i, "Decorator"],
+  [/carpenter/i, "Carpenter"],
+  [/blacksmith/i, "Blacksmith"],
+  [/builder/i, "Builder"],
+  [/geometra|a3|architect|engineer/i, "Geometra / architect"],
+];
+export const TRADE_ORDER = ["Electrician", "Gas installer", "Plumber", "Builder", "Plasterer", "Tiler", "Carpenter", "Blacksmith", "Decorator", "Geometra / architect", "You — Martin & Stefany", "To buy", "Unassigned"];
+
+/** The lead trade for a task: the first person named in `who`. */
+export function tradeOf(t: Task): string {
+  const first = (t.who ?? "").split("/")[0].trim();
+  for (const [re, name] of TRADES) if (re.test(first)) return name;
+  return t.type === "buy" ? "To buy" : "Unassigned";
+}
+export const slugify = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+
+export function roomProgress(slug: string, tasks: Task[]) {
+  const mine = tasks.filter((t) => t.room === slug && t.type !== "admin");
+  return { done: mine.filter((t) => t.status === "done").length, total: mine.length };
+}
+
+/** Floors from the top of the house down, with the outside last. */
+export function floorsTopDown(house: House): Floor[] {
+  const inside = house.floors.filter((f) => f.id !== "outside").reverse();
+  return [...inside, ...house.floors.filter((f) => f.id === "outside")];
 }

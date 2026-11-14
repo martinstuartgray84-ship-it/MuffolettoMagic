@@ -40,28 +40,28 @@ export function ItemList({ items }: { items?: Item[] }) {
   );
 }
 
-export function RoomCard({ room }: { room: Room }) {
-  const cover = room.photos?.find((p) => p.kind !== "inspiration") ?? room.photos?.[0];
+export function RoomCard({ room, progress, mini = false }: { room: Room; progress?: { done: number; total: number }; mini?: boolean }) {
+  const cover = room.photos?.find((p) => !p.kind || p.kind === "current") ?? room.photos?.[0];
   const palette = room.target?.palette ?? [];
+  const pct = progress && progress.total ? Math.round((progress.done / progress.total) * 100) : 0;
   return (
-    <Link href={`/rooms/${room.slug}`} className="card room-card">
+    <Link href={`/rooms/${room.slug}`} className={`card room-card${mini ? " mini" : ""}`}>
       <div className="thumb">
         {cover ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={cover.src} alt={room.name} loading="lazy" />
+          <img src={cover.src} alt="" loading="lazy" />
         ) : palette.length ? (
           <div className="strip">{palette.map((s) => <span key={s.hex + s.name} style={{ background: s.hex }} />)}</div>
-        ) : null}
+        ) : <span className="nophoto">No photos yet</span>}
       </div>
       <div className="body">
-        <div className="spread">
-          <h3 style={{ margin: 0 }}>{room.ref && <span className="muted" style={{ fontSize: "0.85em" }}>{room.ref} · </span>}{room.name}</h3>
-        </div>
-        {room.nameIt && <div className="muted small">{room.nameIt}</div>}
+        <h3 style={{ margin: 0 }}>{room.name}</h3>
+        {!mini && room.nameIt && <div className="muted small">{room.nameIt}</div>}
         <div className="row" style={{ marginTop: 8 }}>
           <StatusPill status={room.status} />
-          {room.example && <span className="pill example">template</span>}
+          {progress && progress.total > 0 && <span className="muted small">{progress.done}/{progress.total} jobs done</span>}
         </div>
+        {progress && progress.total > 0 && <div className="bar"><i style={{ width: `${pct}%` }} /></div>}
       </div>
     </Link>
   );

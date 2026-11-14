@@ -4,9 +4,10 @@
     "title": "Send Claude photos of every room (wide shots from each corner + details)",
     "type": "admin",
     "priority": "high",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Photos received for every floor"
   },
   {
     "id": "t002",
@@ -20,7 +21,7 @@
   },
   {
     "id": "t003",
-    "title": "Measure what the survey doesn't show: attic headroom, window sill heights, radiator positions",
+    "title": "Measure: lounge floor to boards and ridge; kitchen; bathrooms; both shower openings (width at kerb and head height, height)",
     "type": "admin",
     "priority": "medium",
     "status": "todo",
@@ -32,22 +33,24 @@
     "title": "Collect inspiration images you both love (Pinterest, Instagram, magazines)",
     "type": "admin",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Target and inspiration images received"
   },
   {
     "id": "t006",
     "title": "Tell Claude what each room is used for — first-floor side room done; still: 1st & 2nd floor main rooms, attic",
     "type": "admin",
     "priority": "high",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Rooms identified floor by floor"
   },
   {
     "id": "t007",
-    "title": "Identify the circular element on the third-floor landing (“Altezza 1.7”) and the one drawn on the ground floor",
+    "title": "What is the circular element the 2024 survey shows on the top-floor landing (“Altezza 1.7”)?",
     "type": "admin",
     "priority": "medium",
     "status": "todo",
@@ -59,27 +62,30 @@
     "title": "Confirm how the attic is reached and whether you want to use it",
     "type": "admin",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Attic is open to the lounge; ledge to become a chill-out area"
   },
   {
     "id": "t009",
     "title": "Add the house address and which way the façade faces (north/south…) — it decides the colour choices",
     "type": "admin",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Address recorded: Largo Pietra Rossa 2, Gratteri"
   },
   {
     "id": "t010",
     "title": "Clarify the external door on the third-floor landing — where does it lead?",
     "type": "admin",
     "priority": "low",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "The lounge's back doors onto the small balcony"
   },
   {
     "id": "t011",
@@ -122,7 +128,8 @@
     "priority": "medium",
     "status": "todo",
     "who": "Plumber",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t015",
@@ -177,13 +184,14 @@
   },
   {
     "id": "t020",
-    "title": "Lounge: hide the cables to the recess lights and re-route the pendant flexes (proposed)",
+    "title": "Lounge: hide the cables to the recess lights and re-route the pendant flexes",
     "type": "fix",
     "room": "third-lounge",
     "priority": "medium",
     "status": "todo",
     "who": "Electrician",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t021",
@@ -194,7 +202,8 @@
     "status": "todo",
     "who": "Builder / geometra",
     "notes": "Ceiling removed — heat loss in winter is the risk at Gratteri's altitude",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t022",
@@ -215,7 +224,8 @@
     "priority": "low",
     "status": "todo",
     "added": "2026-11-14",
-    "notes": "Claude's suggestion — not on the owners' job list"
+    "notes": "Claude's suggestion — not on the owners' job list",
+    "suggested": true
   },
   {
     "id": "t024",
@@ -225,7 +235,8 @@
     "priority": "low",
     "status": "todo",
     "added": "2026-11-14",
-    "notes": "Claude's suggestion — not on the owners' job list"
+    "notes": "Claude's suggestion — not on the owners' job list",
+    "suggested": true
   },
   {
     "id": "t025",
@@ -242,18 +253,20 @@
     "title": "Photograph the whole top floor, room by room (1 Bathroom → 6 Front terrace), plus the stair landing and the tiny back terrace off the lounge",
     "type": "admin",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Top floor photographed"
   },
   {
     "id": "t027",
     "title": "Measure: lounge floor→boards and floor→ridge; bathroom; kitchen length/width; front terrace",
     "type": "admin",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Merged into the measuring item"
   },
   {
     "id": "t028",
@@ -307,7 +320,8 @@
     "status": "todo",
     "who": "Decorator",
     "added": "2026-11-14",
-    "notes": "Proposed — awaiting the owners' job list for this terrace"
+    "notes": "Proposed — awaiting the owners' job list for this terrace",
+    "suggested": true
   },
   {
     "id": "t033",
@@ -316,7 +330,9 @@
     "room": "third-front-terrace",
     "priority": "low",
     "status": "todo",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "who": "Builder / electrician",
+    "suggested": true
   },
   {
     "id": "t034",
@@ -336,18 +352,20 @@
     "priority": "medium",
     "status": "todo",
     "who": "Builder",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t036",
-    "title": "Bathroom — optional: hide the basin waste pipe",
+    "title": "Bathroom: hide the basin waste pipe",
     "type": "fix",
     "room": "third-bathroom",
     "priority": "low",
     "status": "todo",
     "who": "Plumber / builder",
     "added": "2026-11-14",
-    "notes": "Not on the owners' job list — only if wanted"
+    "notes": "Not on the owners' job list — only if wanted",
+    "suggested": true
   },
   {
     "id": "t037",
@@ -363,9 +381,10 @@
     "title": "Re-send top-floor photos with clutter removed (iPhone Photos → Edit → Clean Up, or Google Photos Magic Eraser)",
     "type": "admin",
     "priority": "low",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Not needed — target images supplied instead"
   },
   {
     "id": "t039",
@@ -373,7 +392,8 @@
     "type": "buy",
     "priority": "low",
     "status": "todo",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t040",
@@ -458,7 +478,8 @@
     "priority": "low",
     "status": "todo",
     "who": "Electrician",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t048",
@@ -563,7 +584,8 @@
     "priority": "medium",
     "status": "todo",
     "who": "Electrician",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t058",
@@ -660,7 +682,8 @@
     "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany / carpenter",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t067",
@@ -686,7 +709,7 @@
   },
   {
     "id": "t069",
-    "title": "Photograph / sketch the pipe runs marked “TUBI” in the stairwell before they are painted over",
+    "title": "Photograph the pipe runs marked “TUBI” (stairwell and second-floor bedroom) before they are painted over",
     "type": "admin",
     "room": "ground-entrance-stair",
     "priority": "medium",
@@ -775,7 +798,8 @@
     "priority": "high",
     "status": "todo",
     "who": "Electrician",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t078",
@@ -837,7 +861,8 @@
     "priority": "high",
     "status": "todo",
     "who": "Electrician",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t084",
@@ -878,7 +903,8 @@
     "priority": "medium",
     "status": "todo",
     "who": "Electrician",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "suggested": true
   },
   {
     "id": "t088",
@@ -900,5 +926,24 @@
     "who": "Martin",
     "added": "2026-11-14",
     "notes": "Owners: no new pipe needed"
+  },
+  {
+    "id": "t090",
+    "title": "Which way does the front of the house face (north, south…)? It affects how the colours read",
+    "type": "admin",
+    "priority": "low",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t091",
+    "title": "Make the GitHub repository private — it is public, with your photos, plans and address",
+    "type": "admin",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin",
+    "notes": "GitHub → repo → Settings → General → Danger Zone → Change visibility",
+    "added": "2026-11-14"
   }
 ]

@@ -1,4 +1,4 @@
-import { getHouse, getRooms } from "@/lib/content";
+import { getHouse, getRooms, getTasks, roomProgress , floorsTopDown } from "@/lib/content";
 import { RoomCard } from "@/components/ui";
 
 export const metadata = { title: "Rooms · Casa Muffoletto" };
@@ -6,28 +6,23 @@ export const metadata = { title: "Rooms · Casa Muffoletto" };
 export default function Rooms() {
   const house = getHouse();
   const rooms = getRooms();
+  const tasks = getTasks();
   return (
     <>
       <h1>Rooms</h1>
-      <p className="lede">Every space in the house, floor by floor — current state, target design, colours and works.</p>
-      {house.floors.map((f) => {
-        const list = rooms.filter((r) => r.floor === f.id && !r.example);
+      <p className="lede">Every space in the house, from the top floor down — what's there now, the target design, colours and jobs.</p>
+      <div className="subnav">{floorsTopDown(house).map((f) => rooms.some((r) => r.floor === f.id) && <a key={f.id} href={`#${f.id}`}>{f.name}</a>)}</div>
+      {floorsTopDown(house).map((f) => {
+        const list = rooms.filter((r) => r.floor === f.id);
         if (!list.length) return null;
         return (
-          <section key={f.id}>
+          <section key={f.id} id={f.id}>
             <h2>{f.name} {f.nameIt && <span className="muted small"> · {f.nameIt}</span>}</h2>
-            {list.length ? <div className="grid g3">{list.map((r) => <RoomCard key={r.slug} room={r} />)}</div>
-              : <div className="empty">No rooms recorded on this floor yet.</div>}
+            {f.notes && <p className="muted" style={{ maxWidth: "80ch" }}>{f.notes}</p>}
+            <div className="grid g3">{list.map((r) => <RoomCard key={r.slug} room={r} progress={roomProgress(r.slug, tasks)} />)}</div>
           </section>
         );
       })}
-      {rooms.some((r) => r.example) && (
-        <section>
-          <h2>Template</h2>
-          <p className="muted">A made-up room showing what a fully designed room page looks like — colours, materials, surface schedule and brief.</p>
-          <div className="grid g3">{rooms.filter((r) => r.example).map((r) => <RoomCard key={r.slug} room={r} />)}</div>
-        </section>
-      )}
     </>
   );
 }

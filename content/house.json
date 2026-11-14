@@ -6,7 +6,7 @@
     "Martin",
     "Stefany"
   ],
-  "overview": "A narrow, tall corner town house in Gratteri, in the Madonie mountains above Cefalù — four storeys plus attic. The main façade faces Largo Pietra Rossa (front door at no. 2), with the angled side wall along via Pietra Rossa. The lower three floors are essentially one main room each, stacked around a dog-leg staircase; the third floor widens out with several smaller rooms and two terraces. This site is the living record of every room — what's there now, what we want it to become, and the works to get there.",
+  "overview": "A narrow, tall corner town house in Gratteri, in the Madonie mountains above Cefalù. Four storeys around one staircase: a cellar-style lounge and dining room at street level, a bedroom with en suite on each of the next two floors, and at the top the kitchen, the lounge under the open roof and two terraces. This site is the record of every room — what's there, what it will become, and the jobs to get it there.",
   "facts": [
     {
       "label": "Address",
@@ -68,14 +68,14 @@
       "name": "Top floor",
       "nameIt": "Terzo piano (ultimo)",
       "plan": "/plans/top-floor-markup-2026-11-14.png",
-      "notes": "As built (Nov 2026), changed since the 2024 survey. Rooms: 1 Bathroom · 1b Fridge & utility room · 2 Kitchen · 3 Lounge & dining · 4 Attic (open to the lounge) · 5 Back terrace · 6 Front terrace. Drawing shown: your mark-up of the 2024 survey. Original survey sheet: /plans/third.png"
+      "notes": "Bathroom, fridge & utility room, kitchen, the lounge under the open roof with its attic ledge, and two terraces. Much changed since the 2024 survey: walls removed, new terrace doors, ceiling opened up."
     },
     {
       "id": "attic",
       "name": "Attic",
       "nameIt": "Sottotetto",
       "plan": "/plans/attic.png",
-      "notes": "Survey plan of the attic. The part over the lounge is now open to the room below — see Top floor, room 4."
+      "notes": "Survey plan of the attic. It is now open to the top-floor lounge — see the Attic room on the top floor."
     },
     {
       "id": "outside",
@@ -86,18 +86,111 @@
     }
   ],
   "style": {
-    "direction": "Draft — to agree together. Working hypothesis: a Sicilian mountain-village house, done with restraint. Warm lime-plastered walls, local stone and terracotta, chestnut and oak, linen — with Sicilian maiolica (Santo Stefano di Camastra is just along the coast) used as the decorative accent rather than everywhere. Respect what is original to the house.",
+    "direction": "Each floor has its own mood, held together by the staircase and by the house's old materials — beams, stone, cement tiles, plasterwork, wrought iron. Rich, earthy, slightly theatrical colour rather than white minimalism; antiques and character pieces kept; black and brass for metal throughout.",
     "principles": [
-      "Keep and restore original features before replacing them (stone door surround, iron balconies, old floors)",
-      "One calm base palette through the whole house, with colour concentrated per room",
-      "Breathable, mineral finishes — lime and silicate paints on old masonry",
-      "Sicilian maiolica as a deliberate accent: a bathroom floor, a splashback, a stair riser — not everywhere",
-      "Layered lighting in every room: ambient, task and accent",
-      "Small rooms work hard: built-ins, niches and every centimetre planned"
+      "Keep and show the original features: beams, exposed stone and rock, patterned cement-tile floors, plaster cornices, the iron balustrade, old doors and built-in cupboards",
+      "One strong colour idea per floor: navy at street level, deep green on the first floor, mushroom with a terracotta ceiling on the second, warm white under the open roof at the top",
+      "The staircase ties it together: terracotta limewash above deep olive",
+      "Green is the house's thread — olive cupboards, teal kitchen, green bedroom, green front doors",
+      "Black fittings in every bathroom; brass for lights and handles",
+      "Breathable paints on old masonry — lime, mineral or silicate, not plastic emulsion",
+      "Warm light everywhere: 2200–2700K"
     ],
-    "palette": [],
-    "materials": [],
-    "avoid": []
+    "palette": [
+      {
+        "name": "Deep navy",
+        "hex": "#1F2A3A",
+        "role": "Ground floor — lounge walls",
+        "brand": "Farrow & Ball",
+        "code": "Hague Blue No. 30 (closest)"
+      },
+      {
+        "name": "Tobacco terracotta",
+        "hex": "#B47750",
+        "role": "Staircase — upper walls (limewash)",
+        "code": "match to #B47750"
+      },
+      {
+        "name": "Deep olive",
+        "hex": "#343B2D",
+        "role": "Staircase — lower walls and skirting",
+        "brand": "Farrow & Ball",
+        "code": "Studio Green No. 93 (closest)"
+      },
+      {
+        "name": "Deep green",
+        "hex": "#2F5A3C",
+        "role": "First floor — bedroom walls",
+        "code": "match existing"
+      },
+      {
+        "name": "Pale mushroom",
+        "hex": "#DCCDB8",
+        "role": "Second floor — bedroom walls",
+        "brand": "Farrow & Ball",
+        "code": "Stony Ground No. 211 (closest)"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#A85B42",
+        "role": "Second floor — bedroom ceiling and cornice",
+        "brand": "Farrow & Ball",
+        "code": "Red Earth No. 64 (closest)"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#2F3033",
+        "role": "Second floor — doors and woodwork",
+        "brand": "Farrow & Ball",
+        "code": "Off-Black No. 57 (closest)"
+      },
+      {
+        "name": "Warm white",
+        "hex": "#E8E1D0",
+        "role": "Top floor — walls throughout; terraces",
+        "brand": "Farrow & Ball",
+        "code": "Lime White No. 1"
+      },
+      {
+        "name": "Olive green",
+        "hex": "#6B7A3A",
+        "role": "Top floor — lounge cupboards",
+        "brand": "Magic Paint Italy",
+        "code": "olive green"
+      },
+      {
+        "name": "Teal-green",
+        "hex": "#3F6B66",
+        "role": "Top floor — kitchen units, utility cupboards",
+        "code": "match existing"
+      },
+      {
+        "name": "Matt black",
+        "hex": "#1F1F1F",
+        "role": "Ironwork, bathroom fittings, dado line"
+      },
+      {
+        "name": "Antique brass",
+        "hex": "#A88A4F",
+        "role": "Lights, handles, trims"
+      }
+    ],
+    "materials": [
+      "Exposed chestnut beams and boarded roof",
+      "Patterned cement tiles (first and second floors, landing)",
+      "Terracotta floor tiles (ground floor, back terrace)",
+      "Marble, terrazzo and stone stair treads",
+      "Wrought iron: balustrade, balconies, railings",
+      "Exposed rock and stone (ground floor)",
+      "Glazed vertical tiles in blue, blue-grey and blush (bathrooms)"
+    ],
+    "avoid": [
+      "Gloss varnish on old timber",
+      "Plastic masonry paint on old or exterior walls",
+      "Cold white light",
+      "Mixed metal finishes in one room",
+      "Projecting handles on pocket doors"
+    ]
   },
   "contacts": [
     {
@@ -144,5 +237,6 @@
       "by": "Martin & Stefany",
       "file": "/plans/top-floor-markup-2026-11-14.png"
     }
-  ]
+  ],
+  "hero": "/photos/third-lounge/13.jpg"
 }

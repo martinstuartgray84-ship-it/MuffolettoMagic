@@ -40,7 +40,15 @@ target design for every room, the to-do / project / shopping lists, and produces
 - The owners asked (Nov 2026) for updates to be pushed straight to `main` — Vercel deploys from `main`.
   Run `npm run check` and `npm run build` first; never push a broken build.
 
+## Conventions for `current.issues` (the site parses these — see `splitIssues` in lib/content.ts)
+- `JOB n — …` = a job the owners have agreed. Shown as the room's numbered job list and in briefs.
+- `Proposed by Claude (not yet agreed): …` = a suggestion. Shown separately, greyed; briefs say "do not price".
+- `To decide: …`, `To confirm: …`, `IDEA — …` = an open decision. Anything else = something to check.
+- Never present a suggestion as agreed. The owners decide; record what they say.
+- Task `suggested: true` = Claude's suggestion, not agreed; shown with a “suggestion” tag. Remove the flag when the owners agree.
+- Task `who`: the lead trade first ("Electrician / builder"). `/trades` groups open jobs by that first name.
+- Photo `kind`: current | detail | render (target image) | inspiration. `house.hero` = home page photo.
+- The site is public (no login): do not publish photos showing people.
+
 ## Conventions
 - English UI, Italian room names in `nameIt`. Euros. Metric. Dates ISO.
-- The `example-living-room` (`content/rooms/_example.json`) is a template showing a fully designed room; it is hidden from
-  real lists. Delete it once a real room is fully designed.
