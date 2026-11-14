@@ -808,13 +808,13 @@
   },
   {
     "id": "t081",
-    "title": "En suite job 2: shower doors — measure the opening, choose, fit",
+    "title": "En suite job 2: buy and fit saloon shower doors for the 82 cm opening",
     "type": "buy",
     "room": "second-bathroom",
     "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany / fitter",
-    "notes": "Black-framed sliding door recommended. Need: opening width at kerb and at head height, and height",
+    "notes": "3 options on the room page. Still to measure: width at head height, and height from kerb to top of tiles",
     "added": "2026-11-14"
   }
 ]

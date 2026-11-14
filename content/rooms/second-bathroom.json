@@ -8,7 +8,7 @@
     "length": 2.6,
     "width": 1.0,
     "height": 2.8,
-    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. Tapering plan — wider at the front than the back."
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. Tapering plan — wider at the front than the back. Shower opening: 82 cm wide (owners' measurement)."
   },
   "orientation": "Has a window (with wooden shutters) in the angled side wall — natural ventilation",
   "photos": [
@@ -47,7 +47,7 @@
     ],
     "issues": [
       "JOB 1 — Fit the basin properly: tap, waste and trap connected, basin fixed and sealed to the oak top",
-      "JOB 2 — Shower doors in place of the curtain",
+      "JOB 2 — Shower doors: a pair of half doors (saloon doors) across the 82 cm opening, in place of the curtain",
       "Proposed by Claude (not yet agreed): Wall light over the basin: connect the bare wires (make them safe meanwhile); hang the mirror",
       "Proposed by Claude (not yet agreed): WC: the flexible supply hose loops out visibly — shorten or re-route",
       "Proposed by Claude (not yet agreed): Tile edges: the top of the half-height tiling and the shower wall ends need a trim or a neat painted line and sealant",
@@ -82,8 +82,26 @@
     ],
     "furniture": [
       {
-        "name": "Shower doors",
-        "detail": "Recommendation: black-framed sliding door on a fixed panel, to match the top-floor bathroom and the black fittings here. Measure the opening width at the kerb and at head height (old walls are rarely parallel) and the height available. If the opening is under about 80 cm, a single pivot or bi-fold door instead.",
+        "name": "Shower doors — pair of saloon doors, 82 cm opening",
+        "detail": "Two half-width glass doors, each about 41 cm, hinged at the walls and swinging in and out. Black profiles to match the fittings. Check each model's adjustment range covers 82 cm, and its height against the tiled wall (most are 190–200 cm).",
+        "status": "chosen"
+      },
+      {
+        "name": "Option A — Kamalu KSAL2800AN",
+        "detail": "Saloon door, black profiles, fits 80–85 cm, 200 cm high. About €444 (list €694).",
+        "link": "https://www.kamalubagno.it/231-porte-doccia-80-cm",
+        "status": "idea"
+      },
+      {
+        "name": "Option B — Yellowshop Saloon 80",
+        "detail": "Fits 78–82 cm (82 is the limit), frosted glass, 6 mm. About €279. Profile colour to check.",
+        "link": "https://yellowshop.it/porte-nicchia/544-1448-saloon-opaco.html",
+        "status": "idea"
+      },
+      {
+        "name": "Option C — Idromshop saloon, matt black",
+        "detail": "Sizes from 70 to 120 cm; from about €298; made-to-measure sizes cost about 40% more.",
+        "link": "https://www.idromshop.com/en/catalog/nicchia-saloon-141381",
         "status": "idea"
       }
     ]
@@ -101,9 +119,9 @@
         "notes": "Keep the trap and pipes neat — they show between the two shelves"
       },
       {
-        "surface": "Shower enclosure (Job 2)",
+        "surface": "Shower doors (Job 2)",
         "prep": "Remove the tension rod and curtain. Check the tiled kerb is level and falls inward to the drain",
-        "finish": "Fit enclosure to the tiled walls with the maker's wall profiles; silicone outside edges only; 6–8 mm safety glass",
+        "finish": "Pair of saloon doors, 6 mm safety glass, hinged to wall profiles fixed to the tiled walls; silicone outside edges only",
         "colour": "Black frame",
         "notes": "Drill tiles through the grout lines where possible; diamond bit, no hammer action"
       }
