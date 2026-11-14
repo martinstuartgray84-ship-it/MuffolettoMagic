@@ -1,16 +1,16 @@
 {
   "slug": "third-rear-terrace",
-  "name": "Rear terrace",
+  "name": "Back terrace",
   "nameIt": "Terrazzo posteriore",
   "floor": "third",
   "status": "survey",
   "dimensions": {
-    "length": 4.05,
-    "width": 3.0,
-    "area": 12.0,
-    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+    "length": 4.0,
+    "width": 2.5,
+    "area": 10.0,
+    "notes": "About 2.5 × 4 m (owners' measurement)."
   },
-  "orientation": "Open to the sky; now reached through new glazed double doors in the middle of the kitchen-hallway",
+  "orientation": "Open to the sky; walled on three sides, low wall on the fourth with the barbecue area; reached through the new double doors from the kitchen",
   "photos": [
     {
       "src": "/photos/third-kitchen/02.jpg",
@@ -20,9 +20,10 @@
     }
   ],
   "current": {
-    "summary": "Paved roof terrace at the back, terracotta tile floor, enclosed by the rough stone wall of the neighbouring building. Now reached through new full-height glazed double doors (replacing the old 0.57 m door). Currently furnished with a pallet sofa with cushions and a dining table.",
+    "summary": "Roof terrace of about 2.5 × 4 m at the back, off the kitchen through the new double doors. Enclosed by walls on three sides (one is the rough stone wall of the neighbouring building) and a low wall on the fourth side, where the barbecue area is. Terracotta tile floor. Furnished with a pallet sofa with cushions and a dining table.",
     "keep": [],
     "issues": []
   },
-  "updated": "2026-11-14"
+  "updated": "2026-11-14",
+  "ref": "Top 5"
 }

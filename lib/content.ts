@@ -43,6 +43,7 @@ export type Room = {
   slug: string;
   name: string;
   nameIt?: string;
+  ref?: string; // owners' numbering within a floor, e.g. "Top 1"
   floor: string; // must match an id in house.floors
   status: RoomStatus;
   example?: boolean;
@@ -132,6 +133,7 @@ export function getRooms(): Room[] {
       (a, b) =>
         Number(!!a.example) - Number(!!b.example) ||
         (floorOrder.get(a.floor) ?? 99) - (floorOrder.get(b.floor) ?? 99) ||
+        (a.ref ?? "zz").localeCompare(b.ref ?? "zz", undefined, { numeric: true }) ||
         a.name.localeCompare(b.name),
     );
 }

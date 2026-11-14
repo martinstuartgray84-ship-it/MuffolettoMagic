@@ -33,6 +33,7 @@ export default async function RoomPage({ params }: { params: Promise<{ slug: str
         </div>
       </div>
       <div className="row" style={{ marginBottom: 18 }}>
+        {room.ref && <span className="pill">{room.ref}</span>}
         {room.nameIt && <span className="muted">{room.nameIt}</span>}
         <StatusPill status={room.status} />
         {room.example && <span className="pill example">template — will be replaced by real rooms</span>}

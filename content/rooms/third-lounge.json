@@ -1,7 +1,7 @@
 {
   "slug": "third-lounge",
-  "name": "Lounge",
-  "nameIt": "Soggiorno, terzo piano",
+  "name": "Lounge & dining room",
+  "nameIt": "Soggiorno e pranzo",
   "floor": "third",
   "status": "designing",
   "dimensions": {
@@ -11,7 +11,7 @@
     "area": 15.0,
     "notes": "Plan size scaled from the 1:50 survey (±10 cm). 2.42 m was the old ceiling height — the ceiling has since been removed, so the room now rises to the exposed beams/boards. New height to the boards and to the ridge: to measure."
   },
-  "orientation": "French doors onto the front terrace and Largo Pietra Rossa; small high window in the angled wall",
+  "orientation": "Double doors at the front onto the front terrace; double doors at the back onto a tiny back terrace",
   "photos": [
     {
       "src": "/photos/third-lounge/01.jpg",
@@ -21,7 +21,7 @@
     }
   ],
   "current": {
-    "summary": "The old flat ceiling has been taken out, exposing dark timber beams with a boarded deck of weathered planks above — the room now feels taller and opens towards the attic. Walls are white, softly uneven plaster. The angled side wall is built up in white masonry steps: a deep niche used as a daybed/seat, and above it a long ledge with old beam pockets (the sockets where earlier beams sat) and a small high window. A panel of exposed brick sits beside the glazed wooden French doors to the terrace. Floor: large-format grey tiles. Furnishing now: grey sofa with leaf-print cushions, antique wooden bar counter, gilt mirror over a wrought-iron wine-rack console, open shelving on the left. Lighting is a mix: glass-drop chandelier, a black cage pendant on a long flex looped across the beams, a cage wall-light.",
+    "summary": "Now one open living space, with the old ceiling removed so it opens up into the attic and roof. Double doors at the front onto the front terrace and double doors at the back onto a tiny terrace. Layout today: a sitting area — grey sofa (2.1 m long) facing the TV — and a dining area with a table for 4, plus two built-in cupboards. Walls are white, softly uneven plaster. The angled side wall is built up in white masonry steps: a deep niche used as a daybed/seat, and above it a long ledge with old beam pockets (the sockets where earlier beams sat) and a small high window. A panel of exposed brick sits beside the glazed wooden French doors to the terrace. Floor: large-format grey tiles. Furnishing: the grey sofa with leaf-print cushions, antique wooden bar counter, gilt mirror over a wrought-iron wine-rack console, open shelving on the left. Lighting is a mix: glass-drop chandelier, a black cage pendant on a long flex looped across the beams, a cage wall-light.",
     "keep": [
       "Exposed beams and boarded deck — the best feature of the floor",
       "Old beam pockets in the side wall (character; could be lit)",
@@ -113,6 +113,11 @@
         "name": "Rug",
         "detail": "Large flat-weave/kilim in earth tones to warm the grey tiles",
         "status": "idea"
+      },
+      {
+        "name": "Zoning: sofa + TV / dining for 4",
+        "detail": "Keep the 2.1 m sofa facing the TV; anchor each zone with its own rug or pendant so the open room reads as two calm spaces",
+        "status": "idea"
       }
     ],
     "lighting": [
@@ -139,5 +144,6 @@
       }
     ]
   },
-  "updated": "2026-11-14"
+  "updated": "2026-11-14",
+  "ref": "Top 3"
 }

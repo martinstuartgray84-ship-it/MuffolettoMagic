@@ -12,6 +12,7 @@ export default function Rooms() {
       <p className="lede">Every space in the house, floor by floor — current state, target design, colours and works.</p>
       {house.floors.map((f) => {
         const list = rooms.filter((r) => r.floor === f.id && !r.example);
+        if (!list.length) return null;
         return (
           <section key={f.id}>
             <h2>{f.name} {f.nameIt && <span className="muted small"> · {f.nameIt}</span>}</h2>

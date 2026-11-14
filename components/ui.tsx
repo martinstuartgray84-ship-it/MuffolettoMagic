@@ -55,7 +55,7 @@ export function RoomCard({ room }: { room: Room }) {
       </div>
       <div className="body">
         <div className="spread">
-          <h3 style={{ margin: 0 }}>{room.name}</h3>
+          <h3 style={{ margin: 0 }}>{room.ref && <span className="muted" style={{ fontSize: "0.85em" }}>{room.ref} · </span>}{room.name}</h3>
         </div>
         {room.nameIt && <div className="muted small">{room.nameIt}</div>}
         <div className="row" style={{ marginTop: 8 }}>

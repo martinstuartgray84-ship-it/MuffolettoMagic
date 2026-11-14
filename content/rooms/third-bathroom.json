@@ -1,17 +1,19 @@
 {
   "slug": "third-bathroom",
-  "name": "Third-floor bathroom",
-  "nameIt": "Bagno, terzo piano",
+  "name": "Bathroom",
+  "nameIt": "Bagno, ultimo piano",
   "floor": "third",
   "status": "survey",
   "dimensions": {
-    "notes": "Made smaller than the old side room (≈2.8 × 1.45 m on the survey). As-built size to measure."
+    "notes": "New, smaller bathroom in the front-left corner, inside the old side room (≈2.8 × 1.45 m on the 2024 survey). As-built size to measure."
   },
   "photos": [],
   "current": {
-    "summary": "Bathroom at the end of the kitchen-hallway, behind the door with the exposed brick lintel — made smaller than the original room. Awaiting photos.",
+    "summary": "New small bathroom in the front-left corner of the top floor. The old bathtub has been replaced by a shower; there is a WC and a small basin. Entered from the end of the kitchen, next to the fridge/washing-machine bay.",
     "keep": [],
     "issues": []
   },
-  "updated": "2026-11-14"
+  "updated": "2026-11-14",
+  "ref": "Top 1",
+  "orientation": "Front left corner of the house (street side)"
 }

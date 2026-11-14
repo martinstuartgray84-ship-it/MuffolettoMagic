@@ -211,7 +211,8 @@
     "priority": "medium",
     "status": "todo",
     "who": "Carpenter",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Bay is 116 cm wide: washer (60) + standard fridge (55–60) won't fit with ventilation — choose a slim fridge (≤54 cm) or rethink"
   },
   {
     "id": "t023",
@@ -243,7 +244,7 @@
   },
   {
     "id": "t026",
-    "title": "Photograph + measure: third-floor bathroom, landing, front terrace, rest of attic",
+    "title": "Photograph the whole top floor, room by room (1 Bathroom → 6 Front terrace), plus the stair landing and the tiny back terrace off the lounge",
     "type": "admin",
     "priority": "medium",
     "status": "todo",
@@ -252,11 +253,22 @@
   },
   {
     "id": "t027",
-    "title": "Measure lounge: floor to boards, floor to ridge; kitchen-hallway as built",
+    "title": "Measure: lounge floor→boards and floor→ridge; bathroom; kitchen length/width; front terrace",
     "type": "admin",
     "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t028",
+    "title": "Decide what to do with the attic (open volume, loft/mezzanine, or storage)",
+    "type": "project",
+    "room": "attic",
+    "priority": "low",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "notes": "After insulation check (t021) and headroom measurements",
     "added": "2026-11-14"
   }
 ]

@@ -1,8 +1,8 @@
 {
   "slug": "attic",
-  "name": "Attic",
+  "name": "Attic (open to the lounge)",
   "nameIt": "Sottotetto",
-  "floor": "attic",
+  "floor": "third",
   "status": "survey",
   "dimensions": {
     "length": 5.5,
@@ -13,11 +13,13 @@
   "orientation": "One small window in the angled wall",
   "photos": [],
   "current": {
-    "summary": "Roof space. The ceiling of the third-floor lounge has been removed, so the lounge now opens up to the beams and boards — the attic over the lounge is no longer a separate room. Rest of the attic: to photograph.",
+    "summary": "The attic is now open to the lounge since the ceiling came out. What to do with it is still to be decided — options to explore: a mezzanine/reading loft, storage, or simply leaving the volume open and making the roof structure a feature. Needs photos and headroom measurements first.",
     "keep": [],
     "issues": [
-      "Headroom under the pitch to be measured"
+      "Headroom under the pitch to be measured",
+      "Roof insulation and condensation to check before any use is decided"
     ]
   },
-  "updated": "2026-11-14"
+  "updated": "2026-11-14",
+  "ref": "Top 4"
 }

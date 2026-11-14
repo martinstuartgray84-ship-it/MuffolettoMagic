@@ -65,17 +65,17 @@
     },
     {
       "id": "third",
-      "name": "Third floor",
-      "nameIt": "Terzo piano",
+      "name": "Top floor",
+      "nameIt": "Terzo piano (ultimo)",
       "plan": "/plans/third.png",
-      "notes": "As built (Nov 2026) — changed from the 2024 survey: the lounge ceiling has been removed to expose the beams and roof; the wall between the corridor and the small front room has been knocked through to make an open kitchen-hallway; the rear-terrace door has been replaced with full-height double doors in the middle of the hallway; the bathroom has been made smaller. The plan below is the 2024 survey — an as-built plan will follow."
+      "notes": "As built (Nov 2026), numbered as we use it: 1 Bathroom (front left, shower + WC + basin) · 2 Kitchen (open, no hallway wall; window to the front; 116 cm fridge/washer bay) · 3 Lounge & dining (open to the roof; double doors front and back) · 4 Attic (open, use to decide) · 5 Back terrace (≈2.5 × 4 m, barbecue) · 6 Front terrace. The plan below is the 2024 survey, before the changes — an as-built plan will follow."
     },
     {
       "id": "attic",
       "name": "Attic",
       "nameIt": "Sottotetto",
       "plan": "/plans/attic.png",
-      "notes": "Under the pitched roof. Front part boarded (≈ 5.5 × 2.7 m); rear part unfloored. Small window in the angled wall."
+      "notes": "Survey plan of the attic. The part over the lounge is now open to the room below — see Top floor, room 4."
     },
     {
       "id": "outside",
