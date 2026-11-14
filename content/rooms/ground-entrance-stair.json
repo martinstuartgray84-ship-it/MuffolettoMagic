@@ -3,7 +3,7 @@
   "name": "Hallway & staircase (all floors)",
   "nameIt": "Ingresso e vano scala",
   "floor": "ground",
-  "status": "designing",
+  "status": "approved",
   "dimensions": {
     "length": 3.0,
     "width": 1.2,
@@ -53,6 +53,12 @@
       "caption": "Top flight: lantern wall light, cracked and peeling walls, black painted skirting band",
       "kind": "current",
       "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-entrance-stair/08.jpg",
+      "caption": "Chosen direction (AI render, supplied by Martin & Stefany): terracotta limewash above deep olive panelling, black ironwork, framed prints with picture lights, olive trees in terracotta jars, amber light",
+      "kind": "render",
+      "date": "2026-11-14"
     }
   ],
   "current": {
@@ -68,7 +74,7 @@
     ],
     "issues": [
       "JOB 1 — Fix the walls: fill pipe-run patches, cracks and peeling paint, remove tape, make good",
-      "JOB 2 — Paint the whole hallway and staircase to a designed scheme (draft below — to approve)",
+      "JOB 2 — Paint the whole hallway and staircase: terracotta limewash above, deep olive below (owners' chosen direction)",
       "Proposed by Claude (not yet agreed): Photograph or sketch where the pipes run (the “TUBI” marks) before painting over them — you will want to know later",
       "Proposed by Claude (not yet agreed): Remove tape remnants; paint or replace the white access covers so they disappear",
       "Proposed by Claude (not yet agreed): Loose cable hanging on the wall above the patterned-tile landing",
@@ -82,91 +88,117 @@
   },
   "updated": "2026-11-14",
   "target": {
-    "concept": "DRAFT for approval — a traditional Italian painted dado (zoccolatura). The lower part of the wall, to about 110 cm, is painted olive green and follows the slope of the stairs; above it, warm white up to the ceilings. A fine off-black line separates the two, and the existing black skirting band stays as the base. It suits the house: old Sicilian stairwells were painted this way, the olive picks up the lounge cupboards and kitchen, and it is practical — the dado takes the knocks and hand marks in a wipeable finish while the white above keeps the narrow stair light. The iron balustrade goes black, the niche gets a terracotta back wall as the one accent, landing doors and frames go a soft grey-green, and the front door olive inside.",
+    "concept": "Chosen direction (from the owners' render) — an old Sicilian palazzo / boutique-hotel stair. Upper walls in a tobacco-terracotta limewash with soft, cloudy movement; lower walls in deep olive green to dado height with a moulded top rail; skirting in the same olive; black ironwork; marble, terrazzo and cement-tile floors kept and cleaned. Dressed with framed sepia prints of Sicilian towns under brass picture lights, olive trees in terracotta jars on the landings, a runner in the entrance hall, candles in the niche, and very warm amber lighting.",
     "mood": [
-      "historic",
-      "Sicilian",
-      "olive and warm white",
-      "the spine of the house"
+      "Sicilian palazzo",
+      "boutique hotel",
+      "terracotta and deep olive",
+      "amber light"
     ],
     "palette": [
       {
-        "name": "Warm white",
-        "hex": "#E8E1D0",
-        "role": "walls above the dado, soffits, ceilings",
-        "brand": "Farrow & Ball",
-        "code": "Lime White No. 1 (or colour-match)",
-        "finish": "breathable matt",
-        "notes": "Same white as the top floor"
+        "name": "Tobacco terracotta",
+        "hex": "#B47750",
+        "role": "upper walls (main colour)",
+        "brand": "Limewash / mineral paint — tinted to match",
+        "code": "match to #B47750; closest Farrow & Ball reference: Red Earth No. 64",
+        "finish": "limewash, matt, brushed for movement",
+        "notes": "Sample on the darkest flight first — see designer's notes"
       },
       {
-        "name": "Olive green",
-        "hex": "#6B6B3A",
-        "role": "dado: floor band to 110 cm, following the stair slope; front door inside",
-        "brand": "Farrow & Ball",
-        "code": "Bancha No. 298 — or colour-matched to the lounge cupboards",
-        "finish": "scrubbable eggshell",
-        "notes": "HEX approximate. Test a 1 m sample on the stairs first — it must not make the narrow flights feel dark"
+        "name": "Muted clay",
+        "hex": "#C18D69",
+        "role": "lighter alternative for the narrowest or darkest flights and smaller areas",
+        "brand": "Limewash / mineral paint — tinted to match",
+        "finish": "limewash, matt"
       },
       {
-        "name": "Off-black",
-        "hex": "#2B2B2B",
-        "role": "skirting band, 1.5 cm line on top of the dado, balustrade",
+        "name": "Deep olive",
+        "hex": "#343B2D",
+        "role": "lower walls to dado height, dado rail, skirting",
         "brand": "Farrow & Ball",
-        "code": "Off-Black No. 57",
-        "finish": "eggshell on walls, satin metal paint on iron"
-      },
-      {
-        "name": "Soft grey-green",
-        "hex": "#B7B9A5",
-        "role": "landing doors and frames, meter cupboard",
-        "brand": "Farrow & Ball",
-        "code": "French Gray No. 18",
-        "finish": "eggshell",
+        "code": "closest: Studio Green No. 93 (or colour-match to #343B2D)",
+        "finish": "satin / eggshell, scrubbable",
         "notes": "HEX approximate"
       },
       {
-        "name": "Terracotta",
-        "hex": "#B4674D",
-        "role": "back wall of the arched niche only",
-        "brand": "Farrow & Ball",
-        "code": "Red Earth No. 64",
-        "finish": "matt"
+        "name": "Warm limestone",
+        "hex": "#E3D8C3",
+        "role": "ceilings and undersides of the flights",
+        "finish": "matt",
+        "notes": "Keeps light bouncing down the stairwell"
+      },
+      {
+        "name": "Matt black",
+        "hex": "#1F1F1F",
+        "role": "iron balustrade, lantern lights",
+        "finish": "matt metal paint"
+      },
+      {
+        "name": "Dark walnut",
+        "hex": "#4A3426",
+        "role": "front door, door to the ground-floor room",
+        "finish": "satin"
+      },
+      {
+        "name": "Antique brass",
+        "hex": "#A88A4F",
+        "role": "picture lights, hardware"
       }
     ],
     "materials": [
       {
-        "name": "Alternative A — quieter",
-        "detail": "No dado: warm white throughout with the black skirting band only. Simplest and cheapest, but shows marks.",
+        "name": "Lower wall: painted dado, or real panelling?",
+        "detail": "The render shows raised panelling. Three ways to get it: (1) paint only — olive to dado height with a timber dado rail (cheapest, loses no width); (2) rail plus thin applied mouldings forming panels, all painted olive (the render look, about 1–2 cm thick); (3) full timber panelling (most expensive, takes width off a narrow stair). Recommendation: option 2 on landings and the entrance hall, option 1 on the sloping flights.",
         "status": "idea"
       },
       {
-        "name": "Alternative B — warmer",
-        "detail": "Same dado scheme with terracotta (Red Earth) instead of olive. Richer, but competes with the terrazzo and terracotta floors.",
-        "status": "idea"
+        "name": "Limewash on the upper walls",
+        "detail": "Needs a mineral primer over the existing paint, then 2–3 brushed coats. Slightly variable by nature — that is the look.",
+        "status": "chosen"
       }
     ],
     "furniture": [
       {
-        "name": "Entrance: row of iron hooks, slim bench with shoe storage under",
+        "name": "Framed sepia prints of Sicilian towns, black frames",
+        "detail": "One large per landing; a row of four in the entrance hall",
+        "status": "idea"
+      },
+      {
+        "name": "Olive trees in terracotta jars",
+        "detail": "Stair has little daylight — use good artificial olive trees, or real ones only by the octagonal window",
+        "status": "idea"
+      },
+      {
+        "name": "Entrance runner, small round side tables, storage baskets",
         "status": "idea"
       }
     ],
     "lighting": [
       {
-        "name": "Warm bulbs in all lantern wall lights",
-        "detail": "2700K, same bulb throughout",
+        "name": "Existing black lantern wall lights — warm bulbs",
+        "detail": "2200K amber filament bulbs throughout",
+        "status": "chosen"
+      },
+      {
+        "name": "Brass picture lights over the prints",
+        "detail": "Each needs a cable chased into the wall — do before painting; or rechargeable ones to avoid wiring",
+        "status": "idea"
+      },
+      {
+        "name": "Low-level step lights in the lower wall",
+        "detail": "As in the render. Requires chasing cables along every flight — decide now, before the walls are repaired",
         "status": "idea"
       }
-    ],
-    "renderPrompt": "Photorealistic photograph, same camera angle and architecture — do not change the stairs, railings, floors, doors or windows. Remove all clutter, tools, boxes and stored items. Old Sicilian town-house stairwell, freshly decorated: smooth walls with a painted dado in muted olive green from the skirting up to about 110 cm, following the slope of the stairs; warm white walls and ceilings above; a fine off-black line between the two; off-black skirting band. Wrought-iron scroll balustrade repainted black. Marble, terrazzo and patterned cement-tile floors cleaned and polished. Black lantern wall lights with warm 2700K light. Doors and frames in soft grey-green. No patches, cracks or cables. Calm, elegant, historic."
+    ]
   },
   "brief": {
     "scope": [
       "Make good all walls and soffits",
-      "Paint to the dado scheme",
-      "Repaint balustrade",
-      "Paint doors, frames and meter cupboard"
+      "Electrics first-fix: picture lights and step lights (if chosen)",
+      "Dado rail and panel mouldings",
+      "Limewash upper walls; olive lower walls, rail and skirting",
+      "Repaint balustrade; doors"
     ],
     "surfaces": [
       {
@@ -176,49 +208,40 @@
         "notes": "Stairwell about 12 m high: stair tower / scaffold needed. Work top to bottom"
       },
       {
-        "surface": "Walls above dado, soffits, ceilings",
-        "finish": "2 coats breathable matt",
-        "colour": "Warm white — Lime White No. 1"
+        "surface": "Upper walls",
+        "prep": "Mineral primer suitable for limewash over existing paint",
+        "finish": "2–3 coats limewash, brushed in crossing strokes",
+        "colour": "Tobacco terracotta #B47750 (muted clay #C18D69 where approved)"
       },
       {
-        "surface": "Dado, skirting to 110 cm",
-        "prep": "Snap a chalk line 110 cm above the nosing line on flights (parallel to the slope) and 110 cm above the floor on landings; join with clean mitres at each turn",
-        "finish": "2 coats scrubbable eggshell",
-        "colour": "Olive green — Bancha No. 298 or match"
+        "surface": "Ceilings, undersides of flights",
+        "finish": "2 coats matt",
+        "colour": "Warm limestone"
       },
       {
-        "surface": "Dado line + skirting band",
-        "finish": "1.5 cm line with low-tack tape; band 2 coats eggshell",
-        "colour": "Off-Black No. 57"
+        "surface": "Lower walls, dado rail, mouldings, skirting",
+        "prep": "Set the dado rail about 100–110 cm above the nosing line on flights, parallel to the slope, and level on landings; fix rail and mouldings; fill, prime",
+        "finish": "2 coats scrubbable satin / eggshell",
+        "colour": "Deep olive #343B2D"
       },
       {
         "surface": "Iron balustrade",
         "prep": "Wire-brush, treat rust, metal primer",
-        "finish": "2 coats satin metal paint",
-        "colour": "Off-black"
+        "finish": "2 coats matt metal paint",
+        "colour": "Matt black"
       },
       {
-        "surface": "Landing doors, frames, meter cupboard",
-        "prep": "Sand, fill, prime",
-        "finish": "2 coats eggshell",
-        "colour": "French Gray No. 18"
-      },
-      {
-        "surface": "Niche back wall",
-        "finish": "2 coats matt",
-        "colour": "Red Earth No. 64"
-      },
-      {
-        "surface": "Front door, inside face",
-        "prep": "Sand, repair, prime",
-        "finish": "2 coats eggshell",
-        "colour": "Olive green, as dado"
+        "surface": "Front door and ground-floor door",
+        "prep": "Sand, repair",
+        "finish": "Stain or satin paint",
+        "colour": "Dark walnut"
       }
     ],
     "notes": [
-      "Paint a 1 m test panel of the dado on one flight and approve it before the full job",
+      "Approve a test panel on the darkest flight before the full job: terracotta and muted clay side by side, with the olive below",
+      "Decide step lights and picture lights before wall repairs — cables must be chased in first",
       "Protect all treads, tiles and the balustrade",
-      "Access covers: paint to match the wall they sit on"
+      "Access covers and the meter cupboard: paint to match the surface they sit on"
     ],
     "access": "The only stair in the house — agree working hours and keep one side passable"
   }

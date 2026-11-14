@@ -705,13 +705,13 @@
   },
   {
     "id": "t071",
-    "title": "Stairs job 2: paint hallway and staircase — olive dado scheme (draft, to approve)",
+    "title": "Stairs job 2: paint hallway and staircase — terracotta limewash above, deep olive below",
     "type": "decor",
     "room": "ground-entrance-stair",
     "priority": "medium",
     "status": "todo",
     "who": "Decorator",
-    "notes": "Approve a 1 m test panel first",
+    "notes": "Test panel on the darkest flight first",
     "added": "2026-11-14"
   },
   {
@@ -720,8 +720,38 @@
     "type": "admin",
     "room": "ground-entrance-stair",
     "priority": "medium",
+    "status": "done",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14",
+    "notes": "Chosen: terracotta limewash + deep olive lower walls (owners' render)"
+  },
+  {
+    "id": "t073",
+    "title": "Stairs: decide the lower-wall build — paint only, applied mouldings, or full panelling",
+    "type": "admin",
+    "room": "ground-entrance-stair",
+    "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t074",
+    "title": "Stairs: decide step lights and picture lights before wall repairs (cables go in first)",
+    "type": "admin",
+    "room": "ground-entrance-stair",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t075",
+    "title": "Stairs: framed sepia prints of Sicilian towns, brass picture lights, olive trees in terracotta jars, entrance runner",
+    "type": "buy",
+    "room": "ground-entrance-stair",
+    "priority": "low",
+    "status": "todo",
     "added": "2026-11-14"
   }
 ]
