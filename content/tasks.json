@@ -761,7 +761,7 @@
     "title": "Tell Claude your jobs for the second-floor bedroom and en suite (proposals are on the room pages)",
     "type": "admin",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
     "added": "2026-11-14"
   },
@@ -794,6 +794,27 @@
     "priority": "medium",
     "status": "done",
     "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t080",
+    "title": "En suite job 1: fit the basin properly — seal the oak, tap, waste, trap, silicone",
+    "type": "fix",
+    "room": "second-bathroom",
+    "priority": "high",
+    "status": "todo",
+    "who": "Plumber",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t081",
+    "title": "En suite job 2: shower doors — measure the opening, choose, fit",
+    "type": "buy",
+    "room": "second-bathroom",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany / fitter",
+    "notes": "Black-framed sliding door recommended. Need: opening width at kerb and at head height, and height",
     "added": "2026-11-14"
   }
 ]

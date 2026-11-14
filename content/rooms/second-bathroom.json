@@ -46,14 +46,70 @@
       "Black shower fittings"
     ],
     "issues": [
-      "Proposed by Claude (not yet agreed): Fit the basin tap and waste; seal the basin to the oak; oil or varnish the oak against water",
+      "JOB 1 — Fit the basin properly: tap, waste and trap connected, basin fixed and sealed to the oak top",
+      "JOB 2 — Shower doors in place of the curtain",
       "Proposed by Claude (not yet agreed): Wall light over the basin: connect the bare wires (make them safe meanwhile); hang the mirror",
-      "Proposed by Claude (not yet agreed): Shower: replace the curtain and tension rod with a fixed glass screen",
       "Proposed by Claude (not yet agreed): WC: the flexible supply hose loops out visibly — shorten or re-route",
       "Proposed by Claude (not yet agreed): Tile edges: the top of the half-height tiling and the shower wall ends need a trim or a neat painted line and sealant",
       "Proposed by Claude (not yet agreed): Window shutters and door: sand the filler and paint",
       "Proposed by Claude (not yet agreed): Exposed beam: clean, treat, seal; tidy the plaster edge around it"
     ]
   },
-  "updated": "2026-11-14"
+  "updated": "2026-11-14",
+  "target": {
+    "concept": "The room is designed — blue vertical tiles, grey stone-effect tiles, oak vanity, black fittings. Target is to finish it: a working, sealed basin and a proper glass shower enclosure.",
+    "mood": [
+      "deep blue",
+      "oak",
+      "black fittings"
+    ],
+    "palette": [
+      {
+        "name": "Deep blue tile (existing)",
+        "hex": "#3E4C6B",
+        "role": "shower and half-height walls"
+      },
+      {
+        "name": "Oak (existing)",
+        "hex": "#C9A46A",
+        "role": "vanity shelves"
+      },
+      {
+        "name": "Matt black",
+        "hex": "#1F1F1F",
+        "role": "tap, shower fittings, shower door frame"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Shower doors",
+        "detail": "Recommendation: black-framed sliding door on a fixed panel, to match the top-floor bathroom and the black fittings here. Measure the opening width at the kerb and at head height (old walls are rarely parallel) and the height available. If the opening is under about 80 cm, a single pivot or bi-fold door instead.",
+        "status": "idea"
+      }
+    ]
+  },
+  "brief": {
+    "scope": [
+      "Fit basin, tap, waste",
+      "Supply and fit shower doors"
+    ],
+    "surfaces": [
+      {
+        "surface": "Basin and vanity (Job 1)",
+        "prep": "Seal the oak first: 3 coats hardwax-oil or marine varnish on all faces, including the cut-outs for tap and waste. Drill the top for the tap and waste if not done.",
+        "finish": "Fit the black tap with flexible connectors to isolating valves; fit click-clack waste and a black or chrome bottle trap (it will be visible under the shelf); bed the basin on clear sanitary silicone; test for leaks",
+        "notes": "Keep the trap and pipes neat — they show between the two shelves"
+      },
+      {
+        "surface": "Shower enclosure (Job 2)",
+        "prep": "Remove the tension rod and curtain. Check the tiled kerb is level and falls inward to the drain",
+        "finish": "Fit enclosure to the tiled walls with the maker's wall profiles; silicone outside edges only; 6–8 mm safety glass",
+        "colour": "Black frame",
+        "notes": "Drill tiles through the grout lines where possible; diamond bit, no hammer action"
+      }
+    ],
+    "notes": [
+      "Electrician to make safe / connect the wires above the basin before the mirror goes up"
+    ]
+  }
 }
