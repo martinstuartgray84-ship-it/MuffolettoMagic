@@ -677,13 +677,46 @@
     "type": "admin",
     "room": "ground-entrance-stair",
     "priority": "medium",
+    "status": "done",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14",
+    "notes": "Jobs: fix and paint, to a designed scheme"
+  },
+  {
+    "id": "t069",
+    "title": "Photograph / sketch the pipe runs marked “TUBI” in the stairwell before they are painted over",
+    "type": "admin",
+    "room": "ground-entrance-stair",
+    "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany",
     "added": "2026-11-14"
   },
   {
-    "id": "t069",
-    "title": "Photograph / sketch the pipe runs marked “TUBI” in the stairwell before they are painted over",
+    "id": "t070",
+    "title": "Stairs job 1: make good all stairwell walls (patches, cracks, peeling paint)",
+    "type": "fix",
+    "room": "ground-entrance-stair",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Decorator",
+    "notes": "Needs a stair tower",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t071",
+    "title": "Stairs job 2: paint hallway and staircase — olive dado scheme (draft, to approve)",
+    "type": "decor",
+    "room": "ground-entrance-stair",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Decorator",
+    "notes": "Approve a 1 m test panel first",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t072",
+    "title": "Approve the staircase paint scheme: olive dado / plain white / terracotta dado",
     "type": "admin",
     "room": "ground-entrance-stair",
     "priority": "medium",
