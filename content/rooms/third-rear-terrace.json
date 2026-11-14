@@ -3,7 +3,7 @@
   "name": "Back terrace",
   "nameIt": "Terrazzo posteriore",
   "floor": "third",
-  "status": "designing",
+  "status": "in-progress",
   "dimensions": {
     "length": 4.0,
     "width": 2.5,
@@ -13,101 +13,149 @@
   "orientation": "Open to the sky; walled on three sides, low wall on the fourth with the barbecue area; reached through the new double doors from the kitchen",
   "photos": [
     {
-      "src": "/photos/third-rear-terrace/01.jpg",
-      "caption": "Looking back at the new kitchen doors: patched render, damp staining at the base, outdoor socket, festoon lights",
+      "src": "/photos/third-rear-terrace/04.jpg",
+      "caption": "House wall with the kitchen doors: patched render, black mould under the scalloped parapet, surface conduit and socket",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
-      "src": "/photos/third-rear-terrace/02.jpg",
-      "caption": "Seating corner: pallet sofas, old shutters hung on the neighbour's stone wall, small bricked-up opening",
+      "src": "/photos/third-rear-terrace/05.jpg",
+      "caption": "Boiler alcove (left of the doors) with its small tiled canopy; satellite dish above; tarpaulin-covered outdoor kitchen beyond",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-rear-terrace/06.jpg",
+      "caption": "The outdoor kitchen under the tarpaulins, with the view to the church and clock tower",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-rear-terrace/07.jpg",
+      "caption": "Seating corner: tall rendered wall (left) and the rough stone wall with hung shutters and a small hatch",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-rear-terrace/08.jpg",
+      "caption": "Corner by the doors: marble threshold step, mould-stained wall, festoon lights",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
       "src": "/photos/third-rear-terrace/03.jpg",
-      "caption": "Barbecue corner and view to the church and clock tower; gas water heater in the alcove on the right; tarp-covered structure",
+      "caption": "Earlier: boiler alcove close-up — Vaillant unit, loose wiring, yellow gas hose",
       "kind": "current",
       "date": "2026-11-14"
     }
   ],
   "current": {
-    "summary": "Roof terrace of about 2.5 × 4 m off the kitchen, terracotta tile floor. Walls on three sides: the house wall with the new kitchen doors (render patched around them, green-yellow damp staining at the base, a crenellated/scalloped parapet top), a high rendered wall, and the rough stone wall of the neighbouring building with an old pair of louvred wooden shutters hung on it as decoration and a small bricked-up opening. The fourth side is a low wall with the barbecue area and a view over the roofs to the church and the clock tower. In a covered alcove: a Vaillant gas water heater with loose wiring and a yellow gas hose, an old brown enamel stove, a flexible metal flue duct. A timber structure with roof tiles on top is wrapped in torn tarpaulins. Furniture: L-shaped pallet seating with navy cushions, wooden dining table, wrought-iron bench, festoon lights.",
+    "summary": "Roof terrace of about 2.5 × 4 m off the kitchen, terracotta tile floor, marble threshold step at the new doors. House wall: patched in several different renders around the doors, heavy black mould staining below the scalloped (tile-edge) parapet, a surface conduit running the full width, an outdoor socket box and festoon lights. To the left of the doors, a recessed alcove under a small tiled canopy holds the Vaillant gas boiler — not yet connected — with loose wiring, a yellow gas hose, an old brown stove and a gas cylinder stored in front. A satellite dish is fixed above. Beyond the alcove, under torn blue and green tarpaulins, is the outdoor kitchen: a timber unit with a tiled roof, with barbecues. Behind it, the view to the church and clock tower. The seating corner is formed by a tall rendered wall, mould-stained, and a rough stone wall with old louvred shutters hung on it and a small wooden hatch. Furniture: pallet seating with navy cushions, wooden table, wrought-iron bench.",
     "keep": [
-      "Terracotta floor tiles",
-      "The stone neighbour wall and the hung shutters — great character",
-      "The view to the church and clock tower"
+      "Terracotta floor and marble threshold",
+      "Rough stone wall with the hung shutters — leave unrendered",
+      "Scalloped parapet edge",
+      "The view"
     ],
     "issues": [
-      "Gas water heater alcove: loose wiring and exposed gas hose — needs a gas engineer check and a proper cover/cabinet",
-      "Torn tarpaulins over the tiled timber structure — what is it? Repair, rebuild as storage, or remove",
-      "Damp/algae staining at the base of the house wall — find the cause (splash-back, no drip, poor drainage) before re-rendering",
-      "Patched render round the new doors to finish; surface-mounted conduit and socket box",
-      "Old stove and duct stored outside"
+      "JOB 1 — Outdoor kitchen (under the tarpaulins): design and rebuild — image to come from ChatGPT",
+      "JOB 2 — Render and paint the walls that belong to the house, smooth and professional",
+      "JOB 3 — Make a door for the boiler alcove so the boiler is hidden",
+      "JOB 4 — Finish installing the boiler: connect gas and thermostat",
+      "To confirm: which walls are ours — the house wall and the tall rendered wall, but not the stone wall?"
     ]
   },
   "updated": "2026-11-14",
   "ref": "Top 5",
   "target": {
-    "concept": "DRAFT — an outdoor dining room. Clear the clutter and the tarps, box the water heater into a neat louvred timber cabinet, render and lime-wash the house wall in a warm white, keep the stone wall raw. Replace the pallets with a built-in masonry bench along the stone wall (cushions in outdoor linen), a proper table for four, the barbecue on the low wall side, festoon lights re-hung on a tidy wire, and big terracotta pots with lemon, rosemary and a climbing jasmine.",
+    "concept": "Smooth, warm-white rendered walls on the house side, the stone wall left rough as the feature, the boiler out of sight behind a louvred door painted to match, cables and conduit hidden, and a proper outdoor kitchen where the tarpaulins are now.",
     "mood": [
       "outdoor dining",
-      "Sicilian",
+      "clean walls, rough stone",
       "warm evenings"
     ],
     "palette": [
       {
-        "name": "Lime White",
+        "name": "Warm white (exterior)",
         "hex": "#E8E1D0",
-        "role": "house wall (exterior lime paint)",
-        "brand": "Farrow & Ball",
-        "code": "No. 1 (exterior / lime equivalent)"
+        "role": "rendered walls",
+        "brand": "Silicate or siloxane exterior paint",
+        "code": "match to Farrow & Ball Lime White No. 1",
+        "finish": "matt mineral",
+        "notes": "Breathable and mould-resistant; avoid plastic acrylic masonry paint on these walls"
       },
       {
-        "name": "Terracotta floor",
+        "name": "Olive green",
+        "hex": "#5E6B4A",
+        "role": "boiler door + outdoor kitchen joinery (suggestion)",
+        "finish": "exterior satin",
+        "notes": "Or oak-tone to match the kitchen doors — to choose"
+      },
+      {
+        "name": "Terracotta floor (existing)",
         "hex": "#B8653F",
-        "role": "floor (existing)"
+        "role": "floor"
       },
       {
-        "name": "Raw stone",
+        "name": "Raw stone (existing)",
         "hex": "#7D7A73",
-        "role": "neighbour wall (leave natural)"
-      },
-      {
-        "name": "Sage",
-        "hex": "#5F7564",
-        "role": "cabinet / bench cushions",
-        "notes": "Ties back to the kitchen"
+        "role": "stone wall — untouched"
       }
     ],
     "furniture": [
       {
-        "name": "Built-in bench along the stone wall",
-        "detail": "Masonry or timber, with outdoor-fabric cushions",
+        "name": "Boiler alcove door",
+        "detail": "Louvred (ventilated) hardwood or aluminium door, hinged, easy to open fully for servicing",
         "status": "idea"
       },
       {
-        "name": "Louvred cabinet for the water heater",
+        "name": "Outdoor kitchen",
+        "detail": "To design from the ChatGPT image: worktop, barbecue position, storage, weather cover",
         "status": "idea"
       }
     ],
     "lighting": [
       {
-        "name": "Festoon lights on a tensioned wire",
+        "name": "Festoon lights re-hung on a tensioned wire after painting",
         "status": "idea"
+      }
+    ],
+    "renderPrompt": "Photorealistic photograph, same camera angle and same architecture — do not move walls, doors, the stone wall or the view. Remove all clutter, tarpaulins, the old stove, ducts and loose cables. Small Sicilian roof terrace: terracotta tile floor, rough grey stone wall with old wooden louvred shutters hung on it, view over tiled roofs to a church and clock tower. The rendered walls are smooth and freshly painted warm white with no stains; the boiler alcove is closed by a neat louvred door. Where the tarpaulins were, a built-in outdoor kitchen: masonry base rendered warm white, a thick wooden or stone worktop, a built-in charcoal barbecue and a gas grill, shelves for wood and pans underneath, a simple tiled or timber canopy. Festoon lights on a taut wire, terracotta pots with a lemon tree, rosemary and jasmine. Golden-hour light, no people."
+  },
+  "brief": {
+    "scope": [
+      "Render and paint the house-side walls",
+      "Boiler alcove door",
+      "Finish boiler installation",
+      "Outdoor kitchen (separate design)"
+    ],
+    "surfaces": [
+      {
+        "surface": "House wall + tall rendered wall (Job 2)",
+        "prep": "Take down festoon lights; electrician to chase the surface conduit and socket into the wall or re-route. Wash with a fungicidal/biocide treatment and leave to work; hack off loose and hollow render; repair; then a full-face mesh-reinforced base coat so the different old patches do not show through.",
+        "finish": "Fine smooth finishing coat, then 2 coats breathable silicate/siloxane exterior paint",
+        "colour": "Warm white",
+        "notes": "The mould sits under the parapet: water is running down the face. Fix the cause first — check the top of the wall/parapet and add a drip edge or capping, or the stain will return through new paint"
       },
       {
-        "name": "Two outdoor wall lights",
-        "status": "idea"
-      }
-    ],
-    "textiles": [
+        "surface": "Stone wall",
+        "prep": "None — not to be rendered. Protect during works.",
+        "finish": "Leave natural",
+        "colour": "—"
+      },
       {
-        "name": "Outdoor linen-look cushions",
-        "detail": "Sage / natural / terracotta stripe",
-        "status": "idea"
+        "surface": "Boiler alcove (Jobs 3 + 4)",
+        "prep": "Boiler first: a registered gas installer connects the gas with fixed pipework (no loose hose), the flue and the thermostat, tests it and issues the declaration of conformity. Then tidy wiring into trunking and render the alcove inside.",
+        "finish": "Louvred door across the opening, painted",
+        "colour": "Olive green or oak-tone — to choose",
+        "notes": "The door MUST be ventilated and must not restrict the flue — follow the boiler manual's clearances. Do not store the gas cylinder or stove in the alcove."
       }
     ],
-    "renderPrompt": "Photorealistic interior photograph, same camera angle, same room geometry, same windows, doors, beams and walls — do not move or invent architecture. Remove ALL clutter: boxes, tools, clothes, bags, bottles, cables, packaging. Restyle as a small Sicilian roof-terrace dining room. Keep the terracotta tile floor, the rough grey stone neighbour wall with the old wooden louvred shutters hung on it, and the view over the roofs to the church and clock tower. Remove the tarpaulins, the old stove and the metal duct; the gas water heater hidden in a neat louvred timber cabinet. House wall freshly rendered and lime-washed in warm white, no damp stains. Replace the pallet seating with a built-in bench along the stone wall with outdoor cushions in sage, natural and terracotta stripe, a solid wood table for four, festoon lights on a taut wire, large terracotta pots with a lemon tree, rosemary and climbing jasmine. Golden-hour light, no people."
+    "notes": [
+      "Order: boiler connection → conduit/cables hidden → render → paint → boiler door → outdoor kitchen → lights back up",
+      "Render in mild dry weather — not in frost or strong sun",
+      "Confirm wall ownership before rendering the tall wall"
+    ],
+    "access": "Through the kitchen — protect the kitchen floor"
   }
 }

@@ -264,33 +264,34 @@
   },
   {
     "id": "t029",
-    "title": "Gas engineer: check the Vaillant water heater, its gas hose and wiring on the back terrace; fit a proper cover",
+    "title": "Back terrace job 4: finish the boiler installation — gas connection, flue, thermostat, test and certificate",
     "type": "fix",
     "room": "third-rear-terrace",
     "priority": "high",
     "status": "todo",
-    "who": "Gas engineer",
-    "notes": "Outdoor heaters need frost protection too — Gratteri winters",
+    "who": "Registered gas installer",
+    "notes": "Fixed pipework, not the loose yellow hose. Ask for the dichiarazione di conformità",
     "added": "2026-11-14"
   },
   {
     "id": "t030",
-    "title": "Remove torn tarps; decide what the tiled timber structure on the back terrace is (repair / storage / remove)",
+    "title": "Back terrace job 1: outdoor kitchen — design (ChatGPT image) and rebuild where the tarpaulins are",
     "type": "project",
     "room": "third-rear-terrace",
     "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": ""
   },
   {
     "id": "t031",
-    "title": "Find the cause of damp staining at the base of the back-terrace house wall, then re-render",
-    "type": "fix",
+    "title": "Back terrace job 2: render and paint the house-side walls (treat mould, fix water running off the parapet first)",
+    "type": "decor",
     "room": "third-rear-terrace",
     "priority": "medium",
     "status": "todo",
-    "who": "Builder",
+    "who": "Builder / decorator",
     "added": "2026-11-14"
   },
   {
@@ -536,6 +537,37 @@
     "priority": "high",
     "status": "todo",
     "who": "Electrician / builder",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t056",
+    "title": "Back terrace job 3: louvred door for the boiler alcove",
+    "type": "project",
+    "room": "third-rear-terrace",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Carpenter",
+    "notes": "Ventilated; after the boiler is connected",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t057",
+    "title": "Back terrace: hide the surface conduit and socket before rendering",
+    "type": "fix",
+    "room": "third-rear-terrace",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Electrician",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t058",
+    "title": "Confirm which terrace walls belong to us (tall rendered wall? stone wall?)",
+    "type": "admin",
+    "room": "third-rear-terrace",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
     "added": "2026-11-14"
   }
 ]
