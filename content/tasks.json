@@ -155,7 +155,7 @@
   },
   {
     "id": "t018",
-    "title": "Kitchen: make safe the open junction box by the terrace doors, the loose cable coil near the hood and the open wall hole",
+    "title": "Kitchen job 4: make safe the open junction box by the terrace doors and the open wall hole",
     "type": "fix",
     "room": "third-kitchen",
     "priority": "high",
@@ -165,7 +165,7 @@
   },
   {
     "id": "t019",
-    "title": "Kitchen: make good and paint walls and ceiling (patches, holes, cracks at downlights)",
+    "title": "Kitchen job 5: make good and paint walls and ceiling",
     "type": "fix",
     "room": "third-kitchen",
     "priority": "medium",
@@ -478,7 +478,7 @@
   },
   {
     "id": "t050",
-    "title": "Kitchen: finish the front window frame and reveal",
+    "title": "Kitchen job 6: finish the front window frame and reveal",
     "type": "fix",
     "room": "third-kitchen",
     "priority": "medium",
@@ -488,10 +488,10 @@
   },
   {
     "id": "t051",
-    "title": "Kitchen: close off the raw end panel of the hob run",
+    "title": "Kitchen job 7: close off the raw end panel of the hob run",
     "type": "fix",
     "room": "third-kitchen",
-    "priority": "low",
+    "priority": "medium",
     "status": "todo",
     "who": "Carpenter",
     "added": "2026-11-14"
@@ -505,6 +505,27 @@
     "status": "todo",
     "who": "Martin & Stefany",
     "notes": "Recommended: aged brass — 7 knobs, 3 cup pulls, 1 bar handle (dishwasher). Check existing hole spacing first",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t053",
+    "title": "Kitchen job 2: wire in and finish the extractor hood (hidden connection, duct or carbon filters, chimney cover)",
+    "type": "fix",
+    "room": "third-kitchen",
+    "priority": "high",
+    "status": "todo",
+    "who": "Electrician",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t054",
+    "title": "Kitchen job 3: fit the new IKEA wall cupboard when delivered",
+    "type": "project",
+    "room": "third-kitchen",
+    "priority": "medium",
+    "status": "waiting",
+    "who": "Martin / carpenter",
+    "notes": "Old walls: use fixings suited to the masonry, not the plugs in the box",
     "added": "2026-11-14"
   }
 ]

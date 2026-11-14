@@ -3,7 +3,7 @@
   "name": "Kitchen",
   "nameIt": "Cucina",
   "floor": "third",
-  "status": "designing",
+  "status": "in-progress",
   "dimensions": {
     "notes": "Sizes to measure (length of each worktop run, room length and width, ceiling height)."
   },
@@ -56,18 +56,18 @@
       "Floor tiles"
     ],
     "issues": [
-      "JOB 1 — Handles needed: 3 drawers, 5 cupboard doors, the dishwasher, plus 2 for the new IKEA wall cupboard = 11 handles",
-      "Proposed by Claude (not yet agreed): Walls: patched plaster in many places, unpainted — around the terrace doors, the utility end, the arch and above the splashbacks",
-      "Proposed by Claude (not yet agreed): Ceiling: holes, cracks radiating from the downlights, old fixing points — fill, skim, paint",
-      "Proposed by Claude (not yet agreed): Loose coil of cable hanging at the ceiling near the hood; open junction box with wires beside the terrace doors; open hole high on the wall at the utility end",
-      "Proposed by Claude (not yet agreed): Front window: frame and reveal unfinished (raw timber / exposed edges) — needs finishing or replacing",
-      "Proposed by Claude (not yet agreed): End panel of the hob run is unfinished (raw edge with trim)",
-      "Proposed by Claude (not yet agreed): Wall cabinets are charcoal, units are teal — intended, or to be unified?",
-      "Proposed by Claude (not yet agreed): Terrace doors sit above floor level with a raw sill/threshold inside"
+      "JOB 1 — Handles: 3 drawers, 5 cupboard doors, dishwasher, 2 for the IKEA wall cupboard = 11",
+      "JOB 2 — Extractor hood: wire in and finish (the loose cable coil beside it is its supply; duct and chimney cover to complete)",
+      "JOB 3 — Fit the new IKEA wall cupboard when it arrives",
+      "JOB 4 — Electrics: make safe the open junction box by the terrace doors and the open hole high on the wall",
+      "JOB 5 — Walls and ceiling: make good patches, holes and cracks at the downlights, then paint",
+      "JOB 6 — Front window: finish the frame and reveal",
+      "JOB 7 — Close off the raw end panel of the hob run",
+      "To decide: charcoal wall cabinets vs teal units — keep as is or unify; terrace-door inside sill/threshold finish"
     ]
   },
   "target": {
-    "concept": "DRAFT, pending your job list — the kitchen itself is done; the room around it is not. Target: smooth finished walls and ceiling in warm white, electrics made safe and tidied, the front window finished, the arch resolved, and the unit end panel closed off. No change to units, worktop, tiles or appliances.",
+    "concept": "The kitchen itself is done; seven jobs finish the room around it: handles, the hood wired in, the IKEA cupboard up, electrics safe, walls and ceiling smooth and painted warm white, the window finished and the unit end closed. No change to units, worktop, tiles or appliances.",
     "mood": [
       "finish, don't redo",
       "teal + walnut + brass"
@@ -123,12 +123,20 @@
   "ref": "Top 2",
   "brief": {
     "scope": [
+      "Wire in and finish the extractor hood",
+      "Make safe remaining electrics",
+      "Fit IKEA wall cupboard and 11 handles",
       "Make good and paint walls and ceiling",
-      "Tidy and make safe electrics",
       "Finish front window reveal",
       "Close unit end panel"
     ],
     "surfaces": [
+      {
+        "surface": "Extractor hood",
+        "prep": "Electrician: permanent connection via a fused spur or socket hidden inside the chimney — no trailing cable. Confirm whether it ducts outside (hole through the wall + external grille) or recirculates (carbon filters fitted).",
+        "finish": "Fit chimney cover to the ceiling; make good the wall around it",
+        "notes": "Gas hob below: check the hood height against the hob maker's minimum (usually 65–75 cm)"
+      },
       {
         "surface": "Walls",
         "prep": "Fill and sand patches, skim where needed, mist coat on new plaster",
@@ -143,7 +151,7 @@
       }
     ],
     "notes": [
-      "Electrician first (junction box, loose cable, wall hole), then plaster, then paint",
+      "Order: electrician (hood, junction box) → plaster → paint → IKEA cupboard → handles",
       "Protect units, worktops and floor"
     ]
   }
