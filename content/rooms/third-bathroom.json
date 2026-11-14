@@ -3,17 +3,85 @@
   "name": "Bathroom",
   "nameIt": "Bagno, ultimo piano",
   "floor": "third",
-  "status": "survey",
+  "status": "designing",
   "dimensions": {
-    "notes": "New, smaller bathroom in the front-left corner, inside the old side room (≈2.8 × 1.45 m on the 2024 survey). As-built size to measure."
+    "notes": "Front part of the old side room, shortened when the wall at the end of the corridor was moved (marked on the plan). As-built size to measure."
   },
-  "photos": [],
+  "photos": [
+    {
+      "src": "/photos/third-bathroom/01.jpg",
+      "caption": "From the doorway: back-to-wall WC with concealed cistern, black-framed sliding shower, small square basin",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-bathroom/02.jpg",
+      "caption": "Through the old panelled door: pink ceiling, disco ball, vertical tiles in the shower",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "New small bathroom in the front-left corner of the top floor. The old bathtub has been replaced by a shower; there is a WC and a small basin. Entered from the end of the kitchen, next to the fridge/washing-machine bay.",
-    "keep": [],
-    "issues": []
+    "summary": "Newly fitted small shower room. Black-framed sliding glass shower enclosure over a dark slate-effect tray with a black thermostatic rain-shower set; walls tiled in narrow vertical stacked tiles in a soft blush-white (zellige look) in the shower, large grey stone-effect tiles elsewhere; floor in large light-grey tiles. Back-to-wall WC with concealed cistern and white flush plate; small square wall-hung basin with a black tap. Black wire shelving, a cluster of Edison-bulb wall lights, a disco ball on a pink-painted ceiling. Entered through an old painted panelled door with ornate brass handles.",
+    "keep": [
+      "Shower enclosure, tray and black fittings — new and good",
+      "Vertical blush tiles",
+      "Old panelled door with brass furniture — strip and repaint, it has character",
+      "The pink ceiling and disco ball, if it makes you smile — it's that kind of room"
+    ],
+    "issues": [
+      "Basin waste is an exposed white flexible pipe — replace with a proper black bottle trap or a small vanity shelf to hide it",
+      "Door frame and wall reveal on the kitchen side unfinished (broken plaster)",
+      "No window visible — check there is a working extractor fan",
+      "Black fittings + brass handles + white plate — choose one metal finish going forward"
+    ]
   },
   "updated": "2026-11-14",
   "ref": "Top 1",
-  "orientation": "Front left corner of the house (street side)"
+  "orientation": "Front corner of the top floor, at the end of the kitchen beside the appliance bay. No window seen — ventilation to confirm",
+  "target": {
+    "concept": "DRAFT — finish what's there rather than redo it: hide the basin plumbing under a small timber or stone shelf, a round mirror with an aged-brass frame, one good warm wall light, a black or brass towel rail and hooks, and finish the door and its frame. Keep the pink if you love it — it works with terracotta and the blush tiles.",
+    "mood": [
+      "small",
+      "playful",
+      "warm"
+    ],
+    "palette": [
+      {
+        "name": "Blush tile (existing)",
+        "hex": "#E9D8CE",
+        "role": "shower walls"
+      },
+      {
+        "name": "Dead Salmon",
+        "hex": "#A97F72",
+        "role": "ceiling (if repainting the pink in a softer tone)",
+        "brand": "Farrow & Ball",
+        "code": "No. 28",
+        "notes": "HEX approximate"
+      },
+      {
+        "name": "Lime White",
+        "hex": "#E8E1D0",
+        "role": "door + frame",
+        "brand": "Farrow & Ball",
+        "code": "No. 1",
+        "finish": "eggshell"
+      }
+    ],
+    "materials": [
+      {
+        "name": "Basin shelf / mini vanity",
+        "detail": "Oak or local stone, hides the waste",
+        "status": "idea"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "IP44 wall light by the mirror",
+        "detail": "Warm 2700K",
+        "status": "idea"
+      }
+    ]
+  }
 }

@@ -270,5 +270,111 @@
     "who": "Martin & Stefany",
     "notes": "After insulation check (t021) and headroom measurements",
     "added": "2026-11-14"
+  },
+  {
+    "id": "t029",
+    "title": "Gas engineer: check the Vaillant water heater, its gas hose and wiring on the back terrace; fit a proper cover",
+    "type": "fix",
+    "room": "third-rear-terrace",
+    "priority": "high",
+    "status": "todo",
+    "who": "Gas engineer",
+    "notes": "Outdoor heaters need frost protection too — Gratteri winters",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t030",
+    "title": "Remove torn tarps; decide what the tiled timber structure on the back terrace is (repair / storage / remove)",
+    "type": "project",
+    "room": "third-rear-terrace",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t031",
+    "title": "Find the cause of damp staining at the base of the back-terrace house wall, then re-render",
+    "type": "fix",
+    "room": "third-rear-terrace",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Builder",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t032",
+    "title": "Clean, repair and paint the front-terrace walls (mineral/lime exterior paint)",
+    "type": "decor",
+    "room": "third-front-terrace",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Decorator",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t033",
+    "title": "Paint or replace the orange downpipe; move/replace the antenna mast on the front terrace",
+    "type": "fix",
+    "room": "third-front-terrace",
+    "priority": "low",
+    "status": "todo",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t034",
+    "title": "Restore the two built-in green cupboards in the lounge",
+    "type": "decor",
+    "room": "third-lounge",
+    "priority": "low",
+    "status": "todo",
+    "who": "Decorator / carpenter",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t035",
+    "title": "Check the damaged skirting / black membrane by the lounge back doors for damp",
+    "type": "fix",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Builder",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t036",
+    "title": "Bathroom: replace the exposed basin waste (bottle trap or small shelf), finish the door frame, check extractor fan",
+    "type": "fix",
+    "room": "third-bathroom",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Plumber / builder",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t037",
+    "title": "Decide: one barbecue terrace (front or back)?",
+    "type": "admin",
+    "priority": "low",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t038",
+    "title": "Re-send top-floor photos with clutter removed (iPhone Photos → Edit → Clean Up, or Google Photos Magic Eraser)",
+    "type": "admin",
+    "priority": "low",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t039",
+    "title": "Terracotta pots + plants for both terraces (lemon, olive, rosemary, jasmine, geraniums)",
+    "type": "buy",
+    "priority": "low",
+    "status": "todo",
+    "added": "2026-11-14"
   }
 ]

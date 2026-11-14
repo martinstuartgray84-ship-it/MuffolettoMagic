@@ -11,9 +11,16 @@
     "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. Boarded front section only; heights under the slope not surveyed."
   },
   "orientation": "One small window in the angled wall",
-  "photos": [],
+  "photos": [
+    {
+      "src": "/photos/third-lounge/01.jpg",
+      "caption": "The high ledge (old attic floor) and attic window, from the lounge",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "The attic is now open to the lounge since the ceiling came out. What to do with it is still to be decided — options to explore: a mezzanine/reading loft, storage, or simply leaving the volume open and making the roof structure a feature. Needs photos and headroom measurements first.",
+    "summary": "Now part of the lounge: with the ceiling removed, the attic volume is open to the room below. What remains of the old attic floor is the high white ledge over the niche on the angled side, with the small attic window. Decide what it becomes — a reachable display/storage shelf, a small reading loft with a ladder, or simply open volume.",
     "keep": [],
     "issues": [
       "Headroom under the pitch to be measured",

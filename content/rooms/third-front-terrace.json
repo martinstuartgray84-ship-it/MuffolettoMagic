@@ -3,7 +3,7 @@
   "name": "Front terrace",
   "nameIt": "Terrazzo anteriore",
   "floor": "third",
-  "status": "survey",
+  "status": "designing",
   "dimensions": {
     "length": 6.1,
     "width": 1.35,
@@ -11,14 +11,79 @@
     "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
   },
   "orientation": "Street-facing, full width of the façade, balustrade with two piers",
-  "photos": [],
+  "photos": [
+    {
+      "src": "/photos/third-front-terrace/02.jpg",
+      "caption": "Looking along the terrace: lounge doors open, gas barbecue, antenna mast",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-front-terrace/03.jpg",
+      "caption": "Mountain end: bistro chairs, orange downpipe, view to the mountains",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-front-terrace/01.jpg",
+      "caption": "The front double doors from outside — painted green, reflecting the village",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "Full-width terrace across the top of the façade over Largo Pietra Rossa, reached through the lounge's front double doors. Railings between masonry piers. Awaiting photos.",
+    "summary": "Long, narrow terrace (≈6.1 × 1.35 m) across the top of the façade, reached through the lounge's front double doors — which are painted a deep green outside. Red quarry-tile floor, iron railings between rendered masonry piers. One end has a gas barbecue, a folding table and the TV antenna mast; the other end looks straight at the mountains, with two bistro chairs. The house wall is weathered render with mould staining and patches, a new dark metal gutter at the eaves and an orange PVC downpipe.",
     "keep": [
-      "Balustrade railings"
+      "Green-painted front doors",
+      "Iron railings",
+      "The views: village, church and the mountain"
     ],
-    "issues": []
+    "issues": [
+      "Weathered render with mould staining — clean, repair, mineral/lime paint",
+      "Bright orange PVC downpipe — paint to match the wall or replace",
+      "Antenna mast in the middle of the view — move or replace",
+      "Door bottom rails weathered; check draught seal",
+      "Barbecue here and on the back terrace — decide which terrace is for cooking"
+    ]
   },
   "updated": "2026-11-14",
-  "ref": "Top 6"
+  "ref": "Top 6",
+  "target": {
+    "concept": "DRAFT — the view terrace. Keep it simple and narrow-friendly: a slim bench or two bistro chairs and a small round table at the mountain end for morning coffee and sunset drinks, a row of terracotta pots (geraniums, herbs, a small olive) along the railing base, the wall cleaned and painted warm white, and the downpipe and antenna dealt with so nothing interrupts the view.",
+    "mood": [
+      "view",
+      "morning coffee",
+      "Sicilian balcony"
+    ],
+    "palette": [
+      {
+        "name": "Lime White",
+        "hex": "#E8E1D0",
+        "role": "walls (exterior)",
+        "brand": "Farrow & Ball",
+        "code": "No. 1 (exterior / lime equivalent)"
+      },
+      {
+        "name": "Door green (existing)",
+        "hex": "#2F4A33",
+        "role": "doors — keep, repaint same colour"
+      },
+      {
+        "name": "Railing black",
+        "hex": "#2B2B2B",
+        "role": "railings"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Small round bistro table + 2 chairs",
+        "detail": "Iron, folding",
+        "status": "idea"
+      },
+      {
+        "name": "Terracotta pots along the railing",
+        "status": "idea"
+      }
+    ]
+  }
 }

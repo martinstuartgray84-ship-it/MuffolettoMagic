@@ -3,7 +3,7 @@
   "name": "Back terrace",
   "nameIt": "Terrazzo posteriore",
   "floor": "third",
-  "status": "survey",
+  "status": "designing",
   "dimensions": {
     "length": 4.0,
     "width": 2.5,
@@ -13,17 +13,100 @@
   "orientation": "Open to the sky; walled on three sides, low wall on the fourth with the barbecue area; reached through the new double doors from the kitchen",
   "photos": [
     {
-      "src": "/photos/third-kitchen/02.jpg",
-      "caption": "Seen through the new doors",
+      "src": "/photos/third-rear-terrace/01.jpg",
+      "caption": "Looking back at the new kitchen doors: patched render, damp staining at the base, outdoor socket, festoon lights",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-rear-terrace/02.jpg",
+      "caption": "Seating corner: pallet sofas, old shutters hung on the neighbour's stone wall, small bricked-up opening",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-rear-terrace/03.jpg",
+      "caption": "Barbecue corner and view to the church and clock tower; gas water heater in the alcove on the right; tarp-covered structure",
       "kind": "current",
       "date": "2026-11-14"
     }
   ],
   "current": {
-    "summary": "Roof terrace of about 2.5 × 4 m at the back, off the kitchen through the new double doors. Enclosed by walls on three sides (one is the rough stone wall of the neighbouring building) and a low wall on the fourth side, where the barbecue area is. Terracotta tile floor. Furnished with a pallet sofa with cushions and a dining table.",
-    "keep": [],
-    "issues": []
+    "summary": "Roof terrace of about 2.5 × 4 m off the kitchen, terracotta tile floor. Walls on three sides: the house wall with the new kitchen doors (render patched around them, green-yellow damp staining at the base, a crenellated/scalloped parapet top), a high rendered wall, and the rough stone wall of the neighbouring building with an old pair of louvred wooden shutters hung on it as decoration and a small bricked-up opening. The fourth side is a low wall with the barbecue area and a view over the roofs to the church and the clock tower. In a covered alcove: a Vaillant gas water heater with loose wiring and a yellow gas hose, an old brown enamel stove, a flexible metal flue duct. A timber structure with roof tiles on top is wrapped in torn tarpaulins. Furniture: L-shaped pallet seating with navy cushions, wooden dining table, wrought-iron bench, festoon lights.",
+    "keep": [
+      "Terracotta floor tiles",
+      "The stone neighbour wall and the hung shutters — great character",
+      "The view to the church and clock tower"
+    ],
+    "issues": [
+      "Gas water heater alcove: loose wiring and exposed gas hose — needs a gas engineer check and a proper cover/cabinet",
+      "Torn tarpaulins over the tiled timber structure — what is it? Repair, rebuild as storage, or remove",
+      "Damp/algae staining at the base of the house wall — find the cause (splash-back, no drip, poor drainage) before re-rendering",
+      "Patched render round the new doors to finish; surface-mounted conduit and socket box",
+      "Old stove and duct stored outside"
+    ]
   },
   "updated": "2026-11-14",
-  "ref": "Top 5"
+  "ref": "Top 5",
+  "target": {
+    "concept": "DRAFT — an outdoor dining room. Clear the clutter and the tarps, box the water heater into a neat louvred timber cabinet, render and lime-wash the house wall in a warm white, keep the stone wall raw. Replace the pallets with a built-in masonry bench along the stone wall (cushions in outdoor linen), a proper table for four, the barbecue on the low wall side, festoon lights re-hung on a tidy wire, and big terracotta pots with lemon, rosemary and a climbing jasmine.",
+    "mood": [
+      "outdoor dining",
+      "Sicilian",
+      "warm evenings"
+    ],
+    "palette": [
+      {
+        "name": "Lime White",
+        "hex": "#E8E1D0",
+        "role": "house wall (exterior lime paint)",
+        "brand": "Farrow & Ball",
+        "code": "No. 1 (exterior / lime equivalent)"
+      },
+      {
+        "name": "Terracotta floor",
+        "hex": "#B8653F",
+        "role": "floor (existing)"
+      },
+      {
+        "name": "Raw stone",
+        "hex": "#7D7A73",
+        "role": "neighbour wall (leave natural)"
+      },
+      {
+        "name": "Sage",
+        "hex": "#5F7564",
+        "role": "cabinet / bench cushions",
+        "notes": "Ties back to the kitchen"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Built-in bench along the stone wall",
+        "detail": "Masonry or timber, with outdoor-fabric cushions",
+        "status": "idea"
+      },
+      {
+        "name": "Louvred cabinet for the water heater",
+        "status": "idea"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "Festoon lights on a tensioned wire",
+        "status": "idea"
+      },
+      {
+        "name": "Two outdoor wall lights",
+        "status": "idea"
+      }
+    ],
+    "textiles": [
+      {
+        "name": "Outdoor linen-look cushions",
+        "detail": "Sage / natural / terracotta stripe",
+        "status": "idea"
+      }
+    ]
+  }
 }
