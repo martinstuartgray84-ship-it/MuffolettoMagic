@@ -652,12 +652,23 @@
   },
   {
     "id": "t066",
-    "title": "Design the way up to the attic ledge (ladder or steps) and measure the headroom up there",
+    "title": "Design the way up to the attic ledge (ladder or steps) — sitting-height space",
     "type": "project",
     "room": "third-lounge",
     "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany / carpenter",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t067",
+    "title": "Water tank in the lounge reading nook? Get a structural engineer / geometra to check the floor before deciding (750 L ≈ 800 kg full)",
+    "type": "project",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Geometra / Studio A3",
+    "notes": "Nook 96 × 122 × 130 cm. Compare with A3's plan for a tank + booster pump in the ground-floor store",
     "added": "2026-11-14"
   }
 ]

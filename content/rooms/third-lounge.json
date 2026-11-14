@@ -9,7 +9,7 @@
     "width": 2.85,
     "height": 2.42,
     "area": 15.0,
-    "notes": "Plan size scaled from the 1:50 survey (±10 cm). 2.42 m was the old ceiling height — the ceiling has since been removed, so the room now rises to the exposed beams/boards. New height to the boards and to the ridge: to measure."
+    "notes": "Plan size scaled from the 1:50 survey (±10 cm). 2.42 m was the old ceiling height — the ceiling has since been removed, so the room now rises to the exposed beams/boards. New height to the boards and to the ridge: to measure. Reading nook (measured by the owners): 96 cm wide × 122 cm deep × 130 cm high — the enclosed part only; the seat ledge extends a further 82 cm in front. Attic ledge above: sitting height only."
   },
   "orientation": "Double doors at the front onto the front terrace (green outside, natural wood with folding shutters inside); double doors at the back, in a recess, onto a tiny terrace",
   "photos": [
@@ -106,6 +106,7 @@
       "JOB 5 — TV unit top (50 × 220 cm): replace the pink plasterboard cover with a proper top",
       "JOB 6 — Ceiling timbers: treat and finish (varnish)",
       "JOB 7 — Paint the walls",
+      "IDEA — possible 750-litre water tank inside the reading nook (96 × 122 × 130 cm): needs a structural check first — about 800 kg when full",
       "Proposed by Claude (not yet agreed): Back-door recess is unfinished: open wiring boxes, an exposed cable chase up the wall, black membrane showing at the floor, no skirting",
       "Proposed by Claude (not yet agreed): Thin cables to the new recess lights are visible on the wall; pendant flexes are draped across the beams; a white conduit runs down beside the arch",
       "Proposed by Claude (not yet agreed): Rough unfinished render above the recess next to the arch; two rough plaster patches in a recess on the ledge",
@@ -176,7 +177,7 @@
     "furniture": [
       {
         "name": "Balustrade for the attic ledge",
-        "detail": "The ledge will be used as a chill-out area, so this is a safety guard: about 1 m high, gaps under 10 cm, nothing climbable, posts bolted into solid masonry. Slim black iron with vertical bars. Include a gate or opening where the access comes up.",
+        "detail": "The ledge will be a sit-on-cushions chill-out area, so this is a safety guard: about 1 m high, gaps under 10 cm, nothing climbable, posts bolted into solid masonry. Slim black iron with vertical bars. Include a gate or opening where the access comes up.",
         "status": "idea"
       },
       {
