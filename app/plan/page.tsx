@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getHouse, getRooms, area } from "@/lib/content";
 import { StatusPill } from "@/components/ui";
-import TopFloorPlan from "@/components/TopFloorPlan";
 
 export const metadata = { title: "Floor plan · Casa Muffoletto" };
 
@@ -40,12 +39,7 @@ export default function Plan() {
             <h2>{f.name} {f.nameIt && <span className="muted small"> · {f.nameIt}</span>}</h2>
             {f.notes && <p className="muted">{f.notes}</p>}
             {f.id === "outside" && <p className="small"><a href="/plans/roof.png" target="_blank" rel="noreferrer">Open the roof plan →</a></p>}
-            {f.id === "third" ? (
-              <>
-                <TopFloorPlan />
-                <p className="small"><a href={f.plan} target="_blank" rel="noreferrer">Your hand mark-up</a> · <a href="/plans/third.png" target="_blank" rel="noreferrer">original 2024 survey sheet</a></p>
-              </>
-            ) : f.plan ? (
+            {f.plan ? (
               <a href={f.plan} target="_blank" rel="noreferrer">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={f.plan} alt={`${f.name} plan`} style={{ width: "100%", maxHeight: "80vh", objectFit: "contain", background: "#fff", border: "1px solid var(--line)", borderRadius: 10 }} />

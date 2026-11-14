@@ -1,3 +1,4 @@
+// NOTE (Nov 2026): owners said this drawing is wrong — not shown on the site until corrected from their input.
 /**
  * Top floor — as built (Nov 2026), drawn over the 2024 survey sheet (/plans/third.png).
  * Units are survey-image pixels: 1 m ≈ 130 px (1:50 sheet rendered at 165 dpi).
