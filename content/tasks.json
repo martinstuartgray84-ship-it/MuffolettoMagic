@@ -334,13 +334,14 @@
   },
   {
     "id": "t036",
-    "title": "Bathroom: replace the exposed basin waste (bottle trap or small shelf), finish the door frame, check extractor fan",
+    "title": "Bathroom — optional extras suggested by Claude: hide the basin waste pipe, finish the door frame, confirm extractor fan",
     "type": "fix",
     "room": "third-bathroom",
-    "priority": "medium",
+    "priority": "low",
     "status": "todo",
     "who": "Plumber / builder",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Not on the owners' job list — only if wanted"
   },
   {
     "id": "t037",
@@ -365,6 +366,24 @@
     "title": "Terracotta pots + plants for both terraces (lemon, olive, rosemary, jasmine, geraniums)",
     "type": "buy",
     "priority": "low",
+    "status": "todo",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t040",
+    "title": "Bathroom job 1: fix behind the toilet",
+    "type": "fix",
+    "room": "third-bathroom",
+    "priority": "high",
+    "status": "todo",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t041",
+    "title": "Bathroom job 2: tile over the glass tiles",
+    "type": "decor",
+    "room": "third-bathroom",
+    "priority": "high",
     "status": "todo",
     "added": "2026-11-14"
   }

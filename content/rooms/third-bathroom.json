@@ -3,7 +3,7 @@
   "name": "Bathroom",
   "nameIt": "Bagno, ultimo piano",
   "floor": "third",
-  "status": "designing",
+  "status": "in-progress",
   "dimensions": {
     "notes": "Size to measure."
   },
@@ -22,7 +22,7 @@
     }
   ],
   "current": {
-    "summary": "Newly fitted small shower room. Black-framed sliding glass shower enclosure over a dark slate-effect tray with a black thermostatic rain-shower set; walls tiled in narrow vertical stacked tiles in a soft blush-white (zellige look) in the shower, large grey stone-effect tiles elsewhere; floor in large light-grey tiles. Back-to-wall WC with concealed cistern and white flush plate; small square wall-hung basin with a black tap. Black wire shelving, a cluster of Edison-bulb wall lights, a disco ball on a pink-painted ceiling. Entered through an old painted panelled door with ornate brass handles.",
+    "summary": "Newly fitted small shower room — mostly finished; two jobs left (see list). Black-framed sliding glass shower enclosure over a dark slate-effect tray with a black thermostatic rain-shower set; walls tiled in narrow vertical stacked tiles in a soft blush-white (zellige look) in the shower, large grey stone-effect tiles elsewhere; floor in large light-grey tiles. Back-to-wall WC with concealed cistern and white flush plate; small square wall-hung basin with a black tap. Black wire shelving, a cluster of Edison-bulb wall lights, a disco ball on a pink-painted ceiling. Entered through an old painted panelled door with ornate brass handles.",
     "keep": [
       "Shower enclosure, tray and black fittings — new and good",
       "Vertical blush tiles",
@@ -30,10 +30,8 @@
       "The pink ceiling and disco ball, if it makes you smile — it's that kind of room"
     ],
     "issues": [
-      "Basin waste is an exposed white flexible pipe — replace with a proper black bottle trap or a small vanity shelf to hide it",
-      "Door frame and wall reveal on the kitchen side unfinished (broken plaster)",
-      "No window visible — check there is a working extractor fan",
-      "Black fittings + brass handles + white plate — choose one metal finish going forward"
+      "JOB 1 — Fix behind the toilet (details to come with the photo)",
+      "JOB 2 — Tile over the glass tiles (which wall, and which tile, to confirm)"
     ]
   },
   "updated": "2026-11-14",
@@ -84,5 +82,14 @@
       }
     ],
     "renderPrompt": "Photorealistic interior photograph, same camera angle, same room geometry, same windows, doors, beams and walls — do not move or invent architecture. Remove ALL clutter: boxes, tools, clothes, bags, bottles, cables, packaging. Restyle as a finished tiny shower room. Keep the black-framed sliding shower enclosure, dark shower tray, black shower set and the vertical blush-white tiles, keep the white back-to-wall WC. Hide the basin plumbing with a small oak shelf under the square basin, add a round aged-brass framed mirror above it, one warm wall light, a black towel rail with a natural linen towel. Paint the old panelled door and its frame in warm white eggshell, keep its brass handles; the ceiling in a soft dusty pink. Tidy, calm, boutique-hotel feel, no people."
+  },
+  "brief": {
+    "scope": [
+      "Job 1: make good behind the WC",
+      "Job 2: tile over the existing glass tiles"
+    ],
+    "notes": [
+      "Room is otherwise complete — do not disturb the shower enclosure, tray or fittings"
+    ]
   }
 }
