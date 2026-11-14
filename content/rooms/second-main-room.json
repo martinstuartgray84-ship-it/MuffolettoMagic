@@ -3,7 +3,7 @@
   "name": "Second-floor bedroom",
   "nameIt": "Camera da letto, secondo piano",
   "floor": "second",
-  "status": "designing",
+  "status": "approved",
   "dimensions": {
     "length": 4.3,
     "width": 4.0,
@@ -42,6 +42,12 @@
       "caption": "TV on the dark chest of drawers, brass chandelier, door with filler patches, cable strung across the ceiling",
       "kind": "current",
       "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/second-main-room/06.jpg",
+      "caption": "Target image (supplied by Martin & Stefany): terracotta ceiling and cornice, pale mushroom walls, charcoal doors, frames and skirting",
+      "kind": "render",
+      "date": "2026-11-14"
     }
   ],
   "current": {
@@ -55,7 +61,7 @@
       "The disco ball, if it stays"
     ],
     "issues": [
-      "JOB — Paint to the owners' scheme: doors charcoal (to match the dark furniture), walls mushroom, ceiling terracotta — target image to follow",
+      "JOB — Paint to the owners' scheme (target image on this page): terracotta ceiling and cornice, pale mushroom walls, charcoal doors, frames and skirting",
       "Proposed by Claude (not yet agreed): Cornice: repair the broken corner (cast a matching section) and close the hole; make good where pipes went through",
       "Proposed by Claude (not yet agreed): Walls: record the pipe runs, then fill, sand and repaint — pencil marks, patches, cracks",
       "Proposed by Claude (not yet agreed): Ceiling: remove the strung cord and re-route the chandelier cable properly inside the ceiling or neatly along the cornice",
@@ -69,7 +75,7 @@
   },
   "updated": "2026-11-14",
   "target": {
-    "concept": "The owners' scheme: mushroom walls, a terracotta ceiling, and all the woodwork — doors, frames, built-in cupboard — in the same charcoal as the dark furniture (bed frame, chest of drawers, bedside tables). The patterned floor and the plaster cornice stay as the room's original features. Target image to be added.",
+    "concept": "The owners' scheme, as in the target image: a terracotta ceiling with the plaster cornice painted the same terracotta, pale warm mushroom walls, and all the woodwork — doors, frames, window reveals' trim, skirting — in charcoal to match the dark furniture. The patterned floor, the walnut wardrobe, the gilt mirror and the brass chandelier carry the warmth.",
     "mood": [
       "mushroom",
       "terracotta",
@@ -78,37 +84,31 @@
     ],
     "palette": [
       {
-        "name": "Mushroom",
-        "hex": "#B9AC9B",
-        "role": "walls",
+        "name": "Terracotta",
+        "hex": "#A85B42",
+        "role": "ceiling, cornice and ceiling rose — all one colour",
         "brand": "Farrow & Ball",
-        "code": "suggestion: Jitney No. 293 or Stony Ground No. 211 — to confirm against the target image",
+        "code": "closest: Red Earth No. 64 — or colour-match to the target image",
         "finish": "matt",
-        "notes": "HEX approximate"
+        "notes": "HEX read from the target image, approximate"
       },
       {
-        "name": "Terracotta",
-        "hex": "#B47750",
-        "role": "ceiling",
+        "name": "Pale mushroom",
+        "hex": "#DCCDB8",
+        "role": "walls",
         "brand": "Farrow & Ball",
-        "code": "suggestion: Red Earth No. 64 — or the staircase terracotta, so the two relate",
+        "code": "closest: Stony Ground No. 211 (a touch deeper: Jitney No. 293)",
         "finish": "matt",
-        "notes": "HEX approximate"
+        "notes": "In the image the walls read as a light warm mushroom-cream — lighter than a mid mushroom"
       },
       {
         "name": "Charcoal",
-        "hex": "#3A3936",
-        "role": "doors, frames, built-in cupboard doors, skirting band",
+        "hex": "#2F3033",
+        "role": "doors, frames, built-in cupboard, skirting",
         "brand": "Farrow & Ball",
-        "code": "suggestion: Off-Black No. 57 — or colour-match to the chest of drawers",
+        "code": "closest: Off-Black No. 57 or Railings No. 31 — or colour-match to the chest of drawers",
         "finish": "eggshell",
         "notes": "Take a drawer to the paint shop for an exact match"
-      },
-      {
-        "name": "Cornice — to decide",
-        "hex": "#E3D8C3",
-        "role": "plaster cornice",
-        "notes": "Recommendation: a soft off-white, so it frames the terracotta ceiling and its pattern shows. Alternative: paint it terracotta with the ceiling"
       }
     ],
     "lighting": [
@@ -128,19 +128,20 @@
         "surface": "Ceiling",
         "prep": "Re-route the chandelier cable first; fill, sand",
         "finish": "2 coats matt",
-        "colour": "Terracotta"
+        "colour": "Terracotta",
+        "notes": "The image shows a plaster ceiling rose at the chandelier — the room does not appear to have one; add a cast plaster rose only if wanted"
       },
       {
         "surface": "Cornice",
         "prep": "Cast and fit the missing corner section; close the hole; clean out old paint from the detail gently",
-        "finish": "2 coats matt, brushed into the relief",
-        "colour": "Soft off-white (recommended) — to decide"
+        "finish": "2 coats matt, brushed well into the relief",
+        "colour": "Terracotta, same as the ceiling"
       },
       {
         "surface": "Walls",
         "prep": "Record pipe runs; fill patches and cracks, sand, spot-prime; stain-block the pencil marks",
         "finish": "2 coats matt",
-        "colour": "Mushroom"
+        "colour": "Pale mushroom"
       },
       {
         "surface": "Doors, frames, built-in cupboard, skirting band",

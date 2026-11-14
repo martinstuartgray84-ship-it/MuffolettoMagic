@@ -777,13 +777,13 @@
   },
   {
     "id": "t078",
-    "title": "Bedroom: paint — mushroom walls, terracotta ceiling, charcoal doors and woodwork",
+    "title": "Bedroom: paint — terracotta ceiling and cornice, pale mushroom walls, charcoal doors, frames and skirting",
     "type": "decor",
     "room": "second-main-room",
     "priority": "medium",
     "status": "todo",
     "who": "Decorator",
-    "notes": "Confirm exact colours against the target image; sample patches first",
+    "notes": "Sample patches of all three together first",
     "added": "2026-11-14"
   },
   {
@@ -792,7 +792,7 @@
     "type": "admin",
     "room": "second-main-room",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
     "added": "2026-11-14"
   }
