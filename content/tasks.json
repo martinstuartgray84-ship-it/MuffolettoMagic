@@ -774,5 +774,26 @@
     "status": "todo",
     "who": "Electrician",
     "added": "2026-11-14"
+  },
+  {
+    "id": "t078",
+    "title": "Bedroom: paint — mushroom walls, terracotta ceiling, charcoal doors and woodwork",
+    "type": "decor",
+    "room": "second-main-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Decorator",
+    "notes": "Confirm exact colours against the target image; sample patches first",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t079",
+    "title": "Share the bedroom target image with Claude",
+    "type": "admin",
+    "room": "second-main-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
   }
 ]

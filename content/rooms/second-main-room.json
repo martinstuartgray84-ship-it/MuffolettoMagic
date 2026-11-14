@@ -55,6 +55,7 @@
       "The disco ball, if it stays"
     ],
     "issues": [
+      "JOB — Paint to the owners' scheme: doors charcoal (to match the dark furniture), walls mushroom, ceiling terracotta — target image to follow",
       "Proposed by Claude (not yet agreed): Cornice: repair the broken corner (cast a matching section) and close the hole; make good where pipes went through",
       "Proposed by Claude (not yet agreed): Walls: record the pipe runs, then fill, sand and repaint — pencil marks, patches, cracks",
       "Proposed by Claude (not yet agreed): Ceiling: remove the strung cord and re-route the chandelier cable properly inside the ceiling or neatly along the cornice",
@@ -66,5 +67,92 @@
       "Proposed by Claude (not yet agreed): Paint tins stored on the wardrobe"
     ]
   },
-  "updated": "2026-11-14"
+  "updated": "2026-11-14",
+  "target": {
+    "concept": "The owners' scheme: mushroom walls, a terracotta ceiling, and all the woodwork — doors, frames, built-in cupboard — in the same charcoal as the dark furniture (bed frame, chest of drawers, bedside tables). The patterned floor and the plaster cornice stay as the room's original features. Target image to be added.",
+    "mood": [
+      "mushroom",
+      "terracotta",
+      "charcoal",
+      "moody and warm"
+    ],
+    "palette": [
+      {
+        "name": "Mushroom",
+        "hex": "#B9AC9B",
+        "role": "walls",
+        "brand": "Farrow & Ball",
+        "code": "suggestion: Jitney No. 293 or Stony Ground No. 211 — to confirm against the target image",
+        "finish": "matt",
+        "notes": "HEX approximate"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#B47750",
+        "role": "ceiling",
+        "brand": "Farrow & Ball",
+        "code": "suggestion: Red Earth No. 64 — or the staircase terracotta, so the two relate",
+        "finish": "matt",
+        "notes": "HEX approximate"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#3A3936",
+        "role": "doors, frames, built-in cupboard doors, skirting band",
+        "brand": "Farrow & Ball",
+        "code": "suggestion: Off-Black No. 57 — or colour-match to the chest of drawers",
+        "finish": "eggshell",
+        "notes": "Take a drawer to the paint shop for an exact match"
+      },
+      {
+        "name": "Cornice — to decide",
+        "hex": "#E3D8C3",
+        "role": "plaster cornice",
+        "notes": "Recommendation: a soft off-white, so it frames the terracotta ceiling and its pattern shows. Alternative: paint it terracotta with the ceiling"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "Existing chandelier, cage wall lights and fan stay",
+        "status": "chosen"
+      }
+    ]
+  },
+  "brief": {
+    "scope": [
+      "Repair cornice and walls",
+      "Paint ceiling, walls, cornice, woodwork to the scheme"
+    ],
+    "surfaces": [
+      {
+        "surface": "Ceiling",
+        "prep": "Re-route the chandelier cable first; fill, sand",
+        "finish": "2 coats matt",
+        "colour": "Terracotta"
+      },
+      {
+        "surface": "Cornice",
+        "prep": "Cast and fit the missing corner section; close the hole; clean out old paint from the detail gently",
+        "finish": "2 coats matt, brushed into the relief",
+        "colour": "Soft off-white (recommended) — to decide"
+      },
+      {
+        "surface": "Walls",
+        "prep": "Record pipe runs; fill patches and cracks, sand, spot-prime; stain-block the pencil marks",
+        "finish": "2 coats matt",
+        "colour": "Mushroom"
+      },
+      {
+        "surface": "Doors, frames, built-in cupboard, skirting band",
+        "prep": "Sand filler flush, prime bare patches",
+        "finish": "2 coats eggshell",
+        "colour": "Charcoal, matched to the furniture"
+      }
+    ],
+    "notes": [
+      "Order: ceiling → cornice → walls → woodwork",
+      "Protect the cement-tile floor fully — it marks easily",
+      "Approve sample patches of all three colours together, in daylight and lamplight"
+    ]
+  }
 }
