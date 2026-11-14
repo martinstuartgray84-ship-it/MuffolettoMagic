@@ -31,7 +31,7 @@ target design for every room, the to-do / project / shopping lists, and produces
 - Corner town house, 4 storeys + attic; façade on Largo Pietra Rossa, angled side wall on via Pietra Rossa.
 - Existing-state survey: Chloé Pierron, 30 Sep 2024 ("Mayor's House" — the house's old name).
 - Architects: Studio Architettura A3, Palermo (archh. S. La Versa, V. Simanella) — "internal reconfiguration",
-  Apr 2026: ground-floor water tank + booster pump, new sewer pipe; first floor → bedroom + en-suite (options A / 2-B).
+  Apr 2026: ground-floor water tank + booster pump, new sewer pipe (owners: pipe NOT needed); first floor → bedroom + en-suite (built).
 - Open questions live in `tasks.json` (type `admin`). Ask the owners rather than guessing; mark guesses "to confirm".
 
 ## Git / deploy

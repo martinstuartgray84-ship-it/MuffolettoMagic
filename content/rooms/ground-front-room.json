@@ -63,32 +63,10 @@
       "Proposed by Claude (not yet agreed): Lighting: one bare cold spotlight — the target image depends entirely on warm, layered light (track spots on the beams, wall lights, uplights on the stone)",
       "Proposed by Claude (not yet agreed): Cables trailing from the wall hatch",
       "Proposed by Claude (not yet agreed): Office chairs, stacked boxes and the gas heater spoil the room — replace the chairs with two more dining chairs or carvers; find a home for the boxes",
-      "Proposed by Claude (not yet agreed): Ground floor against the street: check the base of the walls for damp before painting in a dark colour",
-      "Proposed by Claude (not yet agreed): Architects' proposal: a sewer pipe is to be laid under this floor — do that before decorating"
+      "Proposed by Claude (not yet agreed): Ground floor against the street: check the base of the walls for damp before painting in a dark colour"
     ]
   },
   "updated": "2026-11-14",
-  "proposal": {
-    "by": "Studio Architettura A3",
-    "date": "2026-04-15",
-    "summary": "Services only on this floor: a new sewage pipe runs diagonally under the floor from a pipe shaft at the angled wall (via Pietra Rossa side) to the public sewer under the entrance.",
-    "items": [
-      "New pipe shaft in the angled wall, carrying waste down from the first-floor en-suite",
-      "Embedded sewage pipe diagonally across the room (floor to be lifted and relaid)",
-      "Connection to the public sewer under the entrance / Largo Pietra Rossa"
-    ],
-    "drawings": [
-      {
-        "name": "Tavola 1 — ground floor, existing vs proposed",
-        "src": "/plans/a3-tav1-ground-floor.png",
-        "pdf": "/plans/a3-tav1-ground-floor-2026-04-15.pdf"
-      }
-    ],
-    "questions": [
-      "Is the existing floor worth lifting carefully and relaying, or is it being replaced? (decides the finish we design)",
-      "The circle near the back of the room is on both survey and A3 drawings — what is it?"
-    ]
-  },
   "target": {
     "concept": "The owners' direction: a dark, clubby cellar lounge and dining room. Walls in deep navy, the beams left dark and lit from below, the rock outcrop and the stone pier uplit as features, the terracotta floor and all the walnut and leather kept. From the inspiration image: brass, old framed maps, a drinks display, lamps everywhere. The room's own furniture already does most of the work — it needs the colour and the light.",
     "mood": [
@@ -217,7 +195,6 @@
       }
     ],
     "notes": [
-      "Do the architects' under-floor sewer pipe before any decoration in this room",
       "Electrician first: track on the beam and wall lights need cables before painting",
       "Dark paint shows every flaw and every scuff — walls must be well prepared"
     ]

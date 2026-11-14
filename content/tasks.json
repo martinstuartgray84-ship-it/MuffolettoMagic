@@ -130,9 +130,9 @@
     "type": "project",
     "room": "ground-front-room",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Builder / plumber",
-    "notes": "Floor will be lifted — decide the new floor finish before works",
+    "notes": "Not needed (owners, Nov 2026)",
     "added": "2026-11-14"
   },
   {
@@ -862,7 +862,7 @@
   },
   {
     "id": "t086",
-    "title": "Ground-floor lounge: paint walls deep navy (after damp check and the sewer pipe works)",
+    "title": "Ground-floor lounge: paint walls deep navy (after a damp check)",
     "type": "decor",
     "room": "ground-front-room",
     "priority": "medium",
@@ -895,8 +895,9 @@
     "type": "admin",
     "room": "ground-front-room",
     "priority": "high",
-    "status": "todo",
+    "status": "done",
     "who": "Martin",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Owners: no new pipe needed"
   }
 ]
