@@ -34,6 +34,10 @@ target design for every room, the to-do / project / shopping lists, and produces
   Apr 2026: ground-floor water tank + booster pump, new sewer pipe; first floor → bedroom + en-suite (options A / 2-B).
 - Open questions live in `tasks.json` (type `admin`). Ask the owners rather than guessing; mark guesses "to confirm".
 
+## Git / deploy
+- The owners asked (Nov 2026) for updates to be pushed straight to `main` — Vercel deploys from `main`.
+  Run `npm run check` and `npm run build` first; never push a broken build.
+
 ## Conventions
 - English UI, Italian room names in `nameIt`. Euros. Metric. Dates ISO.
 - The `example-living-room` (`content/rooms/_example.json`) is a template showing a fully designed room; it is hidden from
