@@ -7,7 +7,7 @@
   "status": "designing",
   "dimensions": {
     "width": 1.16,
-    "notes": "Measured by the owners: space 116 cm wide × 231 cm (taken as floor-to-ceiling height — to confirm). 66 cm of wall between the back wall and the bathroom door opening. Washing machine 60 cm wide. Current fridge 54 cm wide × 142 cm high."
+    "notes": "Measured by the owners: space 116 cm wide × 231 cm (taken as floor-to-ceiling height — to confirm). 66 cm of wall between the back wall and the bathroom door opening. Washing machine 60 cm wide. Current fridge 54 cm wide × 142 cm high. Gap between fridge and right-hand wall: about 1 cm. The bathroom door is a pocket door inside the wall — it does not use any of the 116 cm."
   },
   "orientation": "Between the kitchen and the bathroom; the bathroom's sliding door opens off it",
   "photos": [
@@ -25,7 +25,7 @@
     }
   ],
   "current": {
-    "summary": "Alcove 116 cm wide between the kitchen and the bathroom. On the back wall: Beko washing machine (60 cm) and a pink Candy fridge-freezer (54 cm wide, 142 cm high) — together 114 cm of the 116. The bathroom's sliding door is in the right-hand wall, starting 66 cm from the back wall, with a row of glass blocks above it. Walls patched and unpainted; a socket and a switch sit on the back wall behind/above the appliances; one ceiling downlight. The washing machine's pipes and valves behind it are loose and need fixing into the wall.",
+    "summary": "Alcove 116 cm wide between the kitchen and the bathroom. On the back wall: Beko washing machine (60 cm) and a pink Candy fridge-freezer (54 cm wide, 142 cm high) — together 114 cm of the 116. The bathroom's pocket door (it slides inside the wall, so it takes nothing from the 116 cm) is in the right-hand wall, starting 66 cm from the back wall, with a row of glass blocks above it. Walls patched and unpainted; a socket and a switch sit on the back wall behind/above the appliances; one ceiling downlight. The washing machine's pipes and valves behind it are loose and need fixing into the wall.",
     "keep": [
       "Washing machine (Beko, 60 cm)"
     ],
@@ -33,8 +33,7 @@
       "JOB 1 — Replace the fridge (current one not liked)",
       "JOB 2 — Plaster over the glass blocks on this side",
       "JOB 3 — Build wall cabinets above the fridge and washing machine so the space looks deliberate and organised",
-      "JOB 4 — Washing-machine pipes and water valves to be fixed into the wall properly",
-      "To check: the sliding bathroom door has only 66 cm of wall to slide along, for a 74 cm opening — and it slides beside the fridge"
+      "JOB 4 — Washing-machine pipes and water valves to be fixed into the wall properly"
     ]
   },
   "updated": "2026-11-14",
@@ -79,7 +78,7 @@
       },
       {
         "name": "New fridge-freezer",
-        "detail": "Freestanding. Max width depends on the door question: 55 cm if the sliding door does not need the gap beside it, about 50 cm if it does. Up to ≈180 cm high fits under the top cupboards — much more capacity than the current 142 cm.",
+        "detail": "Freestanding, 54–55 cm wide (116 − 60 cm washer leaves 56 cm), up to ≈180 cm high under the top cupboards — much more capacity than the current 142 cm. Check the model's required side/top ventilation gap.",
         "status": "idea"
       }
     ],
@@ -119,8 +118,7 @@
       }
     ],
     "notes": [
-      "Fridge needs ventilation: leave the gap the manufacturer asks for above and behind; do not box it in tight",
-      "Agree the bathroom door solution (slide / bi-fold / size) BEFORE building cupboards — it decides the fridge width"
+      "Fridge needs ventilation: leave the gap the manufacturer asks for above and behind; do not box it in tight"
     ]
   }
 }

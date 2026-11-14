@@ -392,13 +392,13 @@
   },
   {
     "id": "t042",
-    "title": "Bathroom job 3: finish the door surround; fit a sliding door 80 × 210 cm (opening is 74 cm wide)",
+    "title": "Bathroom job 3: finish the door surround; fit a new pocket-door leaf 75 × 210 cm with flush pulls",
     "type": "project",
     "room": "third-bathroom",
     "priority": "high",
     "status": "todo",
     "who": "Builder / carpenter",
-    "notes": "CHECK FIRST: only 66 cm of wall for the door to slide along (opening 74 cm) and the fridge stands beside it — door size/type depends on this. Options: slide (never fully clear), bi-fold, or new door size",
+    "notes": "Opening 74 cm. Pocket about 66 cm deep, so about 60 cm clear when open (accepted)",
     "added": "2026-11-14"
   },
   {
@@ -425,7 +425,7 @@
   },
   {
     "id": "t045",
-    "title": "Utility room job 1: choose a replacement fridge-freezer (≤55 cm wide, or ≤50 cm if the door slides beside it; up to ≈180 cm high)",
+    "title": "Utility room job 1: choose a replacement fridge-freezer — 54–55 cm wide, up to ≈180 cm high",
     "type": "buy",
     "room": "third-utility",
     "priority": "medium",
@@ -459,8 +459,9 @@
     "type": "admin",
     "room": "third-utility",
     "priority": "high",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Pocket door inside the wall — does not use the 116 cm. Opens to about 60 cm clear. Fridge-to-wall gap about 1 cm."
   }
 ]
