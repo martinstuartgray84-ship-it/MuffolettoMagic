@@ -841,13 +841,14 @@
   },
   {
     "id": "t084",
-    "title": "First-floor bedroom: paint — choose the wall colour first",
+    "title": "First-floor bedroom: repaint the walls in the same deep green",
     "type": "decor",
     "room": "first-main-room",
     "priority": "medium",
     "status": "todo",
     "who": "Decorator",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Find the original tin or colour-match from the wall"
   },
   {
     "id": "t085",

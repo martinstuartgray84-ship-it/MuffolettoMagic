@@ -3,7 +3,7 @@
   "name": "First-floor bedroom",
   "nameIt": "Camera da letto, primo piano",
   "floor": "first",
-  "status": "in-progress",
+  "status": "approved",
   "dimensions": {
     "length": 4.5,
     "width": 3.65,
@@ -42,7 +42,7 @@
       "Old panelled door"
     ],
     "issues": [
-      "JOB — Paint the bedroom (colour to decide)",
+      "JOB — Repaint the bedroom in the same deep green",
       "Proposed by Claude (not yet agreed): En-suite opening: fit the pocket door, lining and architraves; plaster the edges",
       "Proposed by Claude (not yet agreed): Ceiling and cornice: clean, touch up, repaint",
       "Proposed by Claude (not yet agreed): Door and frame to the stairs: repaint to suit the new wall colour",
@@ -82,7 +82,8 @@
         "surface": "Walls",
         "prep": "Sand filler flush, spot-prime filler and the new bare-plaster wall (mist coat), fill any remaining chases",
         "finish": "2 coats matt",
-        "colour": "To decide — keep the deep green or change"
+        "colour": "Deep green, as existing",
+        "notes": "Paint whole walls corner to corner — touching in patches of a dark colour always shows"
       },
       {
         "surface": "Ceiling, cornice and plaster mouldings",
@@ -93,7 +94,32 @@
     ],
     "notes": [
       "Protect the cement-tile floor and the walnut furniture",
-      "Going over deep green with a lighter colour needs an extra coat or a tinted undercoat"
+      "New filler and bare plaster must be primed first or they will show through the green as dull patches"
+    ]
+  },
+  "target": {
+    "concept": "Keep the room as it was: deep green walls under the white decorative plaster ceiling, with the burr-walnut furniture, the gilt mirror and the patterned floor. The job is to make the walls good again after the works.",
+    "mood": [
+      "deep green",
+      "white plasterwork",
+      "walnut and gilt"
+    ],
+    "palette": [
+      {
+        "name": "Deep green (existing)",
+        "hex": "#2F5A3C",
+        "role": "walls; door and frame to the stairs",
+        "brand": "To confirm from the original tin",
+        "code": "if no tin: colour-match from a clean area of wall; closest Farrow & Ball reference: Beverly No. 310",
+        "finish": "matt on walls, eggshell on the door",
+        "notes": "HEX approximate, from the photos"
+      },
+      {
+        "name": "White",
+        "hex": "#F2EFE8",
+        "role": "ceiling, cornice, plaster mouldings",
+        "finish": "matt"
+      }
     ]
   }
 }
