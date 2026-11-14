@@ -425,13 +425,14 @@
   },
   {
     "id": "t045",
-    "title": "Utility room job 1: choose a replacement fridge-freezer — 54–55 cm wide, up to ≈180 cm high",
+    "title": "Utility room job 1: choose a replacement fridge-freezer — max 55 cm wide (6 options on the room page)",
     "type": "buy",
     "room": "third-utility",
     "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Check the exact width, depth and ventilation gaps on the retailer's page before ordering"
   },
   {
     "id": "t046",

@@ -83,8 +83,39 @@
         "status": "idea"
       },
       {
-        "name": "New fridge-freezer",
-        "detail": "Freestanding, 54–55 cm wide (116 − 60 cm washer leaves 56 cm), up to ≈180 cm high under the top cupboards — much more capacity than the current 142 cm. Check the model's required side/top ventilation gap.",
+        "name": "Fridge option A — Beko RCSA300K40 (white WN / grey GN / silver SN)",
+        "detail": "54 × 181.3 × 57.4 cm, 295 L, static. From about €290. Leaves 2 cm spare.",
+        "link": "https://www.beko.com/it-it/prodotti/frigoriferi/frigorifero-combinato-statico-54-cm-rcsa300k40wn",
+        "status": "idea"
+      },
+      {
+        "name": "Fridge option B — Beko B3RCNO255XB (inox)",
+        "detail": "54 × 180 cm, 250 L, No Frost. Price to check.",
+        "link": "https://www.eprice.it/pr/frigorifero-larghezza-cm-54-altezza-180",
+        "status": "idea"
+      },
+      {
+        "name": "Fridge option C — Candy CNCQ2T518EX (inox) / EB (black)",
+        "detail": "54.5 cm wide, about 183–185 cm high, 62 cm deep, about 250–300 L, Total No Frost. Confirm exact size on the retailer page.",
+        "link": "https://www.trovaprezzi.it/prezzo_frigoriferi-congelatori_frigorifero_no_frost_cm_55.aspx",
+        "status": "idea"
+      },
+      {
+        "name": "Fridge option D — Hisense FCN255ACE (inox)",
+        "detail": "55 × 179.7 cm, Total No Frost. Exactly 55 — 1 cm spare in total.",
+        "link": "https://elettrodomestici.shop/prodotto/frigorifero-combinato-hisense-fcn255ace-libera-installazione-total-no-frost/",
+        "status": "idea"
+      },
+      {
+        "name": "Fridge option E — Indesit INKS 8261 (white W / silver S)",
+        "detail": "54 cm wide, about 177 cm high, static. About €280–390.",
+        "link": "https://www.unieuro.it/online/Piccoli-e-Grandi-Elettrodomestici/Grandi-Elettrodomestici/Frigoriferi",
+        "status": "idea"
+      },
+      {
+        "name": "Fridge option F — Severin RKG 8919 retro, cream (also red RKG 8917)",
+        "detail": "55 × 181 × 57.5 cm, 244 L, class D, chrome handles. About €830 (price seen at Yeppon, to verify). Exactly 55 — 1 cm spare in total.",
+        "link": "https://www.yeppon.it/products/frigorifero-combinato-retro-severin-1333556",
         "status": "idea"
       }
     ],
