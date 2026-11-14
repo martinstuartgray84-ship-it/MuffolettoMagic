@@ -18,7 +18,7 @@ export type Swatch = {
 export type Photo = {
   src: string; // "/photos/kitchen/01.jpg"
   caption?: string;
-  kind?: "current" | "target" | "inspiration" | "detail" | "plan";
+  kind?: "current" | "target" | "render" | "inspiration" | "detail" | "plan";
   date?: string;
 };
 
@@ -59,6 +59,7 @@ export type Room = {
     furniture?: Item[];
     lighting?: Item[];
     textiles?: Item[];
+    renderPrompt?: string; // ready-to-paste prompt for ChatGPT/Gemini photo restyling
   };
   proposal?: {
     summary?: string;

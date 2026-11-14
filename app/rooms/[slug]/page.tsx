@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getRooms, getRoom, getHouse, getTasks, area, wallArea, TYPE_LABEL, eur } from "@/lib/content";
 import { ItemList, StatusPill, Swatches } from "@/components/ui";
+import CopyPrompt from "@/components/CopyPrompt";
 
 export function generateStaticParams() {
   return getRooms().map((r) => ({ slug: r.slug }));
@@ -19,7 +20,7 @@ export default async function RoomPage({ params }: { params: Promise<{ slug: str
   const floor = getHouse().floors.find((f) => f.id === room.floor);
   const tasks = getTasks().filter((t) => t.room === room.slug);
   const current = room.photos?.filter((p) => !p.kind || p.kind === "current" || p.kind === "detail") ?? [];
-  const ideas = room.photos?.filter((p) => p.kind === "inspiration" || p.kind === "target") ?? [];
+  const ideas = room.photos?.filter((p) => p.kind === "inspiration" || p.kind === "target" || p.kind === "render") ?? [];
   const d = room.dimensions;
   const t = room.target;
 
@@ -110,9 +111,11 @@ export default async function RoomPage({ params }: { params: Promise<{ slug: str
         <div className="card"><h3>Textiles & soft furnishings</h3><ItemList items={t?.textiles} /></div>
       </div>
 
+      {t?.renderPrompt && <CopyPrompt text={t.renderPrompt} />}
+
       {ideas.length > 0 && (
         <>
-          <h3 style={{ marginTop: 24 }}>Inspiration & visuals</h3>
+          <h3 style={{ marginTop: 24 }}>Visuals of the target design</h3>
           <div className="photos">
             {ideas.map((p) => (
               <figure key={p.src}>
