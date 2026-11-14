@@ -3,7 +3,7 @@
   "name": "Ground-floor lounge & dining room",
   "nameIt": "Salotto e sala da pranzo, piano terra",
   "floor": "ground",
-  "status": "designing",
+  "status": "approved",
   "dimensions": {
     "length": 5.6,
     "width": 3.4,
@@ -60,15 +60,15 @@
       "All the carved walnut furniture, the leather suite, the carved mirror"
     ],
     "issues": [
+      "JOB — Paint the walls deep navy",
       "Proposed by Claude (not yet agreed): Lighting: one bare cold spotlight — the target image depends entirely on warm, layered light (track spots on the beams, wall lights, uplights on the stone)",
       "Proposed by Claude (not yet agreed): Cables trailing from the wall hatch",
-      "Proposed by Claude (not yet agreed): Office chairs, stacked boxes and the gas heater spoil the room — replace the chairs with two more dining chairs or carvers; find a home for the boxes",
       "Proposed by Claude (not yet agreed): Ground floor against the street: check the base of the walls for damp before painting in a dark colour"
     ]
   },
   "updated": "2026-11-14",
   "target": {
-    "concept": "The owners' direction: a dark, clubby cellar lounge and dining room. Walls in deep navy, the beams left dark and lit from below, the rock outcrop and the stone pier uplit as features, the terracotta floor and all the walnut and leather kept. From the inspiration image: brass, old framed maps, a drinks display, lamps everywhere. The room's own furniture already does most of the work — it needs the colour and the light.",
+    "concept": "The owners' direction: a dark, clubby cellar lounge and dining room. Walls in deep navy; the beams and the plaster between them left as they are; the rock outcrop and the stone pier kept as features; the terracotta floor kept. The furniture stays exactly as it is — nothing added or replaced.",
     "mood": [
       "cellar bar",
       "navy and tan leather",
@@ -113,30 +113,15 @@
     ],
     "materials": [
       {
-        "name": "Navy on the walls only — or walls and the plaster between the beams?",
-        "detail": "Recommendation: walls only. Keep the ceiling between the beams a warm off-white or pale stone so the room does not close in; the target image has timber boards there, which this room may not have.",
-        "status": "idea"
+        "name": "Navy on the walls only (decided)",
+        "detail": "Includes the sloping underside of the stairs where it reads as wall. The ceiling between the beams is not painted navy.",
+        "status": "chosen"
       }
     ],
     "furniture": [
       {
-        "name": "Drinks cabinet",
-        "detail": "Replace the white-fronted drinks fridge look: a black glass-door wine fridge, or build it into a dark surround as in the target image",
-        "status": "idea"
-      },
-      {
-        "name": "Two more dining chairs",
-        "detail": "In place of the office chairs — matching carved chairs or two leather carvers",
-        "status": "idea"
-      },
-      {
-        "name": "Framed antique maps of Sicily and the Mediterranean",
-        "detail": "Dark or gilt frames, from the inspiration image",
-        "status": "idea"
-      },
-      {
-        "name": "Persian-style rug under the coffee table",
-        "status": "idea"
+        "name": "No change to the furniture (decided)",
+        "status": "chosen"
       }
     ],
     "lighting": [

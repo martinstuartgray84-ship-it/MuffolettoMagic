@@ -886,8 +886,9 @@
     "type": "buy",
     "room": "ground-front-room",
     "priority": "low",
-    "status": "todo",
-    "added": "2026-11-14"
+    "status": "done",
+    "added": "2026-11-14",
+    "notes": "Dropped — owners: no change to furniture"
   },
   {
     "id": "t089",
