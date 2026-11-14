@@ -155,7 +155,7 @@
   },
   {
     "id": "t018",
-    "title": "Make safe the exposed junction box and wires above the terrace doors",
+    "title": "Kitchen: make safe the open junction box by the terrace doors, the loose cable coil near the hood and the open wall hole",
     "type": "fix",
     "room": "third-kitchen",
     "priority": "high",
@@ -165,7 +165,7 @@
   },
   {
     "id": "t019",
-    "title": "Finish plastering walls + make good ceiling (holes, cracks, cable ends) in kitchen-hallway",
+    "title": "Kitchen: make good and paint walls and ceiling (patches, holes, cracks at downlights)",
     "type": "fix",
     "room": "third-kitchen",
     "priority": "medium",
@@ -229,8 +229,8 @@
     "type": "buy",
     "room": "third-kitchen",
     "priority": "low",
-    "status": "todo",
-    "notes": "Santo Stefano di Camastra is ~40 min away",
+    "status": "done",
+    "notes": "Not needed — both splashbacks are already tiled",
     "added": "2026-11-14"
   },
   {
@@ -463,5 +463,35 @@
     "who": "Martin & Stefany",
     "added": "2026-11-14",
     "notes": "Pocket door inside the wall — does not use the 116 cm. Opens to about 60 cm clear. Fridge-to-wall gap about 1 cm."
+  },
+  {
+    "id": "t049",
+    "title": "Kitchen: decide what the arched opening becomes (currently covered with a black sheet)",
+    "type": "admin",
+    "room": "third-kitchen",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t050",
+    "title": "Kitchen: finish the front window frame and reveal",
+    "type": "fix",
+    "room": "third-kitchen",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Carpenter / builder",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t051",
+    "title": "Kitchen: close off the raw end panel of the hob run",
+    "type": "fix",
+    "room": "third-kitchen",
+    "priority": "low",
+    "status": "todo",
+    "who": "Carpenter",
+    "added": "2026-11-14"
   }
 ]

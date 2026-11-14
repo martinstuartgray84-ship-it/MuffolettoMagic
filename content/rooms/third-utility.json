@@ -22,6 +22,12 @@
       "caption": "Bathroom door and the glass blocks above it, from this side — blocks to be plastered over",
       "kind": "current",
       "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-kitchen/07.jpg",
+      "caption": "Seen from the kitchen",
+      "kind": "current",
+      "date": "2026-11-14"
     }
   ],
   "current": {
@@ -46,8 +52,8 @@
     ],
     "palette": [
       {
-        "name": "Sage (kitchen units)",
-        "hex": "#5F7564",
+        "name": "Teal-green (kitchen units)",
+        "hex": "#3F6B66",
         "role": "cupboard doors",
         "notes": "Colour-match to a kitchen door"
       },

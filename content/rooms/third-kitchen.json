@@ -5,47 +5,72 @@
   "floor": "third",
   "status": "designing",
   "dimensions": {
-    "length": 3.1,
-    "width": 2.8,
-    "height": 2.41,
-    "notes": "Kitchen and old hallway are now one open room. Appliance bay (fridge + washing machine) beside the bathroom: 116 cm wide (measured). Other sizes to measure."
+    "notes": "Sizes to measure (length of each worktop run, room length and width, ceiling height)."
   },
-  "orientation": "Window to the front of the house (Largo Pietra Rossa); new double doors to the back terrace in the middle of the back wall",
+  "orientation": "Window to the front of the house over the worktop; glazed double doors to the back terrace",
   "photos": [
     {
+      "src": "/photos/third-kitchen/04.jpg",
+      "caption": "The L-shaped kitchen: sink run on the left, front window, gas hob + oven and black hood on the right; arched opening covered with a black sheet",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-kitchen/05.jpg",
+      "caption": "Hob end: square pale-green tiles with brass trim, arched opening, terrace doors; loose cable coil at the ceiling",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-kitchen/06.jpg",
+      "caption": "Terrace doors from inside: patched walls, open junction box top right, ceiling holes and cracks",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-kitchen/07.jpg",
+      "caption": "Looking towards the fridge & utility room and the bathroom door; sink run on the right",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
       "src": "/photos/third-kitchen/01.jpg",
-      "caption": "From the lounge doorway into the kitchen: new terrace doors on the left, kitchen on the right, washing machine + fridge at the end beside the bathroom door",
+      "caption": "Earlier: from the lounge side",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
       "src": "/photos/third-kitchen/02.jpg",
-      "caption": "New double doors to the rear terrace — fresh plaster patches and exposed wiring around the opening",
+      "caption": "Earlier: the new terrace doors",
       "kind": "current",
       "date": "2026-11-14"
     }
   ],
   "current": {
-    "summary": "The wall between the corridor and the old front room has been removed, so the kitchen and the old hallway are one open room. Kitchen: sage-green shaker-style units with a dark wood-effect worktop, black tap, grey-green metro (subway) tile splashback, dark charcoal glazed wall cabinets, and a peninsula with an induction hob (gloss green end panel). Floor: large light-grey tiles. The old low terrace door has been replaced by a full-height pair of wood-effect (oak-tone) glazed doors onto the rear terrace, in the middle of the hallway. At the end of the space: washing machine and a terracotta/pink fridge beside the door to the bathroom (exposed brick lintel above). The fridge/washing-machine bay next to the bathroom measures 116 cm wide. The bay currently holds a Beko washing machine and a pink Candy fridge-freezer (with a two-ring hotplate on top) — together they fill the full width.",
+    "summary": "L-shaped kitchen, largely fitted. Base units in a deep teal-green with raised-panel doors and a glossy dark walnut-effect worktop. Sink run: black inset sink with black pull-out tap, slim dishwasher, grey-green metro-tile splashback finished with a brass trim, dark charcoal glazed wall cabinets with an open shelf below. Hob run: 4-burner gas hob, built-in stainless oven, black chimney hood, splashback in square pale-green tiles with brass trim. A wooden window to the front sits over the corner of the worktop. An arched opening beside the hob is currently covered with a black sheet. Oak-tone glazed double doors lead to the back terrace. Floor: large light-grey stone-effect tiles with matching tile skirting. Recessed ceiling downlights. The far end opens to the fridge & utility room and the bathroom door.",
     "keep": [
-      "Sage-green kitchen units — a good base colour to build the scheme around",
-      "New oak-tone terrace doors",
-      "Exposed brick lintel over the bathroom door"
+      "Teal-green units, walnut-effect worktop, black sink and tap",
+      "Both tiled splashbacks with their brass trims",
+      "Gas hob, oven, black hood",
+      "Oak-tone terrace doors",
+      "Floor tiles"
     ],
     "issues": [
-      "Walls patched but unfinished — plaster to be completed and painted",
-      "Ceiling: holes, cracks, loose cable ends and a mix of downlights — make good, re-plan lighting",
-      "Exposed junction box with live-looking wires above the terrace door — make safe",
-      "Kitchen end panel gloss vs. matt units"
+      "Walls: patched plaster in many places, unpainted — around the terrace doors, the utility end, the arch and above the splashbacks",
+      "Ceiling: holes, cracks radiating from the downlights, old fixing points — fill, skim, paint",
+      "Loose coil of cable hanging at the ceiling near the hood; open junction box with wires beside the terrace doors; open hole high on the wall at the utility end",
+      "Front window: frame and reveal unfinished (raw timber / exposed edges) — needs finishing or replacing",
+      "Arched opening covered with a black sheet — what is it to become? (door, curtain, open arch, cupboard?)",
+      "End panel of the hob run is unfinished (raw edge with trim)",
+      "Wall cabinets are charcoal, units are teal — intended, or to be unified?",
+      "Terrace doors sit above floor level with a raw sill/threshold inside"
     ]
   },
   "target": {
-    "concept": "DRAFT for discussion — keep the green kitchen and finish the room around it: lime-white walls and a clean, smooth ceiling; a single run of tall built-in cupboards at the end to house the washing machine and fridge behind doors painted to match the units; a Sicilian maiolica splashback behind the sink as the one decorative moment; a runner on the hallway side and warm, simple lighting.",
+    "concept": "DRAFT, pending your job list — the kitchen itself is done; the room around it is not. Target: smooth finished walls and ceiling in warm white, electrics made safe and tidied, the front window finished, the arch resolved, and the unit end panel closed off. No change to units, worktop, tiles or appliances.",
     "mood": [
-      "fresh",
-      "practical",
-      "Sicilian",
-      "green & terracotta"
+      "finish, don't redo",
+      "teal + walnut + brass"
     ],
     "palette": [
       {
@@ -54,8 +79,7 @@
         "role": "walls",
         "brand": "Farrow & Ball",
         "code": "No. 1",
-        "finish": "matt (wipeable kitchen-grade near the hob)",
-        "notes": "Same as lounge — one continuous wall colour on the floor"
+        "finish": "wipeable matt"
       },
       {
         "name": "Pointing",
@@ -66,42 +90,49 @@
         "finish": "matt"
       },
       {
-        "name": "Sage (existing units)",
-        "hex": "#5F7564",
-        "role": "kitchen units + new utility doors",
-        "notes": "Match the new cupboard doors to the existing units — take a door to the paint shop for a scan"
+        "name": "Teal-green (existing units)",
+        "hex": "#3F6B66",
+        "role": "units — existing; also the utility-room cupboard doors",
+        "notes": "Colour-match from a door; HEX approximate"
       },
       {
-        "name": "Maiolica blue & yellow",
-        "hex": "#2F5A8A",
-        "role": "splashback accent",
-        "notes": "Hand-painted tiles, Santo Stefano di Camastra / Caltagirone"
+        "name": "Walnut-effect worktop (existing)",
+        "hex": "#4A3426",
+        "role": "worktops"
       },
       {
-        "name": "Red Earth",
-        "hex": "#B4674D",
-        "role": "accent (textiles, the fridge already sits here)",
-        "brand": "Farrow & Ball",
-        "code": "No. 64"
+        "name": "Brass",
+        "hex": "#B08D57",
+        "role": "tile trims, handles on terrace doors — repeat for any new hardware"
       }
-    ],
-    "materials": [
-      {
-        "name": "Maiolica splashback tiles",
-        "detail": "Behind sink, ~0.6 m high",
-        "status": "idea"
-      }
-    ],
-    "furniture": [],
-    "lighting": [
-      {
-        "name": "Re-planned ceiling lighting",
-        "detail": "Fewer, evenly spaced warm downlights + under-cabinet LED",
-        "status": "idea"
-      }
-    ],
-    "renderPrompt": "Photorealistic interior photograph, same camera angle, same room geometry, same windows, doors, beams and walls — do not move or invent architecture. Remove ALL clutter: boxes, tools, clothes, bags, bottles, cables, packaging. Restyle as a finished small Sicilian kitchen. Keep the sage-green shaker kitchen units, dark wood worktop and the oak-tone glazed double doors to the terrace. Walls and ceiling freshly finished smooth in warm white (Farrow & Ball Lime White walls, Pointing ceiling), no patches, holes or visible wiring; neat evenly spaced warm downlights. Hand-painted Sicilian maiolica tile splashback behind the sink in blue, yellow and white. At the end of the room, the washing machine and fridge hidden behind a tall built-in cupboard with doors painted the same sage green as the units. A natural jute runner on the light grey tile floor, a bowl of lemons, a few copper pans. Bright daylight, editorial interior photography, no people."
+    ]
   },
   "updated": "2026-11-14",
-  "ref": "Top 2"
+  "ref": "Top 2",
+  "brief": {
+    "scope": [
+      "Make good and paint walls and ceiling",
+      "Tidy and make safe electrics",
+      "Finish front window reveal",
+      "Close unit end panel"
+    ],
+    "surfaces": [
+      {
+        "surface": "Walls",
+        "prep": "Fill and sand patches, skim where needed, mist coat on new plaster",
+        "finish": "2 coats wipeable matt",
+        "colour": "Lime White"
+      },
+      {
+        "surface": "Ceiling",
+        "prep": "Fill holes and cracks, tape cracks at downlights, skim",
+        "finish": "2 coats matt",
+        "colour": "Pointing"
+      }
+    ],
+    "notes": [
+      "Electrician first (junction box, loose cable, wall hole), then plaster, then paint",
+      "Protect units, worktops and floor"
+    ]
+  }
 }
