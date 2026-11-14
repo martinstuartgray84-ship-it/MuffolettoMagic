@@ -175,7 +175,7 @@
   },
   {
     "id": "t020",
-    "title": "Re-route the lounge pendant cable properly (currently looped across the beams)",
+    "title": "Lounge: hide the cables to the recess lights and re-route the pendant flexes (proposed)",
     "type": "fix",
     "room": "third-lounge",
     "priority": "medium",
@@ -212,7 +212,8 @@
     "room": "third-lounge",
     "priority": "low",
     "status": "todo",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Claude's suggestion — not on the owners' job list"
   },
   {
     "id": "t024",
@@ -221,7 +222,8 @@
     "room": "third-lounge",
     "priority": "low",
     "status": "todo",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Claude's suggestion — not on the owners' job list"
   },
   {
     "id": "t025",
@@ -253,7 +255,7 @@
   },
   {
     "id": "t028",
-    "title": "Decide what to do with the attic (open volume, loft/mezzanine, or storage)",
+    "title": "Decide how the attic ledge will be used (display / storage / sitting) — sets the balustrade height and access",
     "type": "project",
     "room": "attic",
     "priority": "low",
@@ -316,10 +318,10 @@
   },
   {
     "id": "t034",
-    "title": "Restore the two built-in green cupboards in the lounge",
+    "title": "Lounge job 4: finish the green cupboards in the olive chalk paint, then wax or varnish",
     "type": "decor",
     "room": "third-lounge",
-    "priority": "low",
+    "priority": "medium",
     "status": "todo",
     "who": "Decorator / carpenter",
     "added": "2026-11-14"
@@ -580,6 +582,72 @@
     "priority": "low",
     "status": "todo",
     "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t060",
+    "title": "Lounge job 1: tile the attic ledge",
+    "type": "decor",
+    "room": "third-lounge",
+    "priority": "high",
+    "status": "todo",
+    "who": "Tiler",
+    "notes": "Choose tile: terracotta (recommended) or light grey",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t061",
+    "title": "Lounge job 2: balustrade rail along the attic ledge",
+    "type": "project",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Blacksmith / builder",
+    "notes": "Slim black iron. Fix posts before tiling",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t062",
+    "title": "Lounge job 3: reading nook — small wall light and a socket",
+    "type": "fix",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Electrician",
+    "notes": "Before painting",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t063",
+    "title": "Lounge job 5: proper top for the TV unit (replace the pink plasterboard)",
+    "type": "project",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Carpenter",
+    "notes": "Solid timber to match the shelf, or marble. Measure the unit top",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t064",
+    "title": "Lounge job 6: treat and finish the roof timbers (clear matt)",
+    "type": "decor",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Decorator",
+    "notes": "Check woodworm and roof insulation first; before wall painting",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t065",
+    "title": "Lounge job 7: make good and paint the walls",
+    "type": "decor",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Decorator",
+    "notes": "",
     "added": "2026-11-14"
   }
 ]
