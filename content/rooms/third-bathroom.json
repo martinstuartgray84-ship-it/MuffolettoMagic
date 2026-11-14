@@ -9,36 +9,58 @@
   },
   "photos": [
     {
+      "src": "/photos/third-bathroom/03.jpg",
+      "caption": "The finished room: shower, WC, basin, pink ceiling and disco ball",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-bathroom/04.jpg",
+      "caption": "JOB 1 — behind the toilet: waste connector exposed in a rough hole, pan not tight to the wall",
+      "kind": "detail",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-bathroom/05.jpg",
+      "caption": "JOB 2 — the row of glass blocks at the top of the wall above the door, to be tiled over",
+      "kind": "detail",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-bathroom/06.jpg",
+      "caption": "JOB 3 — door from the kitchen side: sliding door too short, surround unfinished, glass blocks above",
+      "kind": "detail",
+      "date": "2026-11-14"
+    },
+    {
       "src": "/photos/third-bathroom/01.jpg",
-      "caption": "From the doorway: back-to-wall WC with concealed cistern, black-framed sliding shower, small square basin",
+      "caption": "Earlier view from the doorway",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
       "src": "/photos/third-bathroom/02.jpg",
-      "caption": "Through the old panelled door: pink ceiling, disco ball, vertical tiles in the shower",
+      "caption": "Earlier view through the door",
       "kind": "current",
       "date": "2026-11-14"
     }
   ],
   "current": {
-    "summary": "Newly fitted small shower room — mostly finished; two jobs left (see list). Black-framed sliding glass shower enclosure over a dark slate-effect tray with a black thermostatic rain-shower set; walls tiled in narrow vertical stacked tiles in a soft blush-white (zellige look) in the shower, large grey stone-effect tiles elsewhere; floor in large light-grey tiles. Back-to-wall WC with concealed cistern and white flush plate; small square wall-hung basin with a black tap. Black wire shelving, a cluster of Edison-bulb wall lights, a disco ball on a pink-painted ceiling. Entered through an old painted panelled door with ornate brass handles.",
+    "summary": "Small shower room, essentially finished: black-framed sliding shower enclosure on a dark tray with black thermostatic shower set, blush vertical tiles in the shower, large grey stone-effect tiles on the other walls and floor, back-to-wall WC with concealed cistern, small wall-hung basin with black tap, black shelving, Edison-bulb wall light, pink ceiling with disco ball, a gold testa di moro on the shelf. The door is an old white panelled door hung as a slider on a top track; it is too short for the opening. Three jobs remain.",
     "keep": [
-      "Shower enclosure, tray and black fittings — new and good",
-      "Vertical blush tiles",
-      "Old panelled door with brass furniture — strip and repaint, it has character",
-      "The pink ceiling and disco ball, if it makes you smile — it's that kind of room"
+      "Everything else — shower, tiles, WC, basin, ceiling, disco ball"
     ],
     "issues": [
-      "JOB 1 — Fix behind the toilet (details to come with the photo)",
-      "JOB 2 — Tile over the glass tiles (which wall, and which tile, to confirm)"
+      "JOB 1 — Behind the toilet: the waste connector shows through a rough hole in the tile and the pan stands off the wall",
+      "JOB 2 — Tile over the row of glass blocks at the top of the wall (bathroom side)",
+      "JOB 3 — Finish the door surround and fit a door of the right height: 210 cm"
     ]
   },
   "updated": "2026-11-14",
   "ref": "Top 1",
-  "orientation": "Front corner of the top floor, at the end of the kitchen beside the appliance bay. Window or extractor fan — to confirm",
+  "orientation": "No window. A row of glass blocks at the top of the wall above the door borrows light from/to the kitchen (to be tiled over on the bathroom side)",
   "target": {
-    "concept": "DRAFT — finish what's there rather than redo it: hide the basin plumbing under a small timber or stone shelf, a round mirror with an aged-brass frame, one good warm wall light, a black or brass towel rail and hooks, and finish the door and its frame. Keep the pink if you love it — it works with terracotta and the blush tiles.",
+    "concept": "The room is done to your taste — pink ceiling, disco ball, black fittings, blush tiles. Target state is simply the three jobs finished cleanly: nothing showing behind the WC, a clean tiled band where the glass blocks were, and a full-height (210 cm) door in a properly finished surround.",
     "mood": [
       "small",
       "playful",
@@ -80,16 +102,42 @@
         "detail": "Warm 2700K",
         "status": "idea"
       }
-    ],
-    "renderPrompt": "Photorealistic interior photograph, same camera angle, same room geometry, same windows, doors, beams and walls — do not move or invent architecture. Remove ALL clutter: boxes, tools, clothes, bags, bottles, cables, packaging. Restyle as a finished tiny shower room. Keep the black-framed sliding shower enclosure, dark shower tray, black shower set and the vertical blush-white tiles, keep the white back-to-wall WC. Hide the basin plumbing with a small oak shelf under the square basin, add a round aged-brass framed mirror above it, one warm wall light, a black towel rail with a natural linen towel. Paint the old panelled door and its frame in warm white eggshell, keep its brass handles; the ceiling in a soft dusty pink. Tidy, calm, boutique-hotel feel, no people."
+    ]
   },
   "brief": {
     "scope": [
-      "Job 1: make good behind the WC",
-      "Job 2: tile over the existing glass tiles"
+      "Job 1: make good behind the WC so no pipe or hole is visible",
+      "Job 2: tile over the glass blocks on the bathroom side",
+      "Job 3: finish the door surround and supply/fit a sliding door 210 cm high"
+    ],
+    "surfaces": [
+      {
+        "surface": "Wall behind WC (Job 1)",
+        "prep": "Pull the pan forward; check the waste connection is sound and sealed. Fit a shorter/straight pan connector so the pan sits tight to the wall; cut in a tile patch (same grey tile) or neat collar to close the rough hole.",
+        "finish": "Re-fix pan, silicone bead (white, sanitary) pan-to-wall and pan-to-floor",
+        "colour": "Grey stone-effect tile (existing — use spare)",
+        "notes": "If no spare tile: a white or black pipe collar/rosette plus silicone is the fallback"
+      },
+      {
+        "surface": "Glass-block row above door, bathroom side (Job 2)",
+        "prep": "Glass is non-porous — tiles will not bond to it directly. Either (a) apply a grip primer for non-absorbent surfaces, or (b, more reliable) fix a thin tile-backer board over the blocks. Rake out and fill the mortar joints flush first.",
+        "finish": "Tile to the ceiling with flexible (S1) adhesive; grout to match",
+        "colour": "Grey stone-effect tile (existing) — or the blush vertical tile, to choose",
+        "notes": "Tiling over removes the borrowed daylight: the room will rely fully on artificial light and needs a working extractor fan"
+      },
+      {
+        "surface": "Door opening (Job 3)",
+        "prep": "Square up and plaster the broken reveal and both faces round the opening; fit a timber or plaster lining and architraves each side; make good the wall above the track",
+        "finish": "Paint surround to match walls; door in warm white eggshell",
+        "colour": "Warm white",
+        "notes": "New sliding door 210 cm high (Italian standard height — off-the-shelf leaves exist at 60/70/80 × 210). Width of the opening to be measured before ordering. Alternative: a carpenter lengthens the existing antique door with an added bottom rail so the old door and brass handles are kept."
+      }
     ],
     "notes": [
-      "Room is otherwise complete — do not disturb the shower enclosure, tray or fittings"
-    ]
+      "Do not disturb the shower enclosure, tray, tiles or fittings",
+      "Sliding door: the ornate projecting handles will stop the door sliding fully back — use flush pulls on a new door, or accept a part-open stop on the old one",
+      "Kitchen side of the glass blocks: confirm whether they stay visible or are plastered over"
+    ],
+    "access": "Room in daily use — agree working days"
   }
 }

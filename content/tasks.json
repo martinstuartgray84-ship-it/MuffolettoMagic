@@ -334,7 +334,7 @@
   },
   {
     "id": "t036",
-    "title": "Bathroom — optional extras suggested by Claude: hide the basin waste pipe, finish the door frame, confirm extractor fan",
+    "title": "Bathroom — optional: hide the basin waste pipe; confirm there is an extractor fan (no window once the glass blocks are covered)",
     "type": "fix",
     "room": "third-bathroom",
     "priority": "low",
@@ -371,20 +371,44 @@
   },
   {
     "id": "t040",
-    "title": "Bathroom job 1: fix behind the toilet",
+    "title": "Bathroom job 1: make good behind the toilet (pan tight to wall, close the hole round the waste pipe)",
     "type": "fix",
     "room": "third-bathroom",
     "priority": "high",
     "status": "todo",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "who": "Plumber"
   },
   {
     "id": "t041",
-    "title": "Bathroom job 2: tile over the glass tiles",
+    "title": "Bathroom job 2: tile over the glass blocks (bathroom side) — primer or backer board first",
     "type": "decor",
     "room": "third-bathroom",
     "priority": "high",
     "status": "todo",
+    "added": "2026-11-14",
+    "who": "Tiler",
+    "notes": "Decide tile: grey stone-effect or blush vertical. Decide what happens on the kitchen side"
+  },
+  {
+    "id": "t042",
+    "title": "Bathroom job 3: finish the door surround and fit a sliding door 210 cm high",
+    "type": "project",
+    "room": "third-bathroom",
+    "priority": "high",
+    "status": "todo",
+    "who": "Builder / carpenter",
+    "notes": "Measure the opening width first. Option: lengthen the existing antique door instead of replacing it",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t043",
+    "title": "Measure the bathroom door opening width (and track length) before ordering the 210 cm door",
+    "type": "admin",
+    "room": "third-bathroom",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin & Stefany",
     "added": "2026-11-14"
   }
 ]
