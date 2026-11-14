@@ -334,7 +334,7 @@
   },
   {
     "id": "t036",
-    "title": "Bathroom — optional: hide the basin waste pipe; confirm there is an extractor fan (no window once the glass blocks are covered)",
+    "title": "Bathroom — optional: hide the basin waste pipe",
     "type": "fix",
     "room": "third-bathroom",
     "priority": "low",
@@ -519,13 +519,23 @@
   },
   {
     "id": "t054",
-    "title": "Kitchen job 3: fit the new IKEA wall cupboard when delivered",
+    "title": "Kitchen job 3: fit the new IKEA wall cupboard in the corner left of the extractor hood, when delivered",
     "type": "project",
     "room": "third-kitchen",
     "priority": "medium",
     "status": "waiting",
     "who": "Martin / carpenter",
     "notes": "Old walls: use fixings suited to the masonry, not the plugs in the box",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t055",
+    "title": "Bathroom job 4: install an extractor fan (ducted outside, with run-on timer) — before tiling over the glass blocks",
+    "type": "fix",
+    "room": "third-bathroom",
+    "priority": "high",
+    "status": "todo",
+    "who": "Electrician / builder",
     "added": "2026-11-14"
   }
 ]

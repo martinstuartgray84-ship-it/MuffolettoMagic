@@ -58,12 +58,12 @@
     "issues": [
       "JOB 1 — Handles: 3 drawers, 5 cupboard doors, dishwasher, 2 for the IKEA wall cupboard = 11",
       "JOB 2 — Extractor hood: wire in and finish (the loose cable coil beside it is its supply; duct and chimney cover to complete)",
-      "JOB 3 — Fit the new IKEA wall cupboard when it arrives",
+      "JOB 3 — Fit the new IKEA wall cupboard in the corner to the left of the extractor hood, when it arrives",
       "JOB 4 — Electrics: make safe the open junction box by the terrace doors and the open hole high on the wall",
       "JOB 5 — Walls and ceiling: make good patches, holes and cracks at the downlights, then paint",
       "JOB 6 — Front window: finish the frame and reveal",
       "JOB 7 — Close off the raw end panel of the hob run",
-      "To decide: charcoal wall cabinets vs teal units — keep as is or unify; terrace-door inside sill/threshold finish"
+      "To decide: terrace-door inside sill/threshold finish"
     ]
   },
   "target": {
@@ -114,7 +114,7 @@
       },
       {
         "name": "New IKEA wall cupboard",
-        "detail": "On order — model, size and position to confirm",
+        "detail": "On order — goes in the corner to the left of the extractor hood. Model and size to confirm. The existing charcoal wall cabinets stay as they are.",
         "status": "ordered"
       }
     ]

@@ -59,12 +59,13 @@
     "issues": [
       "JOB 1 — Behind the toilet: the waste connector shows through a rough hole in the tile and the pan stands off the wall",
       "JOB 2 — Tile over the row of glass blocks at the top of the wall with the grey tiles (decided)",
-      "JOB 3 — Finish the door surround and fit a new pocket-door leaf 75 × 210 cm (opening 74 cm wide)"
+      "JOB 3 — Finish the door surround and fit a new pocket-door leaf 75 × 210 cm (opening 74 cm wide)",
+      "JOB 4 — Install an extractor fan (the room has no window, and the glass blocks are being covered)"
     ]
   },
   "updated": "2026-11-14",
   "ref": "Top 1",
-  "orientation": "No window. A row of glass blocks at the top of the wall above the door borrows light from/to the kitchen (to be tiled over on the bathroom side)",
+  "orientation": "No window. Extractor fan to be installed (Job 4). The glass blocks above the door are being tiled over on this side",
   "target": {
     "concept": "The room is done to your taste — pink ceiling, disco ball, black fittings, blush tiles. Target state is simply the three jobs finished cleanly: nothing showing behind the WC, a clean tiled band where the glass blocks were, and a full-height (210 cm) door in a properly finished surround.",
     "mood": [
@@ -114,7 +115,8 @@
     "scope": [
       "Job 1: make good behind the WC so no pipe or hole is visible",
       "Job 2: tile over the glass blocks on the bathroom side",
-      "Job 3: finish the door surround and supply/fit a sliding door 210 cm high"
+      "Job 3: finish the door surround and supply/fit a sliding door 210 cm high",
+      "Job 4: install an extractor fan"
     ],
     "surfaces": [
       {
@@ -137,11 +139,18 @@
         "finish": "Paint surround to match walls; door in warm white eggshell",
         "colour": "Warm white",
         "notes": "Pocket door (slides inside the wall). Opening 74 cm wide, height 210 cm. The pocket is only about 66 cm deep, so the door never fully disappears — about 60 cm clear opening when open; accepted. Leaf to order: 75 × 210 cm, panelled, painted warm white, with FLUSH pulls both sides and an edge pull (projecting handles cannot enter the pocket). The old door is too short and its brass handles project — keep the handles for reuse elsewhere."
+      },
+      {
+        "surface": "Extractor fan (Job 4)",
+        "prep": "Core a 100 mm hole through an outside wall (or duct through the ceiling/roof), with an external grille and backdraught shutter. Electrician to wire it with a run-on timer (or humidity sensor) so it keeps running after the light goes off.",
+        "finish": "Quiet fan rated for bathroom zones (IP44 or better), black or white cover to suit the room",
+        "notes": "Do this BEFORE tiling over the glass blocks and painting, so cable and duct routes are hidden. Decide the position on site: high on the wall, as far from the door as possible, not inside the shower spray"
       }
     ],
     "notes": [
       "Do not disturb the shower enclosure, tray, tiles or fittings",
-      "Other side of the glass blocks (fridge & utility room): to be plastered over — see that room"
+      "Other side of the glass blocks (fridge & utility room): to be plastered over — see that room",
+      "Order: fan first-fix → tiling over glass blocks → WC → door"
     ],
     "access": "Room in daily use — agree working days"
   }
