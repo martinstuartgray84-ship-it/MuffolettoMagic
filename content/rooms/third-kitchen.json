@@ -22,6 +22,12 @@
       "date": "2026-11-14"
     },
     {
+      "src": "/photos/third-kitchen/08.jpg",
+      "caption": "JOB 3 — the corner for the IKEA wall cupboard: 83 cm from the brass trim to the ceiling, 68 cm from the corner to the change in tiles",
+      "kind": "detail",
+      "date": "2026-11-14"
+    },
+    {
       "src": "/photos/third-kitchen/06.jpg",
       "caption": "Terrace doors from inside: patched walls, open junction box top right, ceiling holes and cracks",
       "kind": "current",
@@ -114,7 +120,7 @@
       },
       {
         "name": "New IKEA wall cupboard",
-        "detail": "On order: IKEA black wall cabinet with reeded-glass doors, 60 cm wide × 80 cm high, 2 doors. Goes in the corner to the left of the extractor hood. The existing charcoal wall cabinets stay as they are.",
+        "detail": "On order: IKEA black wall cabinet with reeded-glass doors, 60 cm wide × 80 cm high, 2 doors. Goes in the corner left of the hood, on the painted wall above the brass trim. Space measured: 83 cm high × 68 cm wide — it fits with 3 cm spare in height and 8 cm in width. Sit it just above the brass trim; leave about 3 cm at the corner wall so the left door can open fully, about 5 cm to the hood. Paint that wall BEFORE hanging.",
         "status": "ordered"
       }
     ]
