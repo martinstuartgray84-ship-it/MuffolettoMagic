@@ -509,7 +509,7 @@
   },
   {
     "id": "t053",
-    "title": "Kitchen job 2: wire in and finish the extractor hood (hidden connection, duct or carbon filters, chimney cover)",
+    "title": "Kitchen job 2: wire in and finish the recirculating extractor hood (hidden connection, carbon filters, chimney cover)",
     "type": "fix",
     "room": "third-kitchen",
     "priority": "high",
@@ -519,7 +519,7 @@
   },
   {
     "id": "t054",
-    "title": "Kitchen job 3: fit the new IKEA wall cupboard in the corner left of the extractor hood, when delivered",
+    "title": "Kitchen job 3: fit the IKEA wall cupboard (black, reeded glass, 60 × 80 cm) in the corner left of the hood",
     "type": "project",
     "room": "third-kitchen",
     "priority": "medium",

@@ -57,8 +57,8 @@
     ],
     "issues": [
       "JOB 1 — Handles: 3 drawers, 5 cupboard doors, dishwasher, 2 for the IKEA wall cupboard = 11",
-      "JOB 2 — Extractor hood: wire in and finish (the loose cable coil beside it is its supply; duct and chimney cover to complete)",
-      "JOB 3 — Fit the new IKEA wall cupboard in the corner to the left of the extractor hood, when it arrives",
+      "JOB 2 — Extractor hood (recirculating): wire in and finish — hidden connection, carbon filters, chimney cover",
+      "JOB 3 — Fit the new IKEA wall cupboard (black, reeded glass, 60 × 80 cm, 2 doors) in the corner to the left of the hood",
       "JOB 4 — Electrics: make safe the open junction box by the terrace doors and the open hole high on the wall",
       "JOB 5 — Walls and ceiling: make good patches, holes and cracks at the downlights, then paint",
       "JOB 6 — Front window: finish the frame and reveal",
@@ -114,7 +114,7 @@
       },
       {
         "name": "New IKEA wall cupboard",
-        "detail": "On order — goes in the corner to the left of the extractor hood. Model and size to confirm. The existing charcoal wall cabinets stay as they are.",
+        "detail": "On order: IKEA black wall cabinet with reeded-glass doors, 60 cm wide × 80 cm high, 2 doors. Goes in the corner to the left of the extractor hood. The existing charcoal wall cabinets stay as they are.",
         "status": "ordered"
       }
     ]
@@ -133,7 +133,7 @@
     "surfaces": [
       {
         "surface": "Extractor hood",
-        "prep": "Electrician: permanent connection via a fused spur or socket hidden inside the chimney — no trailing cable. Confirm whether it ducts outside (hole through the wall + external grille) or recirculates (carbon filters fitted).",
+        "prep": "Hood recirculates (confirmed) — no duct or wall hole needed. Electrician: permanent connection via a fused spur or socket hidden inside the chimney, no trailing cable. Fit carbon filters.",
         "finish": "Fit chimney cover to the ceiling; make good the wall around it",
         "notes": "Gas hob below: check the hood height against the hob maker's minimum (usually 65–75 cm)"
       },
