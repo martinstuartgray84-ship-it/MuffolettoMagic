@@ -37,15 +37,6 @@
     "added": "2026-11-14"
   },
   {
-    "id": "t005",
-    "title": "Add a password (SITE_PASSWORD) in Vercel before sharing the link",
-    "type": "admin",
-    "priority": "high",
-    "status": "todo",
-    "who": "Martin",
-    "added": "2026-11-14"
-  },
-  {
     "id": "t006",
     "title": "Tell Claude what each room is used for — first-floor side room done; still: 1st & 2nd floor main rooms, attic",
     "type": "admin",

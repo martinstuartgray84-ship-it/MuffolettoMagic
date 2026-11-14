@@ -14,7 +14,7 @@ target design for every room, the to-do / project / shopping lists, and produces
   Shopping list; the rest on To-do. Link to a room with `room: <slug>`. IDs are `t001`, `t002`… (never reuse).
 - `public/plans/` — survey & architect drawings (PDF + PNG renders). `public/photos/<room-slug>/NN.jpg` — room photos.
 - `/brief/<slug>`, `/brief/house`, `/brief/selection?rooms=a,b` — print-ready decorator packs (browser “Save as PDF”).
-- `middleware.ts` — basic-auth lock when `SITE_PASSWORD` env var is set (user name `SITE_USER`, default `casa`).
+- No password/lock: the owners asked for the site to be open (Nov 2026). Do not add auth middleware — it crashed on Vercel.
 
 ## Workflow when the owners send material
 1. **Photos**: copy into `inbox/<room-slug>/`, run `npm run add-photos` (resizes to 2000px JPEG, strips the originals,
