@@ -1,0 +1,143 @@
+{
+  "slug": "third-lounge",
+  "name": "Lounge",
+  "nameIt": "Soggiorno, terzo piano",
+  "floor": "third",
+  "status": "designing",
+  "dimensions": {
+    "length": 5.6,
+    "width": 2.85,
+    "height": 2.42,
+    "area": 15.0,
+    "notes": "Plan size scaled from the 1:50 survey (±10 cm). 2.42 m was the old ceiling height — the ceiling has since been removed, so the room now rises to the exposed beams/boards. New height to the boards and to the ridge: to measure."
+  },
+  "orientation": "French doors onto the front terrace and Largo Pietra Rossa; small high window in the angled wall",
+  "photos": [
+    {
+      "src": "/photos/third-lounge/01.jpg",
+      "caption": "Looking towards the front terrace doors — exposed beams and boards, stepped niche seating on the right",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
+  "current": {
+    "summary": "The old flat ceiling has been taken out, exposing dark timber beams with a boarded deck of weathered planks above — the room now feels taller and opens towards the attic. Walls are white, softly uneven plaster. The angled side wall is built up in white masonry steps: a deep niche used as a daybed/seat, and above it a long ledge with old beam pockets (the sockets where earlier beams sat) and a small high window. A panel of exposed brick sits beside the glazed wooden French doors to the terrace. Floor: large-format grey tiles. Furnishing now: grey sofa with leaf-print cushions, antique wooden bar counter, gilt mirror over a wrought-iron wine-rack console, open shelving on the left. Lighting is a mix: glass-drop chandelier, a black cage pendant on a long flex looped across the beams, a cage wall-light.",
+    "keep": [
+      "Exposed beams and boarded deck — the best feature of the floor",
+      "Old beam pockets in the side wall (character; could be lit)",
+      "Exposed brick panel by the terrace doors",
+      "Stepped masonry niche — make it a proper built-in daybed",
+      "Wooden glazed French doors to the terrace",
+      "Antique bar counter and gilt mirror"
+    ],
+    "issues": [
+      "Pendant flex draped and looped across the beams — needs a proper cable route / fixings",
+      "Light fittings in three different styles (crystal, black cage, gilt) — pick one family",
+      "High ledge currently used for storage boxes — needs a plan (display or concealed storage)",
+      "Ceiling removed: check what is above the boards — roof insulation, draughts, condensation (Gratteri winters are cold)",
+      "Grey tile + grey sofa read cold against the warm timber"
+    ]
+  },
+  "target": {
+    "concept": "DRAFT for discussion — let the timber lead. Keep the walls a warm lime-white with their soft, hand-finished texture so the dark beams, the boards and the brick panel do the talking. Turn the stepped niche into a properly built-in daybed with tailored linen cushions and bolsters; make the high ledge a lit display shelf (ceramics, books) instead of a store. Rationalise the lighting into one warm family (aged brass / natural linen), add uplight onto the boards so the roof volume glows at night, and warm the grey floor with a big flat-weave or kilim rug.",
+    "mood": [
+      "warm",
+      "rustic-refined",
+      "Sicilian village",
+      "textured",
+      "calm"
+    ],
+    "palette": [
+      {
+        "name": "Lime White",
+        "hex": "#E8E1D0",
+        "role": "walls (all)",
+        "brand": "Farrow & Ball",
+        "code": "No. 1",
+        "finish": "matt / lime-wash equivalent",
+        "notes": "Or a local calce (lime) paint matched to this tone — HEX approximate"
+      },
+      {
+        "name": "Oak-dark timber",
+        "hex": "#4A3426",
+        "role": "beams (existing — clean & wax only)",
+        "finish": "natural, wax"
+      },
+      {
+        "name": "Weathered board",
+        "hex": "#A89580",
+        "role": "ceiling boards (existing — leave natural)",
+        "finish": "natural"
+      },
+      {
+        "name": "Red Earth",
+        "hex": "#B4674D",
+        "role": "accent: cushions, rug, ceramics",
+        "brand": "Farrow & Ball",
+        "code": "No. 64",
+        "notes": "Textiles, not walls"
+      },
+      {
+        "name": "Card Room Green",
+        "hex": "#7E806A",
+        "role": "accent: echoes the kitchen units",
+        "brand": "Farrow & Ball",
+        "code": "No. 79",
+        "notes": "Textiles/joinery accent — HEX approximate"
+      },
+      {
+        "name": "Aged brass",
+        "hex": "#A88A4F",
+        "role": "metalwork & light fittings"
+      }
+    ],
+    "materials": [
+      {
+        "name": "Lime plaster walls",
+        "detail": "Keep the soft texture; breathable finish on old masonry",
+        "status": "idea"
+      },
+      {
+        "name": "Beams",
+        "detail": "Clean, treat for woodworm if needed, matt wax — no varnish",
+        "status": "idea"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Built-in daybed in the masonry niche",
+        "detail": "Made-to-measure foam + linen covers, bolsters",
+        "status": "idea"
+      },
+      {
+        "name": "Rug",
+        "detail": "Large flat-weave/kilim in earth tones to warm the grey tiles",
+        "status": "idea"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "Uplighters onto the boarded ceiling",
+        "detail": "Warm 2700K, hidden on top of the ledge",
+        "status": "idea"
+      },
+      {
+        "name": "Small LED strips in the beam pockets",
+        "status": "idea"
+      },
+      {
+        "name": "One family of fittings",
+        "detail": "Re-hang the pendant properly; replace cage fittings with aged brass / linen",
+        "status": "idea"
+      }
+    ],
+    "textiles": [
+      {
+        "name": "Linen in oatmeal + terracotta + olive",
+        "detail": "Replace the tropical leaf cushions with Sicilian/handwoven textiles",
+        "status": "idea"
+      }
+    ]
+  },
+  "updated": "2026-11-14"
+}

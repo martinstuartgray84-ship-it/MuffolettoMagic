@@ -47,7 +47,7 @@
   },
   {
     "id": "t006",
-    "title": "Tell Claude what each room is used for now (and what you'd like it to be) — esp. first-floor side room, third-floor rooms A & B",
+    "title": "Tell Claude what each room is used for — first-floor side room done; still: 1st & 2nd floor main rooms, attic",
     "type": "admin",
     "priority": "high",
     "status": "todo",
@@ -96,9 +96,9 @@
     "type": "project",
     "room": "third-rear-terrace",
     "priority": "low",
-    "status": "todo",
+    "status": "done",
     "who": "Geometra / builder",
-    "notes": "Check structure and permits (CILA) before deciding",
+    "notes": "Done — replaced by full-height glazed double doors in the middle of the hallway",
     "added": "2026-11-14"
   },
   {
@@ -160,6 +160,103 @@
     "priority": "medium",
     "status": "todo",
     "who": "Martin",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t018",
+    "title": "Make safe the exposed junction box and wires above the terrace doors",
+    "type": "fix",
+    "room": "third-kitchen",
+    "priority": "high",
+    "status": "todo",
+    "who": "Electrician",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t019",
+    "title": "Finish plastering walls + make good ceiling (holes, cracks, cable ends) in kitchen-hallway",
+    "type": "fix",
+    "room": "third-kitchen",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Builder / decorator",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t020",
+    "title": "Re-route the lounge pendant cable properly (currently looped across the beams)",
+    "type": "fix",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Electrician",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t021",
+    "title": "Check what's above the lounge boards: roof insulation, draughts, condensation",
+    "type": "fix",
+    "room": "third-lounge",
+    "priority": "high",
+    "status": "todo",
+    "who": "Builder / geometra",
+    "notes": "Ceiling removed — heat loss in winter is the risk at Gratteri's altitude",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t022",
+    "title": "Built-in cupboard to house washing machine + fridge at the end of the hallway",
+    "type": "project",
+    "room": "third-kitchen",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Carpenter",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t023",
+    "title": "Made-to-measure daybed cushions for the lounge niche",
+    "type": "buy",
+    "room": "third-lounge",
+    "priority": "low",
+    "status": "todo",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t024",
+    "title": "Large flat-weave rug for the lounge (earth tones)",
+    "type": "buy",
+    "room": "third-lounge",
+    "priority": "low",
+    "status": "todo",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t025",
+    "title": "Maiolica tiles for the kitchen splashback",
+    "type": "buy",
+    "room": "third-kitchen",
+    "priority": "low",
+    "status": "todo",
+    "notes": "Santo Stefano di Camastra is ~40 min away",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t026",
+    "title": "Photograph + measure: third-floor bathroom, landing, front terrace, rest of attic",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t027",
+    "title": "Measure lounge: floor to boards, floor to ridge; kitchen-hallway as built",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
     "added": "2026-11-14"
   }
 ]

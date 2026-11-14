@@ -1,0 +1,17 @@
+{
+  "slug": "third-bathroom",
+  "name": "Third-floor bathroom",
+  "nameIt": "Bagno, terzo piano",
+  "floor": "third",
+  "status": "survey",
+  "dimensions": {
+    "notes": "Made smaller than the old side room (≈2.8 × 1.45 m on the survey). As-built size to measure."
+  },
+  "photos": [],
+  "current": {
+    "summary": "Bathroom at the end of the kitchen-hallway, behind the door with the exposed brick lintel — made smaller than the original room. Awaiting photos.",
+    "keep": [],
+    "issues": []
+  },
+  "updated": "2026-11-14"
+}

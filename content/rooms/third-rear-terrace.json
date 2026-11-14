@@ -10,14 +10,19 @@
     "area": 12.0,
     "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
   },
-  "orientation": "Open to the sky (shown paved on the roof plan); small opening in the back wall",
-  "photos": [],
+  "orientation": "Open to the sky; now reached through new glazed double doors in the middle of the kitchen-hallway",
+  "photos": [
+    {
+      "src": "/photos/third-kitchen/02.jpg",
+      "caption": "Seen through the new doors",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "Paved roof terrace at the back, reached through a low door (0.57 × 1.73 m) from the corridor. A tiled strip runs along its right-hand edge.",
+    "summary": "Paved roof terrace at the back, terracotta tile floor, enclosed by the rough stone wall of the neighbouring building. Now reached through new full-height glazed double doors (replacing the old 0.57 m door). Currently furnished with a pallet sofa with cushions and a dining table.",
     "keep": [],
-    "issues": [
-      "Access door is very low/narrow (0.57 × 1.73 m) — candidate for enlarging"
-    ]
+    "issues": []
   },
   "updated": "2026-11-14"
 }

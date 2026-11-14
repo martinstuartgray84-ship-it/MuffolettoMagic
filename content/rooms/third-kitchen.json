@@ -1,0 +1,112 @@
+{
+  "slug": "third-kitchen",
+  "name": "Kitchen & hallway",
+  "nameIt": "Cucina e disimpegno",
+  "floor": "third",
+  "status": "designing",
+  "dimensions": {
+    "length": 3.1,
+    "width": 2.8,
+    "height": 2.41,
+    "notes": "Old corridor (≈3.1 × 0.95 m) + old front room (≈2.65 × 1.85 m) now one open space after the dividing wall was removed. As-built sizes to measure."
+  },
+  "orientation": "New glazed double doors onto the rear terrace in the middle of the hallway; window to the front (in the kitchen part)",
+  "photos": [
+    {
+      "src": "/photos/third-kitchen/01.jpg",
+      "caption": "From the lounge doorway: new terrace doors on the left, kitchen on the right, washing machine + fridge at the end by the bathroom door",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-kitchen/02.jpg",
+      "caption": "New double doors to the rear terrace — fresh plaster patches and exposed wiring around the opening",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
+  "current": {
+    "summary": "The wall between the corridor and the old front room has been removed, making one open kitchen-hallway. Kitchen: sage-green shaker-style units with a dark wood-effect worktop, black tap, painted grey-green splashback, black glazed wall cabinets, and a peninsula with an induction hob (gloss green end panel). Floor: large light-grey tiles. The old low terrace door has been replaced by a full-height pair of wood-effect (oak-tone) glazed doors onto the rear terrace, in the middle of the hallway. At the end of the space: washing machine and a terracotta/pink fridge beside the door to the bathroom (exposed brick lintel above).",
+    "keep": [
+      "Sage-green kitchen units — a good base colour to build the scheme around",
+      "New oak-tone terrace doors",
+      "Exposed brick lintel over the bathroom door"
+    ],
+    "issues": [
+      "Walls patched but unfinished — plaster to be completed and painted",
+      "Ceiling: holes, cracks, loose cable ends and a mix of downlights — make good, re-plan lighting",
+      "Exposed junction box with live-looking wires above the terrace door — make safe",
+      "Washing machine + fridge sit in the circulation route — need a built-in housing/utility run",
+      "Kitchen end panel gloss vs. matt units"
+    ]
+  },
+  "target": {
+    "concept": "DRAFT for discussion — keep the green kitchen and finish the room around it: lime-white walls and a clean, smooth ceiling; a single run of tall built-in cupboards at the end to house the washing machine and fridge behind doors painted to match the units; a Sicilian maiolica splashback behind the sink as the one decorative moment; a runner on the hallway side and warm, simple lighting.",
+    "mood": [
+      "fresh",
+      "practical",
+      "Sicilian",
+      "green & terracotta"
+    ],
+    "palette": [
+      {
+        "name": "Lime White",
+        "hex": "#E8E1D0",
+        "role": "walls",
+        "brand": "Farrow & Ball",
+        "code": "No. 1",
+        "finish": "matt (wipeable kitchen-grade near the hob)",
+        "notes": "Same as lounge — one continuous wall colour on the floor"
+      },
+      {
+        "name": "Pointing",
+        "hex": "#EDE8DC",
+        "role": "ceiling",
+        "brand": "Farrow & Ball",
+        "code": "No. 2003",
+        "finish": "matt"
+      },
+      {
+        "name": "Sage (existing units)",
+        "hex": "#5F7564",
+        "role": "kitchen units + new utility doors",
+        "notes": "Match the new cupboard doors to the existing units — take a door to the paint shop for a scan"
+      },
+      {
+        "name": "Maiolica blue & yellow",
+        "hex": "#2F5A8A",
+        "role": "splashback accent",
+        "notes": "Hand-painted tiles, Santo Stefano di Camastra / Caltagirone"
+      },
+      {
+        "name": "Red Earth",
+        "hex": "#B4674D",
+        "role": "accent (textiles, the fridge already sits here)",
+        "brand": "Farrow & Ball",
+        "code": "No. 64"
+      }
+    ],
+    "materials": [
+      {
+        "name": "Maiolica splashback tiles",
+        "detail": "Behind sink, ~0.6 m high",
+        "status": "idea"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Tall utility cupboard run",
+        "detail": "Housing washing machine + fridge, doors to match units",
+        "status": "idea"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "Re-planned ceiling lighting",
+        "detail": "Fewer, evenly spaced warm downlights + under-cabinet LED",
+        "status": "idea"
+      }
+    ]
+  },
+  "updated": "2026-11-14"
+}
