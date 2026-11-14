@@ -35,6 +35,8 @@ target design for every room, the to-do / project / shopping lists, and produces
 - Open questions live in `tasks.json` (type `admin`). Ask the owners rather than guessing; mark guesses "to confirm".
 
 ## Git / deploy
+- `vercel.json` pins `framework: nextjs`. Keep it: the Vercel project was created while the repo was empty, so its
+  saved preset is "Other" and without this file every deploy 'succeeds' but serves 404.
 - The owners asked (Nov 2026) for updates to be pushed straight to `main` — Vercel deploys from `main`.
   Run `npm run check` and `npm run build` first; never push a broken build.
 
