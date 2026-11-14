@@ -42,7 +42,7 @@
       "Old panelled door"
     ],
     "issues": [
-      "Proposed by Claude (not yet agreed): Walls: sand the filler, prime, and repaint the whole room (colour to decide — keep the deep green, or change)",
+      "JOB — Paint the bedroom (colour to decide)",
       "Proposed by Claude (not yet agreed): En-suite opening: fit the pocket door, lining and architraves; plaster the edges",
       "Proposed by Claude (not yet agreed): Ceiling and cornice: clean, touch up, repaint",
       "Proposed by Claude (not yet agreed): Door and frame to the stairs: repaint to suit the new wall colour",
@@ -71,6 +71,29 @@
         "src": "/plans/a3-tav2b-first-floor.png",
         "pdf": "/plans/a3-tav2b-first-floor-2026-04-15.pdf"
       }
+    ]
+  },
+  "brief": {
+    "scope": [
+      "Paint the bedroom"
+    ],
+    "surfaces": [
+      {
+        "surface": "Walls",
+        "prep": "Sand filler flush, spot-prime filler and the new bare-plaster wall (mist coat), fill any remaining chases",
+        "finish": "2 coats matt",
+        "colour": "To decide — keep the deep green or change"
+      },
+      {
+        "surface": "Ceiling, cornice and plaster mouldings",
+        "prep": "Dust, touch in",
+        "finish": "1–2 coats matt, brushed into the relief",
+        "colour": "White, as existing — unless the scheme changes"
+      }
+    ],
+    "notes": [
+      "Protect the cement-tile floor and the walnut furniture",
+      "Going over deep green with a lighter colour needs an extra coat or a tinted undercoat"
     ]
   }
 }

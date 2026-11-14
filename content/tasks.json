@@ -824,9 +824,10 @@
     "title": "Tell Claude your jobs and colour for the first-floor bedroom and en suite",
     "type": "admin",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Jobs: paint (bedroom) and shower doors (en suite) only"
   },
   {
     "id": "t083",
@@ -836,6 +837,26 @@
     "priority": "high",
     "status": "todo",
     "who": "Electrician",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t084",
+    "title": "First-floor bedroom: paint — choose the wall colour first",
+    "type": "decor",
+    "room": "first-main-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Decorator",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t085",
+    "title": "First-floor en suite: shower doors — measure the opening, choose, fit",
+    "type": "buy",
+    "room": "first-small-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany / fitter",
     "added": "2026-11-14"
   }
 ]

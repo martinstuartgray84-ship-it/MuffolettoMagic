@@ -49,8 +49,8 @@
       "All tiling, shower fittings, WC, vanity, mirror"
     ],
     "issues": [
+      "JOB — Shower doors (opening to measure)",
       "Proposed by Claude (not yet agreed): Fit the pocket door and finish its frame (lining, architraves, plaster)",
-      "Proposed by Claude (not yet agreed): Shower: add a glass screen or doors",
       "Proposed by Claude (not yet agreed): Water heater: tidy the hose and replace the trailing plug with a proper fixed connection — it sits in a wet room",
       "Proposed by Claude (not yet agreed): WC: flexible supply hose loops out visibly — shorten or re-route",
       "Proposed by Claude (not yet agreed): Top edge of the half-height tiles: neat sealant line or trim",
@@ -92,6 +92,36 @@
     "questions": [
       "Which option do you prefer? Option B gives a proper basin area; Option A a slightly bigger shower",
       "Strip plaster to brick first (Option B note) so we know the real shower size"
+    ]
+  },
+  "target": {
+    "concept": "Finished as built; the one job is shower doors, in black to match the fittings.",
+    "palette": [
+      {
+        "name": "Matt black",
+        "hex": "#1F1F1F",
+        "role": "shower door profiles, to match tap and shower set"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Shower doors",
+        "detail": "Black profiles. Type depends on the opening: saloon pair or pivot for a narrow opening, sliding for 100 cm or more. Measure width at the kerb and at head height, and the height from kerb to top of tiles.",
+        "status": "idea"
+      }
+    ]
+  },
+  "brief": {
+    "scope": [
+      "Supply and fit shower doors"
+    ],
+    "surfaces": [
+      {
+        "surface": "Shower doors",
+        "prep": "Check the tiled kerb is level",
+        "finish": "6 mm safety glass, wall profiles fixed to the tiled walls, silicone outside edges only",
+        "colour": "Black frame"
+      }
     ]
   }
 }
