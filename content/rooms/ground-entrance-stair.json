@@ -88,7 +88,7 @@
   },
   "updated": "2026-11-14",
   "target": {
-    "concept": "Chosen direction (from the owners' render) — an old Sicilian palazzo / boutique-hotel stair. Upper walls in a tobacco-terracotta limewash with soft, cloudy movement; lower walls in deep olive green to dado height with a moulded top rail; skirting in the same olive; black ironwork; marble, terrazzo and cement-tile floors kept and cleaned. Dressed with framed sepia prints of Sicilian towns under brass picture lights, olive trees in terracotta jars on the landings, a runner in the entrance hall, candles in the niche, and very warm amber lighting.",
+    "concept": "Chosen direction — an old Sicilian palazzo stair, done in paint alone. Upper walls in a tobacco-terracotta limewash; lower walls in deep olive to dado height, following the slope of the stairs; the two separated by a painted dado line instead of a timber rail or mouldings. Skirting in the same olive, black ironwork, floors kept and cleaned. The existing lantern lights stay exactly as they are, with warmer bulbs. Dressed with framed sepia prints, olive trees in terracotta jars and an entrance runner.",
     "mood": [
       "Sicilian palazzo",
       "boutique hotel",
@@ -148,20 +148,20 @@
     ],
     "materials": [
       {
-        "name": "Lower wall: painted dado, or real panelling?",
-        "detail": "The render shows raised panelling. Three ways to get it: (1) paint only — olive to dado height with a timber dado rail (cheapest, loses no width); (2) rail plus thin applied mouldings forming panels, all painted olive (the render look, about 1–2 cm thick); (3) full timber panelling (most expensive, takes width off a narrow stair). Recommendation: option 2 on landings and the entrance hall, option 1 on the sloping flights.",
-        "status": "idea"
+        "name": "Lower wall: two-tone paint with a painted dado line (decided)",
+        "detail": "No mouldings, no panelling. Olive from the skirting to about 105 cm, then a painted band about 4 cm wide in matt black as the 'dado rail', then the terracotta above. Set out with a chalk line and low-tack tape.",
+        "status": "chosen"
       },
       {
         "name": "Limewash on the upper walls",
-        "detail": "Needs a mineral primer over the existing paint, then 2–3 brushed coats. Slightly variable by nature — that is the look.",
+        "detail": "Mineral primer over the existing paint, then 2–3 brushed coats.",
         "status": "chosen"
       }
     ],
     "furniture": [
       {
         "name": "Framed sepia prints of Sicilian towns, black frames",
-        "detail": "One large per landing; a row of four in the entrance hall",
+        "detail": "One large per landing; a row in the entrance hall. Lit by the lanterns — or add rechargeable picture lights later, no wiring",
         "status": "idea"
       },
       {
@@ -176,28 +176,16 @@
     ],
     "lighting": [
       {
-        "name": "Existing black lantern wall lights — warm bulbs",
-        "detail": "2200K amber filament bulbs throughout",
+        "name": "Existing black lantern wall lights — unchanged",
+        "detail": "Only swap the bulbs to warm 2200K amber filament. No step lights, no wired picture lights.",
         "status": "chosen"
-      },
-      {
-        "name": "Brass picture lights over the prints",
-        "detail": "Each needs a cable chased into the wall — do before painting; or rechargeable ones to avoid wiring",
-        "status": "idea"
-      },
-      {
-        "name": "Low-level step lights in the lower wall",
-        "detail": "As in the render. Requires chasing cables along every flight — decide now, before the walls are repaired",
-        "status": "idea"
       }
     ]
   },
   "brief": {
     "scope": [
       "Make good all walls and soffits",
-      "Electrics first-fix: picture lights and step lights (if chosen)",
-      "Dado rail and panel mouldings",
-      "Limewash upper walls; olive lower walls, rail and skirting",
+      "Limewash upper walls; olive lower walls and skirting; painted dado line",
       "Repaint balustrade; doors"
     ],
     "surfaces": [
@@ -219,10 +207,17 @@
         "colour": "Warm limestone"
       },
       {
-        "surface": "Lower walls, dado rail, mouldings, skirting",
-        "prep": "Set the dado rail about 100–110 cm above the nosing line on flights, parallel to the slope, and level on landings; fix rail and mouldings; fill, prime",
+        "surface": "Lower walls and skirting",
+        "prep": "Snap a chalk line about 105 cm above the nosing line on flights (parallel to the slope) and 105 cm above the floor on landings; join with clean angles at each turn",
         "finish": "2 coats scrubbable satin / eggshell",
         "colour": "Deep olive #343B2D"
+      },
+      {
+        "surface": "Painted dado line",
+        "prep": "Low-tack tape both edges once the olive and terracotta are dry",
+        "finish": "Band about 4 cm wide, 2 coats eggshell",
+        "colour": "Matt black",
+        "notes": "Hides the join between limewash and olive and reads as a rail"
       },
       {
         "surface": "Iron balustrade",
@@ -239,9 +234,9 @@
     ],
     "notes": [
       "Approve a test panel on the darkest flight before the full job: terracotta and muted clay side by side, with the olive below",
-      "Decide step lights and picture lights before wall repairs — cables must be chased in first",
       "Protect all treads, tiles and the balustrade",
-      "Access covers and the meter cupboard: paint to match the surface they sit on"
+      "Access covers and the meter cupboard: paint to match the surface they sit on",
+      "No new wiring: existing lights stay; bulbs changed only"
     ],
     "access": "The only stair in the house — agree working hours and keep one side passable"
   }

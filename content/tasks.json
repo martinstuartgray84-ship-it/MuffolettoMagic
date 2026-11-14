@@ -705,7 +705,7 @@
   },
   {
     "id": "t071",
-    "title": "Stairs job 2: paint hallway and staircase — terracotta limewash above, deep olive below",
+    "title": "Stairs job 2: paint hallway and staircase — terracotta limewash above, deep olive below, painted black dado line",
     "type": "decor",
     "room": "ground-entrance-stair",
     "priority": "medium",
@@ -731,9 +731,10 @@
     "type": "admin",
     "room": "ground-entrance-stair",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Decided: two-tone paint with a painted dado line — no mouldings"
   },
   {
     "id": "t074",
@@ -741,13 +742,14 @@
     "type": "admin",
     "room": "ground-entrance-stair",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "Decided: lights stay as they are; warm bulbs only"
   },
   {
     "id": "t075",
-    "title": "Stairs: framed sepia prints of Sicilian towns, brass picture lights, olive trees in terracotta jars, entrance runner",
+    "title": "Stairs: framed sepia prints of Sicilian towns, olive trees in terracotta jars, entrance runner, 2200K bulbs for the lanterns",
     "type": "buy",
     "room": "ground-entrance-stair",
     "priority": "low",
