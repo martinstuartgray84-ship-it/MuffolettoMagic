@@ -566,6 +566,17 @@
     "type": "admin",
     "room": "third-rear-terrace",
     "priority": "medium",
+    "status": "done",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14",
+    "notes": "Stone wall with the shutters is the neighbour's. House wall and tall rendered wall to be rendered."
+  },
+  {
+    "id": "t059",
+    "title": "Decide the boiler door colour (wall white / oak-tone / green)",
+    "type": "admin",
+    "room": "third-rear-terrace",
+    "priority": "low",
     "status": "todo",
     "who": "Martin & Stefany",
     "added": "2026-11-14"

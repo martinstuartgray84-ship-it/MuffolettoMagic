@@ -53,7 +53,7 @@
     "summary": "Roof terrace of about 2.5 × 4 m off the kitchen, terracotta tile floor, marble threshold step at the new doors. House wall: patched in several different renders around the doors, heavy black mould staining below the scalloped (tile-edge) parapet, a surface conduit running the full width, an outdoor socket box and festoon lights. To the left of the doors, a recessed alcove under a small tiled canopy holds the Vaillant gas boiler — not yet connected — with loose wiring, a yellow gas hose, an old brown stove and a gas cylinder stored in front. A satellite dish is fixed above. Beyond the alcove, under torn blue and green tarpaulins, is the outdoor kitchen: a timber unit with a tiled roof, with barbecues. Behind it, the view to the church and clock tower. The seating corner is formed by a tall rendered wall, mould-stained, and a rough stone wall with old louvred shutters hung on it and a small wooden hatch. Furniture: pallet seating with navy cushions, wooden table, wrought-iron bench.",
     "keep": [
       "Terracotta floor and marble threshold",
-      "Rough stone wall with the hung shutters — leave unrendered",
+      "Rough stone wall with the hung shutters — belongs to the neighbour: do not render, paint or fix into it",
       "Scalloped parapet edge",
       "The view"
     ],
@@ -62,7 +62,7 @@
       "JOB 2 — Render and paint the walls that belong to the house, smooth and professional",
       "JOB 3 — Make a door for the boiler alcove so the boiler is hidden",
       "JOB 4 — Finish installing the boiler: connect gas and thermostat",
-      "To confirm: which walls are ours — the house wall and the tall rendered wall, but not the stone wall?"
+      "To decide: boiler door colour"
     ]
   },
   "updated": "2026-11-14",
@@ -85,11 +85,11 @@
         "notes": "Breathable and mould-resistant; avoid plastic acrylic masonry paint on these walls"
       },
       {
-        "name": "Olive green",
-        "hex": "#5E6B4A",
-        "role": "boiler door + outdoor kitchen joinery (suggestion)",
+        "name": "Boiler door — undecided",
+        "hex": "#E8E1D0",
+        "role": "boiler door",
         "finish": "exterior satin",
-        "notes": "Or oak-tone to match the kitchen doors — to choose"
+        "notes": "Recommendation: paint it the wall colour so it disappears. Alternatives: oak-tone to match the kitchen doors, or olive green"
       },
       {
         "name": "Terracotta floor (existing)",
@@ -139,7 +139,7 @@
       },
       {
         "surface": "Stone wall",
-        "prep": "None — not to be rendered. Protect during works.",
+        "prep": "Neighbour's wall — not ours. Do not render, paint or drill. Protect during works.",
         "finish": "Leave natural",
         "colour": "—"
       },
@@ -147,14 +147,13 @@
         "surface": "Boiler alcove (Jobs 3 + 4)",
         "prep": "Boiler first: a registered gas installer connects the gas with fixed pipework (no loose hose), the flue and the thermostat, tests it and issues the declaration of conformity. Then tidy wiring into trunking and render the alcove inside.",
         "finish": "Louvred door across the opening, painted",
-        "colour": "Olive green or oak-tone — to choose",
+        "colour": "To decide — recommendation: same warm white as the walls, so the door disappears",
         "notes": "The door MUST be ventilated and must not restrict the flue — follow the boiler manual's clearances. Do not store the gas cylinder or stove in the alcove."
       }
     ],
     "notes": [
       "Order: boiler connection → conduit/cables hidden → render → paint → boiler door → outdoor kitchen → lights back up",
-      "Render in mild dry weather — not in frost or strong sun",
-      "Confirm wall ownership before rendering the tall wall"
+      "Render in mild dry weather — not in frost or strong sun"
     ],
     "access": "Through the kitchen — protect the kitchen floor"
   }
