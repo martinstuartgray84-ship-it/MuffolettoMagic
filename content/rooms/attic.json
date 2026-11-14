@@ -3,7 +3,7 @@
   "name": "Attic (open to the lounge)",
   "nameIt": "Sottotetto",
   "floor": "third",
-  "status": "survey",
+  "status": "designing",
   "dimensions": {
     "length": 5.5,
     "width": 2.7,
@@ -24,9 +24,116 @@
     "keep": [],
     "issues": [
       "Builder to confirm the ledge can carry people",
-      "Design the way up (ladder or steps)"
+      "Design the way up (ladder or steps)",
+      "To decide: shelves in the recesses — how many per recess, and fixed or removable"
     ]
   },
   "updated": "2026-11-14",
-  "ref": "Top 4"
+  "ref": "Top 4",
+  "target": {
+    "concept": "A calm, light Mediterranean reading loft on the ledge: warm white walls and recesses, books on simple pale-oak shelves in the back recesses, natural linen and jute underfoot, a few terracotta and cream pieces. Chosen by Steph (Nov 2026) as a mix of two inspiration renders: the white and natural colours of 'Calm Mediterranean' with the bookshelf recesses of 'Little library'.",
+    "mood": [
+      "Light and airy",
+      "Natural, undyed textures",
+      "Quiet reading corner",
+      "Lamplit niches at night"
+    ],
+    "palette": [
+      {
+        "name": "Warm white",
+        "hex": "#E8E1D0",
+        "role": "Walls and inside the recesses",
+        "brand": "Farrow & Ball",
+        "code": "Lime White No. 1",
+        "finish": "limewash or breathable matt — to confirm"
+      },
+      {
+        "name": "Matt black",
+        "hex": "#1F1F1F",
+        "role": "Guard rail (lounge job 2)",
+        "code": "RAL 9005",
+        "finish": "matt, micaceous iron paint — to confirm"
+      },
+      {
+        "name": "Light grey tile",
+        "hex": "#C9C7C2",
+        "role": "Ledge floor (lounge job 1)",
+        "code": "same tile as the lounge floor"
+      },
+      {
+        "name": "Natural oak",
+        "hex": "#C8A97E",
+        "role": "Recess shelves",
+        "code": "oiled oak, no gloss"
+      },
+      {
+        "name": "Terracotta",
+        "hex": "#B47750",
+        "role": "Accent: pots and ceramics only",
+        "code": "no paint"
+      }
+    ],
+    "materials": [
+      {
+        "name": "Shelves in the back recesses",
+        "detail": "Pale oak (oiled, matt) shelves, two or three per recess, set clear of the existing up/down wall lights. Builder to measure each recess.",
+        "status": "idea"
+      },
+      {
+        "name": "Floor",
+        "detail": "Grey floor tile, as agreed for lounge job 1",
+        "status": "chosen"
+      },
+      {
+        "name": "Guard rail",
+        "detail": "Slim matt-black iron rail with vertical bars, as agreed for lounge job 2",
+        "status": "chosen"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Low linen futon or thin mattress",
+        "detail": "Sitting height only — no standing room",
+        "status": "idea"
+      },
+      {
+        "name": "Rattan or seagrass baskets",
+        "detail": "For throws and blankets",
+        "status": "idea"
+      },
+      {
+        "name": "Terracotta pot with a small olive tree",
+        "status": "idea"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "Existing up/down lights in the recesses",
+        "detail": "Keep — they light the shelves",
+        "status": "installed"
+      },
+      {
+        "name": "Candles / small lantern on a shelf",
+        "detail": "Battery candles near books",
+        "status": "idea"
+      }
+    ],
+    "textiles": [
+      {
+        "name": "Natural undyed linen floor cushions",
+        "status": "idea"
+      },
+      {
+        "name": "Jute rug",
+        "detail": "Sized to the ledge, ≈ 2.4 × 1.6 m — measure first",
+        "status": "idea"
+      },
+      {
+        "name": "Linen throw over the rail",
+        "status": "idea"
+      }
+    ],
+    "renderFrom": "/photos/third-lounge/09.jpg",
+    "renderPrompt": "Edit this photo of a room in our house. Keep the exact camera angle and keep all the architecture exactly as it is: dark chestnut beams, the white walls, the raised ledge with its row of recesses under the old beam stubs, the small window with green shutters, the arched doorway, the daybed niche below. Do not add, move or remove anything structural. Remove all clutter: the cardboard box, the plaster patches, loose cables and the blue tape.\n\nChanges to make:\n- The ledge tiled in large light-grey floor tiles, with a slim matt-black iron guard rail with vertical bars along its edge.\n- Walls and recesses evenly painted warm white.\n- Each back recess fitted with simple pale natural-oak shelves filled with books, a few cream and terracotta ceramics and a candle, lit by the existing wall lights.\n- On the ledge: natural undyed linen floor cushions and a low linen futon, a jute rug, a rattan basket of throws, one terracotta pot with a small olive tree, a linen throw over the rail. Light, airy and simple, no strong colours.\n- Keep the gilt mirror, the brass chandelier and the daybed niche below.\n\nStyle: photorealistic interior photograph, natural light plus warm 2700K lamps, no people, no text or labels."
+  }
 }
