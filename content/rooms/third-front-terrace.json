@@ -5,45 +5,58 @@
   "floor": "third",
   "status": "designing",
   "dimensions": {
-    "length": 6.1,
-    "width": 1.35,
-    "area": 8.0,
-    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+    "length": 5.0,
+    "width": 1.2,
+    "area": 6.0,
+    "notes": "Measured by the owners: 120 cm from wall to railings, almost 5 m long."
   },
   "orientation": "Street-facing, full width of the façade, balustrade with two piers",
   "photos": [
     {
-      "src": "/photos/third-front-terrace/02.jpg",
-      "caption": "Looking along the terrace: lounge doors open, gas barbecue, antenna mast",
+      "src": "/photos/third-front-terrace/05.jpg",
+      "caption": "Mountain end: two bistro chairs and table, orange downpipe, weathered wall",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
-      "src": "/photos/third-front-terrace/03.jpg",
-      "caption": "Mountain end: bistro chairs, orange downpipe, view to the mountains",
+      "src": "/photos/third-front-terrace/04.jpg",
+      "caption": "Barbecue end: charcoal barbecue, TV aerial mast with trailing cables, mould-stained end wall, wooden shutter on the lounge doors",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
       "src": "/photos/third-front-terrace/01.jpg",
-      "caption": "The front double doors from outside — painted green, reflecting the village",
+      "caption": "The lounge doors from outside — painted green",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-front-terrace/02.jpg",
+      "caption": "Earlier: looking along the terrace",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-front-terrace/03.jpg",
+      "caption": "Earlier: mountain end",
       "kind": "current",
       "date": "2026-11-14"
     }
   ],
   "current": {
-    "summary": "Long, narrow terrace (≈6.1 × 1.35 m) across the top of the façade, reached through the lounge's front double doors — which are painted a deep green outside. Red quarry-tile floor, iron railings between rendered masonry piers. One end has a gas barbecue, a folding table and the TV antenna mast; the other end looks straight at the mountains, with two bistro chairs. The house wall is weathered render with mould staining and patches, a new dark metal gutter at the eaves and an orange PVC downpipe.",
+    "summary": "Long, narrow terrace across the front of the top floor: 1.20 m deep and almost 5 m long, reached through the lounge's double doors (green outside, with wooden shutters). Red quarry-tile floor, iron railings between rendered piers. Mountain end: two folding bistro chairs and a small table, facing the rock face and the village. Other end: a charcoal barbecue, the TV aerial mast with cables trailing down the wall and across the floor, and a mould-stained end wall. House wall: old textured render, weathered and stained, with patches; new dark metal gutter and fascia at the eaves; orange PVC downpipe; small solar light.",
     "keep": [
       "Green-painted front doors",
       "Iron railings",
       "The views: village, church and the mountain"
     ],
     "issues": [
-      "Weathered render with mould staining — clean, repair, mineral/lime paint",
-      "Bright orange PVC downpipe — paint to match the wall or replace",
-      "Antenna mast in the middle of the view — move or replace",
-      "Door bottom rails weathered; check draught seal",
-      "Barbecue here and on the back terrace — decide which terrace is for cooking"
+      "Proposed by Claude (not yet agreed): Walls: weathered, mould-stained textured render — treat, repair, repaint (same warm white and mineral paint as the back terrace)",
+      "Proposed by Claude (not yet agreed): Orange PVC downpipe — paint or replace to match the gutter",
+      "Proposed by Claude (not yet agreed): TV aerial mast and trailing cables — move, tidy or remove (is it still used now there is a satellite dish?)",
+      "Proposed by Claude (not yet agreed): Loose cable across the floor — trip hazard",
+      "Proposed by Claude (not yet agreed): Pier caps and railings: clean and repaint",
+      "Proposed by Claude (not yet agreed): Barbecue here as well as the outdoor kitchen on the back terrace — keep this terrace for sitting and the view?"
     ]
   },
   "updated": "2026-11-14",
