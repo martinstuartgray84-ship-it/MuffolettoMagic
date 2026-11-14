@@ -4,16 +4,16 @@
   "nameIt": "Lavanderia / dispensa",
   "ref": "Top 1b",
   "floor": "third",
-  "status": "survey",
+  "status": "designing",
   "dimensions": {
     "width": 1.16,
-    "notes": "116 cm wide (measured). Depth and height to measure."
+    "notes": "Measured by the owners: space 116 cm wide × 231 cm (taken as floor-to-ceiling height — to confirm). 66 cm of wall between the back wall and the bathroom door opening. Washing machine 60 cm wide. Current fridge 54 cm wide × 142 cm high."
   },
   "orientation": "Between the kitchen and the bathroom; the bathroom's sliding door opens off it",
   "photos": [
     {
-      "src": "/photos/third-kitchen/03.jpg",
-      "caption": "Washing machine and fridge-freezer; bathroom door on the right",
+      "src": "/photos/third-utility/01.jpg",
+      "caption": "The space today: washing machine + fridge on the back wall, bathroom sliding door on the right, glass blocks above it",
       "kind": "current",
       "date": "2026-11-14"
     },
@@ -25,13 +25,102 @@
     }
   ],
   "current": {
-    "summary": "Small space next to the bathroom holding the washing machine (Beko) and a pink Candy fridge-freezer, with a two-ring hotplate on top. The bathroom's sliding door and the row of glass blocks above it are on this side. Walls patched and unpainted. More photos to come — this is the next room after the bathroom.",
-    "keep": [],
+    "summary": "Alcove 116 cm wide between the kitchen and the bathroom. On the back wall: Beko washing machine (60 cm) and a pink Candy fridge-freezer (54 cm wide, 142 cm high) — together 114 cm of the 116. The bathroom's sliding door is in the right-hand wall, starting 66 cm from the back wall, with a row of glass blocks above it. Walls patched and unpainted; a socket and a switch sit on the back wall behind/above the appliances; one ceiling downlight. The washing machine's pipes and valves behind it are loose and need fixing into the wall.",
+    "keep": [
+      "Washing machine (Beko, 60 cm)"
+    ],
     "issues": [
-      "Glass blocks above the bathroom door: plaster over on this side (decided)",
-      "Bathroom door surround unfinished on this side",
-      "Walls unfinished"
+      "JOB 1 — Replace the fridge (current one not liked)",
+      "JOB 2 — Plaster over the glass blocks on this side",
+      "JOB 3 — Build wall cabinets above the fridge and washing machine so the space looks deliberate and organised",
+      "JOB 4 — Washing-machine pipes and water valves to be fixed into the wall properly",
+      "To check: the sliding bathroom door has only 66 cm of wall to slide along, for a 74 cm opening — and it slides beside the fridge"
     ]
   },
-  "updated": "2026-11-14"
+  "updated": "2026-11-14",
+  "target": {
+    "concept": "DRAFT — a small fitted utility wall. Washing machine on the left under a timber worktop, a new tall fridge-freezer on the right, and one continuous run of cupboards across the full 116 cm up to the ceiling, with filler strips to the walls so it reads as built-in. Cupboard doors in the same green as the kitchen units; walls and the plastered-over glass blocks in the same warm white as the kitchen. Sockets moved to where they can be reached.",
+    "mood": [
+      "fitted",
+      "tidy",
+      "matches the kitchen"
+    ],
+    "palette": [
+      {
+        "name": "Sage (kitchen units)",
+        "hex": "#5F7564",
+        "role": "cupboard doors",
+        "notes": "Colour-match to a kitchen door"
+      },
+      {
+        "name": "Lime White",
+        "hex": "#E8E1D0",
+        "role": "walls + plastered-over glass blocks",
+        "brand": "Farrow & Ball",
+        "code": "No. 1",
+        "finish": "matt, wipeable"
+      },
+      {
+        "name": "Dark wood worktop (as kitchen)",
+        "hex": "#4A3426",
+        "role": "shelf/worktop over the washing machine"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Top cupboards, full width",
+        "detail": "2 doors across 116 cm, from about 185 cm up to the 231 cm ceiling (≈45 cm high), ≈55 cm deep over the fridge side",
+        "status": "idea"
+      },
+      {
+        "name": "Worktop over the washing machine",
+        "detail": "At ≈90 cm, 60 cm wide — for the laundry basket / folding; open shelf or second cupboard between it and the top row",
+        "status": "idea"
+      },
+      {
+        "name": "New fridge-freezer",
+        "detail": "Freestanding. Max width depends on the door question: 55 cm if the sliding door does not need the gap beside it, about 50 cm if it does. Up to ≈180 cm high fits under the top cupboards — much more capacity than the current 142 cm.",
+        "status": "idea"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "LED strip under the top cupboards",
+        "status": "idea"
+      }
+    ]
+  },
+  "brief": {
+    "scope": [
+      "Plaster over the glass blocks (this side)",
+      "Fix washing-machine supply and waste into the wall",
+      "Finish and paint walls",
+      "Build and fit cupboards; fit new fridge"
+    ],
+    "surfaces": [
+      {
+        "surface": "Glass blocks above bathroom door",
+        "prep": "Glass will not hold plaster directly: fix plasterboard over, or mesh + bonding coat; joint to existing wall with scrim tape to prevent a crack line",
+        "finish": "Skim, then paint",
+        "colour": "Lime White"
+      },
+      {
+        "surface": "Back wall — washing-machine services",
+        "prep": "Chase supply and waste into the wall. Fit a recessed washing-machine box (flush tap + trap in one wall box) so the machine can sit back to the wall and the isolating valve stays reachable — do NOT cement valves in where they cannot be turned off or replaced.",
+        "finish": "Make good, skim",
+        "colour": "Lime White",
+        "notes": "Move the socket(s) above worktop height so plugs are reachable; one socket for the fridge high on the right"
+      },
+      {
+        "surface": "All walls + ceiling",
+        "prep": "Fill, sand, mist coat on new plaster",
+        "finish": "2 coats wipeable matt",
+        "colour": "Lime White"
+      }
+    ],
+    "notes": [
+      "Fridge needs ventilation: leave the gap the manufacturer asks for above and behind; do not box it in tight",
+      "Agree the bathroom door solution (slide / bi-fold / size) BEFORE building cupboards — it decides the fridge width"
+    ]
+  }
 }

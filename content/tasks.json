@@ -196,14 +196,14 @@
   },
   {
     "id": "t022",
-    "title": "Fridge & utility room: built-in housing for washing machine + fridge (space is 116 cm wide)",
+    "title": "Utility room job 3: build cupboards above the fridge and washing machine (full 116 cm width, to the 231 cm ceiling)",
     "type": "project",
     "room": "third-utility",
     "priority": "medium",
     "status": "todo",
     "who": "Carpenter",
     "added": "2026-11-14",
-    "notes": "Bay is 116 cm wide: washer (60) + standard fridge (55–60) won't fit with ventilation — choose a slim fridge (≤54 cm) or rethink"
+    "notes": "Doors to match the kitchen green. Wait for the door + fridge decisions"
   },
   {
     "id": "t023",
@@ -398,7 +398,7 @@
     "priority": "high",
     "status": "todo",
     "who": "Builder / carpenter",
-    "notes": "Decide: new door (recommended) or lengthen the old one",
+    "notes": "CHECK FIRST: only 66 cm of wall for the door to slide along (opening 74 cm) and the fridge stands beside it — door size/type depends on this. Options: slide (never fully clear), bi-fold, or new door size",
     "added": "2026-11-14"
   },
   {
@@ -414,13 +414,53 @@
   },
   {
     "id": "t044",
-    "title": "Plaster over the glass blocks on the fridge & utility room side",
+    "title": "Utility room job 2: plaster over the glass blocks (board or mesh first)",
     "type": "fix",
     "room": "third-utility",
     "priority": "medium",
     "status": "todo",
     "who": "Plasterer",
     "notes": "Key the glass first: mesh + bonding coat, or board over",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t045",
+    "title": "Utility room job 1: choose a replacement fridge-freezer (≤55 cm wide, or ≤50 cm if the door slides beside it; up to ≈180 cm high)",
+    "type": "buy",
+    "room": "third-utility",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t046",
+    "title": "Utility room job 4: fix washing-machine pipes and valves into the wall — recessed washing-machine box, valve left accessible",
+    "type": "fix",
+    "room": "third-utility",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Plumber",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t047",
+    "title": "Utility room: move sockets to reachable height; add under-cupboard light",
+    "type": "fix",
+    "room": "third-utility",
+    "priority": "low",
+    "status": "todo",
+    "who": "Electrician",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t048",
+    "title": "Check how the bathroom door slides: which direction, how far it opens, and the gap between fridge and that wall",
+    "type": "admin",
+    "room": "third-utility",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin & Stefany",
     "added": "2026-11-14"
   }
 ]
