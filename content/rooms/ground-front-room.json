@@ -1,9 +1,9 @@
 {
   "slug": "ground-front-room",
-  "name": "Ground-floor front room",
-  "nameIt": "Sala al piano terra",
+  "name": "Ground-floor lounge & dining room",
+  "nameIt": "Salotto e sala da pranzo, piano terra",
   "floor": "ground",
-  "status": "survey",
+  "status": "designing",
   "dimensions": {
     "length": 5.6,
     "width": 3.4,
@@ -12,13 +12,59 @@
     "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. Irregular plan: the left wall is angled, so the room narrows from ≈3.75 m at the street to ≈2 m at the back."
   },
   "orientation": "Street-facing window (0.95 × 0.86 m, sill at 1.27 m, with iron grille)",
-  "photos": [],
+  "photos": [
+    {
+      "src": "/photos/ground-front-room/03.jpg",
+      "caption": "Sitting end: carved display cabinet, leather armchairs, marble-top table; exposed rock on the left",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-front-room/02.jpg",
+      "caption": "Leather settee under the carved mirror; small low door in the corner; sloping underside of the stairs",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-front-room/04.jpg",
+      "caption": "Dining end: long carved table, sideboard, old wooden wall hatch under a timber lintel, stone pier",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-front-room/01.jpg",
+      "caption": "The display cabinet and armchair in warm light",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-front-room/06.jpg",
+      "caption": "Target image (supplied by Martin & Stefany): this room with dark navy walls, lit beams, wall lights, uplit stone and rock",
+      "kind": "render",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/ground-front-room/05.jpg",
+      "caption": "Inspiration (supplied by Martin & Stefany): navy panelled bar room with brass, maps and leather",
+      "kind": "inspiration",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "The largest ground-floor space, behind the barred window to the left of the front door. Irregular, wedge-shaped plan with a curved recess in the angled wall. A circular element (~0.75 m across) is drawn near the back — to confirm what it is (well? cistern? column?). Door (0.98 × 1.90 m) through to the entrance hall; a low door at the back into the under-stair store.",
-    "keep": [],
+    "summary": "The ground-floor room, used as a lounge and dining room. Dark timber beams across the ceiling; walls plastered and painted cream-white; terracotta floor tiles laid square. The house's stone shows through in two places: a large outcrop of bare rock projecting from one wall, and a rough stone pier at the dining end. An old wooden wall hatch sits under a timber lintel above the sideboard; a small low door in the corner leads to the under-stair store; the underside of the staircase cuts across one corner as a sloping soffit. Furniture is a carved walnut suite: a tall glazed display cabinet with a carved crest, a long sideboard, a long dining table on carved pedestals with damask-upholstered chairs, an oval marble-top coffee table, a large carved-frame mirror, and a tan leather button-back settee with matching armchairs. Also in the room: a tall drinks fridge, two white office chairs at the table, a gas heater, a stack of boxes by the pier. Lighting is a bare ceiling spotlight plus two small table lamps.",
+    "keep": [
+      "Beams",
+      "Exposed rock outcrop and stone pier — the features of the room",
+      "Old wall hatch and its timber lintel",
+      "Terracotta floor",
+      "All the carved walnut furniture, the leather suite, the carved mirror"
+    ],
     "issues": [
-      "To confirm: what is the circular element at the back of the room?",
-      "Ground-floor room against the street — check for damp at the base of walls"
+      "Proposed by Claude (not yet agreed): Lighting: one bare cold spotlight — the target image depends entirely on warm, layered light (track spots on the beams, wall lights, uplights on the stone)",
+      "Proposed by Claude (not yet agreed): Cables trailing from the wall hatch",
+      "Proposed by Claude (not yet agreed): Office chairs, stacked boxes and the gas heater spoil the room — replace the chairs with two more dining chairs or carvers; find a home for the boxes",
+      "Proposed by Claude (not yet agreed): Ground floor against the street: check the base of the walls for damp before painting in a dark colour",
+      "Proposed by Claude (not yet agreed): Architects' proposal: a sewer pipe is to be laid under this floor — do that before decorating"
     ]
   },
   "updated": "2026-11-14",
@@ -41,6 +87,139 @@
     "questions": [
       "Is the existing floor worth lifting carefully and relaying, or is it being replaced? (decides the finish we design)",
       "The circle near the back of the room is on both survey and A3 drawings — what is it?"
+    ]
+  },
+  "target": {
+    "concept": "The owners' direction: a dark, clubby cellar lounge and dining room. Walls in deep navy, the beams left dark and lit from below, the rock outcrop and the stone pier uplit as features, the terracotta floor and all the walnut and leather kept. From the inspiration image: brass, old framed maps, a drinks display, lamps everywhere. The room's own furniture already does most of the work — it needs the colour and the light.",
+    "mood": [
+      "cellar bar",
+      "navy and tan leather",
+      "brass and walnut",
+      "low warm light"
+    ],
+    "palette": [
+      {
+        "name": "Deep navy",
+        "hex": "#1F2A3A",
+        "role": "walls, and the sloping underside of the stairs",
+        "brand": "Farrow & Ball",
+        "code": "closest: Hague Blue No. 30 (darker: Railings No. 31)",
+        "finish": "breathable matt — mineral or limewash-type paint on a ground-floor wall",
+        "notes": "HEX approximate, from the target image"
+      },
+      {
+        "name": "Beams (existing)",
+        "hex": "#2A211B",
+        "role": "ceiling beams and boards — leave dark; clean and wax"
+      },
+      {
+        "name": "Terracotta floor (existing)",
+        "hex": "#A6583A",
+        "role": "floor — clean and seal"
+      },
+      {
+        "name": "Stone and rock (existing)",
+        "hex": "#8C8679",
+        "role": "outcrop and pier — unpainted, brushed clean"
+      },
+      {
+        "name": "Antique brass",
+        "hex": "#A88A4F",
+        "role": "wall lights, picture lights, hardware"
+      },
+      {
+        "name": "Tan leather (existing)",
+        "hex": "#A5552F",
+        "role": "settee and armchairs"
+      }
+    ],
+    "materials": [
+      {
+        "name": "Navy on the walls only — or walls and the plaster between the beams?",
+        "detail": "Recommendation: walls only. Keep the ceiling between the beams a warm off-white or pale stone so the room does not close in; the target image has timber boards there, which this room may not have.",
+        "status": "idea"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Drinks cabinet",
+        "detail": "Replace the white-fronted drinks fridge look: a black glass-door wine fridge, or build it into a dark surround as in the target image",
+        "status": "idea"
+      },
+      {
+        "name": "Two more dining chairs",
+        "detail": "In place of the office chairs — matching carved chairs or two leather carvers",
+        "status": "idea"
+      },
+      {
+        "name": "Framed antique maps of Sicily and the Mediterranean",
+        "detail": "Dark or gilt frames, from the inspiration image",
+        "status": "idea"
+      },
+      {
+        "name": "Persian-style rug under the coffee table",
+        "status": "idea"
+      }
+    ],
+    "lighting": [
+      {
+        "name": "Track of 3 adjustable spots fixed along a beam",
+        "detail": "Black, warm 2700K, dimmable — aimed at the table and the cabinet, as in the target image",
+        "status": "idea"
+      },
+      {
+        "name": "Two brass wall lights either side of the wall hatch",
+        "status": "idea"
+      },
+      {
+        "name": "Floor uplights at the rock outcrop and the stone pier",
+        "detail": "Plug-in uplights work — no chasing into stone",
+        "status": "idea"
+      },
+      {
+        "name": "Table lamps on the sideboard",
+        "detail": "Bigger shades than the current pair",
+        "status": "idea"
+      }
+    ]
+  },
+  "brief": {
+    "scope": [
+      "Paint walls deep navy",
+      "Clean and wax beams",
+      "Clean and seal floor",
+      "Lighting"
+    ],
+    "surfaces": [
+      {
+        "surface": "Walls and stair soffit",
+        "prep": "Check for damp and salts at the base first; fill, sand; cut in carefully around the rock, the pier, the hatch lintel and the beams — leave all four unpainted",
+        "finish": "Tinted undercoat, then 2 coats breathable matt",
+        "colour": "Deep navy — Hague Blue No. 30 or match"
+      },
+      {
+        "surface": "Beams",
+        "prep": "Brush down, check for woodworm",
+        "finish": "Clear matt wax or oil",
+        "colour": "As existing"
+      },
+      {
+        "surface": "Rock outcrop and stone pier",
+        "prep": "Dry-brush clean",
+        "finish": "None — optionally a clear matt stone sealer to stop dusting",
+        "colour": "Natural"
+      },
+      {
+        "surface": "Terracotta floor",
+        "prep": "Deep clean",
+        "finish": "Impregnating sealer, matt",
+        "colour": "As existing"
+      }
+    ],
+    "notes": [
+      "Do the architects' under-floor sewer pipe before any decoration in this room",
+      "Electrician first: track on the beam and wall lights need cables before painting",
+      "Dark paint shows every flaw and every scuff — walls must be well prepared"
     ]
   }
 }

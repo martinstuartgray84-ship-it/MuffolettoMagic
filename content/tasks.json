@@ -47,7 +47,7 @@
   },
   {
     "id": "t007",
-    "title": "Identify the circular elements: ground-floor front room and third-floor landing (“Altezza 1.7”) — well, water tank, spiral stair?",
+    "title": "Identify the circular element on the third-floor landing (“Altezza 1.7”) and the one drawn on the ground floor",
     "type": "admin",
     "priority": "medium",
     "status": "todo",
@@ -858,6 +858,45 @@
     "priority": "medium",
     "status": "todo",
     "who": "Martin & Stefany / fitter",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t086",
+    "title": "Ground-floor lounge: paint walls deep navy (after damp check and the sewer pipe works)",
+    "type": "decor",
+    "room": "ground-front-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Decorator",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t087",
+    "title": "Ground-floor lounge: lighting — track spots on a beam, two wall lights, uplights for the rock and the pier",
+    "type": "project",
+    "room": "ground-front-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Electrician",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t088",
+    "title": "Ground-floor lounge: two dining chairs to replace the office chairs; framed antique maps; rug; uplights and lamps",
+    "type": "buy",
+    "room": "ground-front-room",
+    "priority": "low",
+    "status": "todo",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t089",
+    "title": "Ground-floor lounge: confirm with Studio A3 when the under-floor sewer pipe is being laid — before decorating",
+    "type": "admin",
+    "room": "ground-front-room",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin",
     "added": "2026-11-14"
   }
 ]
