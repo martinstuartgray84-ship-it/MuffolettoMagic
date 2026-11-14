@@ -259,9 +259,9 @@
     "type": "project",
     "room": "attic",
     "priority": "low",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "notes": "After insulation check (t021) and headroom measurements",
+    "notes": "Decided: a reading nook / chill-out area",
     "added": "2026-11-14"
   },
   {
@@ -318,7 +318,7 @@
   },
   {
     "id": "t034",
-    "title": "Lounge job 4: finish the green cupboards in the olive chalk paint, then wax or varnish",
+    "title": "Lounge job 4: finish the green cupboards in Magic Paint Italy olive green, then protect",
     "type": "decor",
     "room": "third-lounge",
     "priority": "medium",
@@ -586,13 +586,13 @@
   },
   {
     "id": "t060",
-    "title": "Lounge job 1: tile the attic ledge",
+    "title": "Lounge job 1: tile the attic ledge in the grey floor tile",
     "type": "decor",
     "room": "third-lounge",
     "priority": "high",
     "status": "todo",
     "who": "Tiler",
-    "notes": "Choose tile: terracotta (recommended) or light grey",
+    "notes": "Check spare tiles / batch code. Builder to confirm the ledge can carry people",
     "added": "2026-11-14"
   },
   {
@@ -603,7 +603,7 @@
     "priority": "medium",
     "status": "todo",
     "who": "Blacksmith / builder",
-    "notes": "Slim black iron. Fix posts before tiling",
+    "notes": "Full guard: about 1 m high, gaps under 10 cm. Fix posts before tiling. Leave an opening for the access",
     "added": "2026-11-14"
   },
   {
@@ -619,7 +619,7 @@
   },
   {
     "id": "t063",
-    "title": "Lounge job 5: proper top for the TV unit (replace the pink plasterboard)",
+    "title": "Lounge job 5: proper top for the TV unit, 50 × 220 cm (replace the pink plasterboard)",
     "type": "project",
     "room": "third-lounge",
     "priority": "medium",
@@ -648,6 +648,16 @@
     "status": "todo",
     "who": "Decorator",
     "notes": "",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t066",
+    "title": "Design the way up to the attic ledge (ladder or steps) and measure the headroom up there",
+    "type": "project",
+    "room": "third-lounge",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany / carpenter",
     "added": "2026-11-14"
   }
 ]

@@ -99,11 +99,11 @@
       "The new up/down lights in the recesses — they work well"
     ],
     "issues": [
-      "JOB 1 — Tile the attic ledge (the raised platform above the daybed) — first job",
-      "JOB 2 — Balustrade / rail along the edge of the attic ledge (probably)",
+      "JOB 1 — Tile the attic ledge with the same grey floor tiles as the rest of the floor — first job",
+      "JOB 2 — Balustrade along the edge of the attic ledge — a full guard rail, since the ledge will become a chill-out / reading area",
       "JOB 3 — Reading nook: keep as it is; maybe a small light, and a socket/cable point",
-      "JOB 4 — Green cupboards: olive green chalk paint (the 'Italy magic paint') — finish painting, including the stripped patch",
-      "JOB 5 — TV unit top: replace the pink plasterboard cover with a proper top",
+      "JOB 4 — Green cupboards: finish in the olive green Magic Paint Italy, including the stripped patch",
+      "JOB 5 — TV unit top (50 × 220 cm): replace the pink plasterboard cover with a proper top",
       "JOB 6 — Ceiling timbers: treat and finish (varnish)",
       "JOB 7 — Paint the walls",
       "Proposed by Claude (not yet agreed): Back-door recess is unfinished: open wiring boxes, an exposed cable chase up the wall, black membrane showing at the floor, no skirting",
@@ -137,9 +137,10 @@
         "name": "Olive green (existing cupboards)",
         "hex": "#6B7A3A",
         "role": "built-in cupboards",
-        "brand": "Chalk paint — exact brand and colour name to confirm from the tin",
+        "brand": "Magic Paint Italy",
         "finish": "chalk matt, sealed with clear wax or matt varnish",
-        "notes": "HEX approximate, from the photos"
+        "notes": "HEX approximate, from the photos",
+        "code": "Olive green — exact shade name on the tin"
       },
       {
         "name": "Roof timbers",
@@ -163,19 +164,24 @@
     "materials": [
       {
         "name": "Attic ledge floor tile",
-        "detail": "Recommendation: terracotta (cotto) — warm against the white steps and ties to both terraces. Alternative: the same light-grey tile as the room floor, for a quieter look. A matching tile or timber nosing along the front edge.",
-        "status": "idea"
+        "detail": "The same light-grey tile used throughout the floor (decided), with a matching nosing along the front edge. Check there are enough spare tiles, or the batch code to reorder.",
+        "status": "chosen"
       },
       {
-        "name": "TV unit top",
-        "detail": "Recommendation: solid timber top to match the shelf above the TV (oak or chestnut, about 3 cm, oiled). Alternative: a marble offcut.",
+        "name": "TV unit top — 50 × 220 cm",
+        "detail": "Recommendation: solid timber to match the shelf above the TV (oak or chestnut, about 3 cm, oiled). 220 cm is a long single board — a timber yard or carpenter will cut it; allow 1–2 cm overhang at the front if wanted.",
         "status": "idea"
       }
     ],
     "furniture": [
       {
         "name": "Balustrade for the attic ledge",
-        "detail": "Slim black wrought-iron rail, simple vertical bars, echoing the terrace railings — fixed into the ledge edge. If the ledge is only for display, a low rail is a choice; if anyone will go up there, it must be a proper guard: about 1 m high, gaps under 10 cm, solidly fixed.",
+        "detail": "The ledge will be used as a chill-out area, so this is a safety guard: about 1 m high, gaps under 10 cm, nothing climbable, posts bolted into solid masonry. Slim black iron with vertical bars. Include a gate or opening where the access comes up.",
+        "status": "idea"
+      },
+      {
+        "name": "Way up to the ledge",
+        "detail": "To design: fixed timber or iron ladder / alternating-tread steps, positioned so it doesn't block the daybed or the back doors. Decide before the balustrade is made.",
         "status": "idea"
       }
     ],
@@ -209,9 +215,9 @@
     "surfaces": [
       {
         "surface": "Attic ledge (Job 1)",
-        "prep": "Check the ledge is solid and level; prime; decide and fix the balustrade posts first (or leave fixing points) so tiles are cut round them",
+        "prep": "Check the ledge is solid, level and can carry people (it will be used as a sitting area) — builder to confirm. Fix the balustrade posts first so tiles are cut round them",
         "finish": "Tile with flexible adhesive, edge nosing along the front",
-        "colour": "Terracotta or light grey — to choose"
+        "colour": "Light-grey floor tile, as the rest of the floor"
       },
       {
         "surface": "Roof timbers: beams, rafters, boards (Job 6)",
@@ -230,8 +236,8 @@
       {
         "surface": "Green built-in cupboards (Job 4)",
         "prep": "Clean, light sand, touch in the stripped patch",
-        "finish": "2 coats olive chalk paint, then clear wax or matt varnish to protect",
-        "colour": "Olive green — existing chalk paint"
+        "finish": "2 coats Magic Paint Italy olive green, then its clear protective finish",
+        "colour": "Olive green — Magic Paint Italy"
       }
     ],
     "notes": [
