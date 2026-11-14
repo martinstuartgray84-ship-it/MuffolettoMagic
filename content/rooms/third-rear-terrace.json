@@ -1,0 +1,23 @@
+{
+  "slug": "third-rear-terrace",
+  "name": "Rear terrace",
+  "nameIt": "Terrazzo posteriore",
+  "floor": "third",
+  "status": "survey",
+  "dimensions": {
+    "length": 4.05,
+    "width": 3.0,
+    "area": 12.0,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+  },
+  "orientation": "Open to the sky (shown paved on the roof plan); small opening in the back wall",
+  "photos": [],
+  "current": {
+    "summary": "Paved roof terrace at the back, reached through a low door (0.57 × 1.73 m) from the corridor. A tiled strip runs along its right-hand edge.",
+    "keep": [],
+    "issues": [
+      "Access door is very low/narrow (0.57 × 1.73 m) — candidate for enlarging"
+    ]
+  },
+  "updated": "2026-11-14"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "facade",
+  "name": "Front façade",
+  "nameIt": "Prospetto principale",
+  "floor": "outside",
+  "status": "survey",
+  "dimensions": {
+    "length": 6.4,
+    "height": 12.8,
+    "notes": "Façade ≈6.4 m wide × ≈12.8 m to the eaves, scaled from the elevation. Gross area ≈ 80 m² before openings."
+  },
+  "photos": [],
+  "current": {
+    "summary": "Rendered façade on a sloping street. Ground floor: arched front door with radiating stone voussoirs, rusticated stone jambs and an ornamental iron fanlight; barred window to the left; stone-clad plinth. First floor: French window with Juliet balcony. Second floor: French window with projecting wrought-iron balcony, above a moulded string course. Third floor: terrace with railings between piers. Pitched roof in coppi tiles with a rainwater downpipe on the left.",
+    "keep": [
+      "Stone door surround and fanlight",
+      "All wrought-iron balcony railings",
+      "String course mouldings"
+    ],
+    "issues": []
+  },
+  "updated": "2026-11-14"
+}

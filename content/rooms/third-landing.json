@@ -1,0 +1,22 @@
+{
+  "slug": "third-landing",
+  "name": "Third-floor landing & circular feature",
+  "nameIt": "Pianerottolo, terzo piano",
+  "floor": "third",
+  "status": "survey",
+  "dimensions": {
+    "length": 2.1,
+    "width": 0.8,
+    "height": 2.4,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+  },
+  "photos": [],
+  "current": {
+    "summary": "Top of the main stair with an external door in the angled wall (1.05 × 1.90 m) and a circular element marked “Altezza 1.7” (height 1.7 m) beside it — possibly a water tank or a spiral stair up to the attic. To confirm.",
+    "keep": [],
+    "issues": [
+      "Confirm what the circular element is and how the attic is reached"
+    ]
+  },
+  "updated": "2026-11-14"
+}

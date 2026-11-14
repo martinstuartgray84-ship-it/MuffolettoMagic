@@ -1,0 +1,44 @@
+{
+  "slug": "first-main-room",
+  "name": "First-floor bedroom",
+  "nameIt": "Camera da letto, primo piano",
+  "floor": "first",
+  "status": "designing",
+  "dimensions": {
+    "length": 4.5,
+    "width": 3.65,
+    "height": 2.8,
+    "area": 16.4,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+  },
+  "orientation": "French window to the street (1.12 × 2.12 m) with Juliet balcony",
+  "photos": [],
+  "current": {
+    "summary": "Regular rectangular room across most of the front of the house, with a hexagonal-pattern floor shown on the survey (tiles? to confirm). Door from the stair landing (0.84 × 1.89 m). A small side room opens off the front-left corner.",
+    "keep": [],
+    "issues": []
+  },
+  "updated": "2026-11-14",
+  "proposal": {
+    "by": "Studio Architettura A3",
+    "date": "2026-04-15",
+    "summary": "The main first-floor room becomes a double bedroom with its own en-suite shower room in the former side room.",
+    "items": [
+      "Double bed against the back wall with bedside tables either side (as drawn)",
+      "Part of the existing doorway to the side room infilled and a new opening formed for the en-suite (door 0.77 × 1.87 m)",
+      "French window to Largo Pietra Rossa unchanged"
+    ],
+    "drawings": [
+      {
+        "name": "Tavola 2 — first floor, option A",
+        "src": "/plans/a3-tav2-first-floor.png",
+        "pdf": "/plans/a3-tav2-first-floor-2026-04-15.pdf"
+      },
+      {
+        "name": "Tavola 2/B — first floor, option B",
+        "src": "/plans/a3-tav2b-first-floor.png",
+        "pdf": "/plans/a3-tav2b-first-floor-2026-04-15.pdf"
+      }
+    ]
+  }
+}

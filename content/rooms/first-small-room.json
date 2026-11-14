@@ -1,0 +1,59 @@
+{
+  "slug": "first-small-room",
+  "name": "First-floor en-suite shower room",
+  "nameIt": "Bagno en-suite, primo piano",
+  "floor": "first",
+  "status": "designing",
+  "dimensions": {
+    "length": 1.4,
+    "width": 1.0,
+    "height": 2.83,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+  },
+  "orientation": "Small window (≈0.5 × 0.5 m) onto the angled side",
+  "photos": [],
+  "current": {
+    "summary": "Existing: a tiny room in the front-left corner off the main room (door 0.77 × 1.87 m), with a small window onto the triangular void beside via Pietra Rossa. To become the en-suite shower room (see proposed works).",
+    "keep": [],
+    "issues": [
+      "Very tight — every centimetre counts; true wall positions unknown until plaster is stripped"
+    ]
+  },
+  "updated": "2026-11-14",
+  "proposal": {
+    "by": "Studio Architettura A3",
+    "date": "2026-04-15",
+    "summary": "The tiny side room is rebuilt as an en-suite shower room for the bedroom, with a new pipe shaft in the triangular void behind it. Two layouts drawn:",
+    "options": [
+      {
+        "name": "Option A (Tavola 2)",
+        "detail": "Shower 70 × 85 cm in the far corner; round basin on a wooden top; WC along the angled wall with a recessed cabinet (with door) above it; pipe shaft in the triangle."
+      },
+      {
+        "name": "Option B (Tavola 2/B)",
+        "detail": "Shower in a niche at the back (≈0.52 × 0.80 m) — plaster to be stripped back to the brick to win every centimetre; WC in the middle (0.87 m bay, 0.45 m clear); basin on a wooden surface at the front (0.87 × 0.70 m) with mirror over; mosaic-tiled floor."
+      }
+    ],
+    "items": [
+      "New pipe shaft (in the triangular void) taking waste down to ground floor",
+      "Mosaic tile floor drawn",
+      "Door 0.77 × 1.87 m from the bedroom"
+    ],
+    "drawings": [
+      {
+        "name": "Tavola 2 — first floor, option A",
+        "src": "/plans/a3-tav2-first-floor.png",
+        "pdf": "/plans/a3-tav2-first-floor-2026-04-15.pdf"
+      },
+      {
+        "name": "Tavola 2/B — first floor, option B",
+        "src": "/plans/a3-tav2b-first-floor.png",
+        "pdf": "/plans/a3-tav2b-first-floor-2026-04-15.pdf"
+      }
+    ],
+    "questions": [
+      "Which option do you prefer? Option B gives a proper basin area; Option A a slightly bigger shower",
+      "Strip plaster to brick first (Option B note) so we know the real shower size"
+    ]
+  }
+}

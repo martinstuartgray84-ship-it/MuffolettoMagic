@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.vercel
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+# raw, un-resized uploads land here before scripts/add-photos.mjs processes them
+inbox/*
+!inbox/README.md

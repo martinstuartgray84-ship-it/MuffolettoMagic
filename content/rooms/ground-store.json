@@ -1,0 +1,40 @@
+{
+  "slug": "ground-store",
+  "name": "Under-stair store → water tank & pump",
+  "nameIt": "Ripostiglio / cantina",
+  "floor": "ground",
+  "status": "designing",
+  "dimensions": {
+    "length": 1.55,
+    "width": 1.0,
+    "height": 1.58,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. Height 1.58 m max — not habitable; storage only."
+  },
+  "photos": [],
+  "current": {
+    "summary": "Small low store at the back right, reached through a 0.67 × 1.51 m door from the front room.",
+    "keep": [],
+    "issues": []
+  },
+  "updated": "2026-11-14",
+  "proposal": {
+    "by": "Studio Architettura A3",
+    "date": "2026-04-15",
+    "summary": "The store becomes the plant room: a water storage tank with a silent booster pump.",
+    "items": [
+      "Water storage tank (fits within ≈1.0 × 1.5 m footprint, max height 1.58 m)",
+      "Silent booster pump for water pressure to the upper floors"
+    ],
+    "drawings": [
+      {
+        "name": "Tavola 1 — ground floor, existing vs proposed",
+        "src": "/plans/a3-tav1-ground-floor.png",
+        "pdf": "/plans/a3-tav1-ground-floor-2026-04-15.pdf"
+      }
+    ],
+    "questions": [
+      "Tank capacity (litres) and make/model?",
+      "Ventilation and access for maintenance — keep the 0.67 m door?"
+    ]
+  }
+}

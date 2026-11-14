@@ -1,0 +1,24 @@
+{
+  "slug": "third-room-a",
+  "name": "Third-floor room (street side)",
+  "nameIt": "Camera A, terzo piano",
+  "floor": "third",
+  "status": "survey",
+  "dimensions": {
+    "length": 2.65,
+    "width": 1.85,
+    "height": 2.41,
+    "area": 4.9,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+  },
+  "orientation": "Window to the front (1.06 × 1.49 m, sill 0.73 m)",
+  "photos": [],
+  "current": {
+    "summary": "Small room off the corridor (door 0.67 × 2.09 m). Use to confirm — kitchen, bathroom or small bedroom?",
+    "keep": [],
+    "issues": [
+      "To confirm current use"
+    ]
+  },
+  "updated": "2026-11-14"
+}

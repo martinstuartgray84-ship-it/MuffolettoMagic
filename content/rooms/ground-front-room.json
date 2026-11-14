@@ -1,0 +1,46 @@
+{
+  "slug": "ground-front-room",
+  "name": "Ground-floor front room",
+  "nameIt": "Sala al piano terra",
+  "floor": "ground",
+  "status": "survey",
+  "dimensions": {
+    "length": 5.6,
+    "width": 3.4,
+    "height": 2.7,
+    "area": 17.5,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. Irregular plan: the left wall is angled, so the room narrows from ≈3.75 m at the street to ≈2 m at the back."
+  },
+  "orientation": "Street-facing window (0.95 × 0.86 m, sill at 1.27 m, with iron grille)",
+  "photos": [],
+  "current": {
+    "summary": "The largest ground-floor space, behind the barred window to the left of the front door. Irregular, wedge-shaped plan with a curved recess in the angled wall. A circular element (~0.75 m across) is drawn near the back — to confirm what it is (well? cistern? column?). Door (0.98 × 1.90 m) through to the entrance hall; a low door at the back into the under-stair store.",
+    "keep": [],
+    "issues": [
+      "To confirm: what is the circular element at the back of the room?",
+      "Ground-floor room against the street — check for damp at the base of walls"
+    ]
+  },
+  "updated": "2026-11-14",
+  "proposal": {
+    "by": "Studio Architettura A3",
+    "date": "2026-04-15",
+    "summary": "Services only on this floor: a new sewage pipe runs diagonally under the floor from a pipe shaft at the angled wall (via Pietra Rossa side) to the public sewer under the entrance.",
+    "items": [
+      "New pipe shaft in the angled wall, carrying waste down from the first-floor en-suite",
+      "Embedded sewage pipe diagonally across the room (floor to be lifted and relaid)",
+      "Connection to the public sewer under the entrance / Largo Pietra Rossa"
+    ],
+    "drawings": [
+      {
+        "name": "Tavola 1 — ground floor, existing vs proposed",
+        "src": "/plans/a3-tav1-ground-floor.png",
+        "pdf": "/plans/a3-tav1-ground-floor-2026-04-15.pdf"
+      }
+    ],
+    "questions": [
+      "Is the existing floor worth lifting carefully and relaying, or is it being replaced? (decides the finish we design)",
+      "The circle near the back of the room is on both survey and A3 drawings — what is it?"
+    ]
+  }
+}

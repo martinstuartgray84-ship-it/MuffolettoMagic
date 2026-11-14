@@ -1,0 +1,23 @@
+{
+  "slug": "third-front-terrace",
+  "name": "Front terrace",
+  "nameIt": "Terrazzo anteriore",
+  "floor": "third",
+  "status": "survey",
+  "dimensions": {
+    "length": 6.1,
+    "width": 1.35,
+    "area": 8.0,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+  },
+  "orientation": "Street-facing, full width of the façade, balustrade with two piers",
+  "photos": [],
+  "current": {
+    "summary": "Full-width terrace across the top of the façade with railings between masonry piers.",
+    "keep": [
+      "Balustrade railings"
+    ],
+    "issues": []
+  },
+  "updated": "2026-11-14"
+}

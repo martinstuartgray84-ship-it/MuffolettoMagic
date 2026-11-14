@@ -1,0 +1,23 @@
+{
+  "slug": "second-bathroom",
+  "name": "Second-floor bathroom",
+  "nameIt": "Bagno, secondo piano",
+  "floor": "second",
+  "status": "survey",
+  "dimensions": {
+    "length": 2.6,
+    "width": 1.0,
+    "height": 2.8,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. Tapering plan — wider at the front than the back."
+  },
+  "orientation": "Small window on the angled side wall (0.56 × 0.67 m)",
+  "photos": [],
+  "current": {
+    "summary": "Narrow wedge-shaped bathroom with WC and basin (no shower or bath drawn).",
+    "keep": [],
+    "issues": [
+      "No shower/bath on the survey — confirm"
+    ]
+  },
+  "updated": "2026-11-14"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "example-living-room",
+  "name": "Example — Living room",
+  "nameIt": "Soggiorno (esempio)",
+  "floor": "ground",
+  "status": "designing",
+  "example": true,
+  "dimensions": { "length": 5.8, "width": 4.2, "height": 3.1, "notes": "Illustrative numbers — this whole room is a template and will be deleted once real rooms exist." },
+  "orientation": "South-west, two tall windows onto the garden",
+  "photos": [],
+  "current": {
+    "summary": "Shows how a room page will look. Real rooms will have your photos here, a description of what's there now, what to keep and what's wrong.",
+    "keep": ["Original terracotta floor", "Chestnut ceiling beams", "Fireplace surround"],
+    "issues": ["Hairline cracks above the window lintel", "Rising damp on the lower 40 cm of the north wall", "Single overhead pendant — not enough light in the evening"]
+  },
+  "target": {
+    "concept": "A warm, low-lit sitting room built around the fireplace: lime-washed walls, the terracotta floor brought back to life, deep linen sofas and plenty of lamp light.",
+    "mood": ["warm", "earthy", "relaxed", "textured"],
+    "palette": [
+      { "name": "Lime white", "hex": "#EDE6DA", "role": "walls", "brand": "Example brand", "code": "LW-01", "finish": "lime-wash" },
+      { "name": "Warm stone", "hex": "#CBBBA0", "role": "ceiling & beams wash", "finish": "matt" },
+      { "name": "Olive", "hex": "#6F7451", "role": "joinery / shutters", "finish": "eggshell" },
+      { "name": "Terracotta", "hex": "#B5653F", "role": "accent (textiles)" },
+      { "name": "Ink", "hex": "#2E2B28", "role": "metalwork", "finish": "satin" }
+    ],
+    "materials": [
+      { "name": "Lime plaster", "detail": "Breathable — needed because of the damp wall", "status": "chosen" },
+      { "name": "Terracotta floor", "detail": "Strip, deep-clean, treat with linseed oil + wax", "status": "chosen" }
+    ],
+    "furniture": [
+      { "name": "Linen 3-seat sofa", "detail": "Oatmeal, loose covers", "status": "idea" },
+      { "name": "Low walnut coffee table", "status": "idea" }
+    ],
+    "lighting": [
+      { "name": "Two table lamps", "detail": "Ceramic bases, linen shades, 2700K", "status": "idea" },
+      { "name": "Picture lights over the fireplace", "status": "idea" }
+    ],
+    "textiles": [
+      { "name": "Curtains", "detail": "Heavy natural linen, floor length, on iron rods", "status": "idea" }
+    ]
+  },
+  "brief": {
+    "scope": ["Prepare and paint walls and ceiling", "Paint window frames and shutters", "Treat beams (clean + wash)"],
+    "surfaces": [
+      { "surface": "Walls (all)", "prep": "Fill cracks with lime filler, treat damp section, remove loose paint", "finish": "Lime-wash, 3 coats", "colour": "Lime white LW-01" },
+      { "surface": "Ceiling", "prep": "Clean, fill", "finish": "Mineral paint, 2 coats", "colour": "Lime white LW-01" },
+      { "surface": "Beams", "prep": "Brush down, clean", "finish": "Light wash, 1 coat", "colour": "Warm stone" },
+      { "surface": "Window frames & shutters", "prep": "Sand, prime bare wood", "finish": "Eggshell, 2 coats", "colour": "Olive" }
+    ],
+    "notes": ["Do not use acrylic/plastic paints on the damp wall — it must breathe", "Protect the terracotta floor fully during works"],
+    "access": "Room will be emptied before works start"
+  },
+  "updated": "2026-11-14"
+}

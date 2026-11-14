@@ -1,0 +1,142 @@
+{
+  "name": "Casa Muffoletto",
+  "tagline": "Style, design & works headquarters",
+  "location": "Largo Pietra Rossa 2 · Gratteri (PA) · Sicily",
+  "owners": [
+    "Martin",
+    "Stefany"
+  ],
+  "overview": "A narrow, tall corner town house in Gratteri, in the Madonie mountains above Cefalù — four storeys plus attic. The main façade faces Largo Pietra Rossa (front door at no. 2), with the angled side wall along via Pietra Rossa. The lower three floors are essentially one main room each, stacked around a dog-leg staircase; the third floor widens out with several smaller rooms and two terraces. This site is the living record of every room — what's there now, what we want it to become, and the works to get there.",
+  "facts": [
+    {
+      "label": "Address",
+      "value": "Largo Pietra Rossa 2, 90010 Gratteri (PA)"
+    },
+    {
+      "label": "Storeys",
+      "value": "Ground + 3 floors + attic"
+    },
+    {
+      "label": "Street frontage",
+      "value": "≈ 6.4 m"
+    },
+    {
+      "label": "Eaves height",
+      "value": "≈ 12.8 m"
+    },
+    {
+      "label": "Ceiling heights",
+      "value": "2.70–2.87 m (lower floors) · 2.40 m (third floor)"
+    },
+    {
+      "label": "Outdoor space",
+      "value": "Front terrace ≈ 8 m² + rear terrace ≈ 12 m² (3rd floor), balcony (2nd)"
+    },
+    {
+      "label": "Survey",
+      "value": "Rilievo by Chloé Pierron, 30 Sep 2024, 1:50"
+    },
+    {
+      "label": "Architects",
+      "value": "Studio Architettura A3, Palermo — internal reconfiguration project (Apr 2026)"
+    }
+  ],
+  "floors": [
+    {
+      "id": "ground",
+      "name": "Ground floor",
+      "nameIt": "Piano terra",
+      "plan": "/plans/ground.png",
+      "notes": "Street level on Largo Pietra Rossa: front room with barred window, entrance hall with the arched front door (no. 2), foot of the staircase and a low store. Proposed (A3): water tank + booster pump in the store; new sewer pipe embedded under the front room."
+    },
+    {
+      "id": "first",
+      "name": "First floor",
+      "nameIt": "Primo piano",
+      "plan": "/plans/first.png",
+      "notes": "Existing: one main room with French window to Largo Pietra Rossa, plus a small side room. Proposed (A3, Apr 2026): main room becomes a bedroom; side room becomes an en-suite shower room."
+    },
+    {
+      "id": "second",
+      "name": "Second floor",
+      "nameIt": "Secondo piano",
+      "plan": "/plans/second.png",
+      "notes": "Main room opening onto the wrought-iron front balcony, plus a bathroom (WC + basin) in the angled side wing."
+    },
+    {
+      "id": "third",
+      "name": "Third floor",
+      "nameIt": "Terzo piano",
+      "plan": "/plans/third.png",
+      "notes": "The widest floor: a large front room onto the front terrace, a corridor, two smaller rooms and a rear terrace. Lower ceilings (≈2.40 m). External door on the angled side wall."
+    },
+    {
+      "id": "attic",
+      "name": "Attic",
+      "nameIt": "Sottotetto",
+      "plan": "/plans/attic.png",
+      "notes": "Under the pitched roof. Front part boarded (≈ 5.5 × 2.7 m); rear part unfloored. Small window in the angled wall."
+    },
+    {
+      "id": "outside",
+      "name": "Façade & roof",
+      "nameIt": "Prospetto e copertura",
+      "plan": "/plans/elevation-front.png",
+      "notes": "Front elevation and roof plan (pitched coppi roof, flat terraces). Roof plan: /plans/roof.png"
+    }
+  ],
+  "style": {
+    "direction": "Draft — to agree together. Working hypothesis: a Sicilian mountain-village house, done with restraint. Warm lime-plastered walls, local stone and terracotta, chestnut and oak, linen — with Sicilian maiolica (Santo Stefano di Camastra is just along the coast) used as the decorative accent rather than everywhere. Respect what is original to the house.",
+    "principles": [
+      "Keep and restore original features before replacing them (stone door surround, iron balconies, old floors)",
+      "One calm base palette through the whole house, with colour concentrated per room",
+      "Breathable, mineral finishes — lime and silicate paints on old masonry",
+      "Sicilian maiolica as a deliberate accent: a bathroom floor, a splashback, a stair riser — not everywhere",
+      "Layered lighting in every room: ambient, task and accent",
+      "Small rooms work hard: built-ins, niches and every centimetre planned"
+    ],
+    "palette": [],
+    "materials": [],
+    "avoid": []
+  },
+  "contacts": [
+    {
+      "role": "Architects",
+      "name": "Studio Architettura A3 (archh. S. La Versa, V. Simanella)",
+      "email": "a3architetturapalermo@gmail.com",
+      "notes": "via Pacinotti 94, 90135 Palermo · a3architettura.it"
+    },
+    {
+      "role": "Survey drawings",
+      "name": "Chloé Pierron",
+      "notes": "Existing-state survey, Sep 2024"
+    }
+  ],
+  "updated": "2026-11-14",
+  "documents": [
+    {
+      "name": "Survey drawings — existing state (Rilievo), 7 sheets A3, 1:50",
+      "date": "2024-09-30",
+      "by": "Chloé Pierron",
+      "file": "/plans/survey-2024-09-30.pdf"
+    },
+    {
+      "name": "Tavola 1 — Ground floor, existing vs proposed (water tank, sewer connection), 1:100",
+      "date": "2026-04-15",
+      "by": "Studio Architettura A3",
+      "file": "/plans/a3-tav1-ground-floor-2026-04-15.pdf"
+    },
+    {
+      "name": "Tavola 2 — First floor, existing vs proposed (bedroom + en-suite, option A), 1:100",
+      "date": "2026-04-15",
+      "by": "Studio Architettura A3",
+      "file": "/plans/a3-tav2-first-floor-2026-04-15.pdf"
+    },
+    {
+      "name": "Tavola 2/B — First floor, existing vs proposed (en-suite, option B), 1:100",
+      "date": "2026-04-15",
+      "by": "Studio Architettura A3",
+      "file": "/plans/a3-tav2b-first-floor-2026-04-15.pdf"
+    }
+  ]
+}

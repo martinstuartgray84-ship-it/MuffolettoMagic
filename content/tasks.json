@@ -1,0 +1,165 @@
+[
+  {
+    "id": "t001",
+    "title": "Send Claude photos of every room (wide shots from each corner + details)",
+    "type": "admin",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t002",
+    "title": "Send floor plans / planimetria catastale (photo or PDF of each floor)",
+    "type": "admin",
+    "priority": "high",
+    "status": "done",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14",
+    "notes": "Received the full Rilievo survey (7 sheets) — on the Floor plan page."
+  },
+  {
+    "id": "t003",
+    "title": "Measure what the survey doesn't show: attic headroom, window sill heights, radiator positions",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t004",
+    "title": "Collect inspiration images you both love (Pinterest, Instagram, magazines)",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t005",
+    "title": "Add a password (SITE_PASSWORD) in Vercel before sharing the link",
+    "type": "admin",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t006",
+    "title": "Tell Claude what each room is used for now (and what you'd like it to be) — esp. first-floor side room, third-floor rooms A & B",
+    "type": "admin",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t007",
+    "title": "Identify the circular elements: ground-floor front room and third-floor landing (“Altezza 1.7”) — well, water tank, spiral stair?",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t008",
+    "title": "Confirm how the attic is reached and whether you want to use it",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t009",
+    "title": "Add the house address and which way the façade faces (north/south…) — it decides the colour choices",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t010",
+    "title": "Clarify the external door on the third-floor landing — where does it lead?",
+    "type": "admin",
+    "priority": "low",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t011",
+    "title": "Consider enlarging the low door to the rear terrace (0.57 × 1.73 m)",
+    "type": "project",
+    "room": "third-rear-terrace",
+    "priority": "low",
+    "status": "todo",
+    "who": "Geometra / builder",
+    "notes": "Check structure and permits (CILA) before deciding",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t012",
+    "title": "Choose en-suite layout: Option A (Tavola 2) or Option B (Tavola 2/B)",
+    "type": "project",
+    "room": "first-small-room",
+    "priority": "high",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t013",
+    "title": "Strip plaster back to brick in the en-suite niche to measure the real shower size",
+    "type": "fix",
+    "room": "first-small-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Builder",
+    "notes": "Requested in A3 Tavola 2/B",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t014",
+    "title": "Water storage tank + silent booster pump in the ground-floor store",
+    "type": "project",
+    "room": "ground-store",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Plumber",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t015",
+    "title": "New pipe shaft + embedded sewage pipe across the ground-floor front room to the public sewer",
+    "type": "project",
+    "room": "ground-front-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Builder / plumber",
+    "notes": "Floor will be lifted — decide the new floor finish before works",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t016",
+    "title": "Infill part of the side-room doorway and form the new en-suite opening",
+    "type": "project",
+    "room": "first-main-room",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Builder",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t017",
+    "title": "Ask A3 for: project status (CILA/permits?), quotes, and any drawings for floors 2–3",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin",
+    "added": "2026-11-14"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "slug": "third-room-b",
+  "name": "Third-floor room (side)",
+  "nameIt": "Camera B, terzo piano",
+  "floor": "third",
+  "status": "survey",
+  "dimensions": {
+    "length": 2.8,
+    "width": 1.45,
+    "height": 2.4,
+    "area": 4.1,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
+  },
+  "photos": [],
+  "current": {
+    "summary": "Narrow room at the end of the corridor (door 0.67 × 2.09 m). No window drawn — confirm.",
+    "keep": [],
+    "issues": [
+      "To confirm current use and natural light"
+    ]
+  },
+  "updated": "2026-11-14"
+}

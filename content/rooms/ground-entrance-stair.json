@@ -1,0 +1,36 @@
+{
+  "slug": "ground-entrance-stair",
+  "name": "Entrance hall & staircase",
+  "nameIt": "Ingresso e vano scala",
+  "floor": "ground",
+  "status": "survey",
+  "dimensions": {
+    "length": 3.0,
+    "width": 1.2,
+    "height": 2.87,
+    "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed. The staircase rises as a dog-leg on the right side of the house through all floors — painting it is one continuous job (approx. 12 m of stairwell height)."
+  },
+  "orientation": "Arched stone-framed front door to the street (1.19 m wide)",
+  "photos": [],
+  "current": {
+    "summary": "Narrow hall behind the arched front door (house no. 2) with the stair rising straight ahead. The stair turns at each level, with a small window on the angled side wall at first and second floor landings.",
+    "keep": [
+      "Arched stone door surround and fanlight grille (façade)",
+      "Front door"
+    ],
+    "issues": []
+  },
+  "updated": "2026-11-14",
+  "proposal": {
+    "by": "Studio Architettura A3",
+    "date": "2026-04-15",
+    "summary": "Sewer connection passes under the entrance threshold to Largo Pietra Rossa.",
+    "drawings": [
+      {
+        "name": "Tavola 1 — ground floor, existing vs proposed",
+        "src": "/plans/a3-tav1-ground-floor.png",
+        "pdf": "/plans/a3-tav1-ground-floor-2026-04-15.pdf"
+      }
+    ]
+  }
+}
