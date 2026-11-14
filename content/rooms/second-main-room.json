@@ -1,9 +1,9 @@
 {
   "slug": "second-main-room",
-  "name": "Second-floor main room",
-  "nameIt": "Stanza principale, secondo piano",
+  "name": "Second-floor bedroom",
+  "nameIt": "Camera da letto, secondo piano",
   "floor": "second",
-  "status": "survey",
+  "status": "designing",
   "dimensions": {
     "length": 4.3,
     "width": 4.0,
@@ -12,13 +12,59 @@
     "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
   },
   "orientation": "French window (≈0.87 × 2.10 m) onto the wrought-iron front balcony (≈2.6 × 0.65 m)",
-  "photos": [],
+  "photos": [
+    {
+      "src": "/photos/second-main-room/02.jpg",
+      "caption": "Four-poster bed, arched mirror, ceiling fan; built-in cupboard doors on the right",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/second-main-room/05.jpg",
+      "caption": "Bed wall and the inlaid cabinet with gilt mirror; damaged cornice corner with access cover; “TUBI” marks on the wall",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/second-main-room/01.jpg",
+      "caption": "Bedside: cage wall light, socket, cornice damage at the corner",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/second-main-room/03.jpg",
+      "caption": "Walnut wardrobe, panelled doors, patterned cement-tile floor",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/second-main-room/04.jpg",
+      "caption": "TV on the dark chest of drawers, brass chandelier, door with filler patches, cable strung across the ceiling",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "Squarish main room with the same hexagonal floor pattern as the first floor. Two recesses/niches along the front wall either side of the balcony door. Door from the stair (0.86 × 1.89 m) and door to the bathroom (0.63 × 1.82 m).",
+    "summary": "The main bedroom. A black four-poster frame bed with a sage headboard cushion, an arched window-pane mirror above it, cage wall lights either side, a wooden-blade ceiling fan and a disco ball. At the foot of the bed a dark green velvet sofa; opposite, a TV on a dark chest of drawers with brass handles; a walnut wardrobe; an antique inlaid cabinet with an ornate gilt mirror and Sicilian teste di moro. Brass chandelier with globe bulbs. The room has its original features: an ornate plaster cornice all round, old panelled doors and built-in cupboard doors, a black-painted skirting band, and a beautiful patterned cement-tile floor (star and lattice design with a border, plainer dark tiles round the edge). Walls are cream and marked by the recent works: pencilled “TUBI DA 25” pipe notes, patches, a white access cover, and a broken section of cornice at one corner with an open hole. A cord and a cable are strung across the ceiling; one door is covered in filler patches awaiting paint. The French window opens onto the front balcony.",
     "keep": [
-      "Wrought-iron balcony railing (façade)"
+      "Patterned cement-tile floor",
+      "Ornate plaster cornice",
+      "Old panelled doors and built-in cupboard doors",
+      "Four-poster bed, arched mirror, ceiling fan",
+      "Inlaid cabinet and gilt mirror, walnut wardrobe, chandelier",
+      "The disco ball, if it stays"
     ],
-    "issues": []
+    "issues": [
+      "Proposed by Claude (not yet agreed): Cornice: repair the broken corner (cast a matching section) and close the hole; make good where pipes went through",
+      "Proposed by Claude (not yet agreed): Walls: record the pipe runs, then fill, sand and repaint — pencil marks, patches, cracks",
+      "Proposed by Claude (not yet agreed): Ceiling: remove the strung cord and re-route the chandelier cable properly inside the ceiling or neatly along the cornice",
+      "Proposed by Claude (not yet agreed): Doors: finish the filler-patched door and repaint all doors and frames in one colour",
+      "Proposed by Claude (not yet agreed): Access covers: paint to match the wall",
+      "Proposed by Claude (not yet agreed): Surface-mounted double socket by the chest of drawers — replace with a flush one",
+      "Proposed by Claude (not yet agreed): Skirting band: repaint",
+      "Proposed by Claude (not yet agreed): Floor tiles: deep clean and seal — they will come up beautifully",
+      "Proposed by Claude (not yet agreed): Paint tins stored on the wardrobe"
+    ]
   },
   "updated": "2026-11-14"
 }

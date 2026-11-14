@@ -755,5 +755,24 @@
     "priority": "low",
     "status": "todo",
     "added": "2026-11-14"
+  },
+  {
+    "id": "t076",
+    "title": "Tell Claude your jobs for the second-floor bedroom and en suite (proposals are on the room pages)",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t077",
+    "title": "En suite: make safe the bare light wires above the basin",
+    "type": "fix",
+    "room": "second-bathroom",
+    "priority": "high",
+    "status": "todo",
+    "who": "Electrician",
+    "added": "2026-11-14"
   }
 ]
