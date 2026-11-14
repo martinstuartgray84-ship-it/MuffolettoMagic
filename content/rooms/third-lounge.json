@@ -14,32 +14,62 @@
   "orientation": "Double doors at the front onto the front terrace (green outside, natural wood with folding shutters inside); double doors at the back, in a recess, onto a tiny terrace",
   "photos": [
     {
-      "src": "/photos/third-lounge/01.jpg",
-      "caption": "Sitting end: stepped niche daybed, high ledge (remaining attic floor) with the small attic window, back doors beyond the bar",
+      "src": "/photos/third-lounge/12.jpg",
+      "caption": "Sitting area: sofa, daybed niche, lit recesses, arch to the kitchen (black sheet), TV wall with painted sideboard",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
-      "src": "/photos/third-lounge/04.jpg",
-      "caption": "Back doors (to the tiny terrace) in their recess; chandelier, exposed brick panel, antique bar",
+      "src": "/photos/third-lounge/13.jpg",
+      "caption": "Dining end: dresser, the two green built-in cupboards, brick panel, bar, back doors",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
-      "src": "/photos/third-lounge/05.jpg",
-      "caption": "Beams and boards over the sitting area; cut-off stubs of the old attic-floor joists along the wall",
+      "src": "/photos/third-lounge/17.jpg",
+      "caption": "TV wall: 1950s painted sideboard on hairpin legs, timber shelf, tapestry-covered trunk as coffee table",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
-      "src": "/photos/third-lounge/02.jpg",
-      "caption": "Dining end under the pitched roof: front doors with internal shutters, dark-wood dresser, old green built-in cupboards",
+      "src": "/photos/third-lounge/11.jpg",
+      "caption": "Sofa and daybed niche with dark cushions; up/down wall lights in the recesses; TV box on the ledge",
       "kind": "current",
       "date": "2026-11-14"
     },
     {
-      "src": "/photos/third-lounge/03.jpg",
-      "caption": "The two built-in cupboards (one glazed) and the brick panel",
+      "src": "/photos/third-lounge/09.jpg",
+      "caption": "The high ledge and recesses under the old beam stubs, each with an up/down light; two rough plaster patches; gilt mirror below",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-lounge/10.jpg",
+      "caption": "Chandelier and the back-door recess: open wiring boxes, cable chase, black membrane at the floor",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-lounge/08.jpg",
+      "caption": "Bar, brick panel with wall light, back doors with wooden shutters onto the small balcony",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-lounge/14.jpg",
+      "caption": "Dining end under the pitched roof",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-lounge/15.jpg",
+      "caption": "Dining table, dresser and cupboards: stripped paint test on the panelled cupboard, raw opening above it",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-lounge/16.jpg",
+      "caption": "Front doors to the terrace: internal shutters, weathered bottom rails",
       "kind": "current",
       "date": "2026-11-14"
     },
@@ -57,22 +87,28 @@
     }
   ],
   "current": {
-    "summary": "One open living and dining room. The flat ceiling has been removed: what you now see is the roof itself — dark timber beams and rafters with a boarded deck of weathered planks, sloping down at the dining end. Along the walls are the cut-off stubs of the old attic-floor joists, at the old 2.42 m ceiling height. Along one side the walls step up in white masonry: a deep niche used as a daybed, and above it a high ledge — the last piece of the old attic floor — with the small attic window. Sitting area: grey sofa (2.1 m) facing the TV. Dining end: dark extendable table with green velvet chairs, a tall dark-wood dresser/plate rack (used for wine and display), and two old built-in cupboards painted olive green — one with glazed doors (china), one panelled (tools/storage now). Also: antique wooden bar counter, gilt mirror over a wrought-iron wine-rack console, exposed brick panel. Floor: large light-grey tiles. Lighting: glass-drop chandelier, black cage pendants on long flexes, cage wall light.",
+    "summary": "One open living and dining room under the exposed roof: dark beams and rafters with a weathered boarded deck, sloping down over the dining end. Warm white plastered walls. Sitting area: grey sofa (2.1 m) facing a wall-mounted TV; under the TV a 1950s painted sideboard on hairpin legs, above it a timber shelf with trailing plants; a trunk covered with a tapestry serves as coffee table. Behind the sofa, the stepped white masonry: a daybed niche with dark cushions, and above it the high ledge with a row of recesses under the cut-off old beam stubs — each recess now has a white up/down wall light. An arched opening (black sheet for now) leads to the kitchen. Dining end: dark extendable table with four green velvet chairs, a tall dark-wood dresser (wine and display), and the two old olive-green built-in cupboards — one glazed (china), one panelled with a paint-strip test patch and a raw open recess above it used as a shelf. Between dining and back doors: the exposed brick panel with a wall light over the antique bar counter. Back doors (wood, glazed, with wooden shutters) sit in a recess and open onto a small balcony; front doors with internal shutters open onto the front terrace. Also: gilt mirror over a wrought-iron wine-rack console, brass and glass-drop chandelier, cage pendants. Floor: large light-grey tiles.",
     "keep": [
-      "Exposed roof beams, rafters and boarded deck — the defining feature",
-      "Joist stubs along the walls (honest history — or trim neatly; decide together)",
-      "The two old built-in green cupboards (armadi a muro) — restore, don't replace",
-      "Front doors with internal folding wooden shutters",
-      "Exposed brick panel",
-      "Dark-wood dresser, antique bar counter, gilt mirror",
-      "Stepped masonry niche — make it a proper daybed"
+      "Exposed roof beams, rafters and boards",
+      "Old beam stubs over the recesses",
+      "The two green built-in cupboards",
+      "Brick panel",
+      "Front and back doors with their wooden shutters",
+      "Antique bar, dresser, gilt mirror, painted sideboard, chandelier",
+      "Daybed niche",
+      "The new up/down lights in the recesses — they work well"
     ],
     "issues": [
-      "Roof is now directly overhead: check insulation/condensation — boards may be all that's between the room and the tiles",
-      "Pendant flexes looped across beams; mixed light fittings (crystal / black cage / gilt)",
-      "High ledge used for boxes (TV box); built-in cupboard used for tools",
-      "Damaged/patched skirting with black membrane showing beside the back-door recess — check for damp",
-      "Grey tile + grey sofa read cold against the warm timber"
+      "Proposed by Claude (not yet agreed): Back-door recess is unfinished: open wiring boxes, an exposed cable chase up the wall, black membrane showing at the floor, no skirting",
+      "Proposed by Claude (not yet agreed): Thin cables to the new recess lights are visible on the wall; pendant flexes are draped across the beams; a white conduit runs down beside the arch",
+      "Proposed by Claude (not yet agreed): Rough unfinished render above the recess next to the arch; two rough plaster patches in a recess on the ledge",
+      "Proposed by Claude (not yet agreed): Panelled green cupboard: stripped test patch, and the raw opening above it with broken edges — finish as a proper niche or close it",
+      "Proposed by Claude (not yet agreed): Both green cupboards need restoring and repainting; rough paint edges on the wall around them",
+      "Proposed by Claude (not yet agreed): Arch to the kitchen: black sheet — door, curtain or open?",
+      "Proposed by Claude (not yet agreed): Front doors: bottom rails weathered and dark-stained (water getting in?); threshold step unfinished",
+      "Proposed by Claude (not yet agreed): Walls: scuffs, drip marks and patches — one finishing coat of paint throughout",
+      "Proposed by Claude (not yet agreed): Roof directly overhead: insulation and draughts still to check",
+      "Proposed by Claude (not yet agreed): Ledge used for the TV box; daybed cushions are loose pallet cushions; leaf-print cushions; cold light from the recess fittings next to warm bulbs elsewhere"
     ]
   },
   "target": {
