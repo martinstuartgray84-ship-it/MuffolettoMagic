@@ -23,12 +23,6 @@
       "caption": "New double doors to the rear terrace — fresh plaster patches and exposed wiring around the opening",
       "kind": "current",
       "date": "2026-11-14"
-    },
-    {
-      "src": "/photos/third-kitchen/03.jpg",
-      "caption": "The 116 cm appliance bay: washing machine + pink Candy fridge-freezer, bathroom door on the right",
-      "kind": "current",
-      "date": "2026-11-14"
     }
   ],
   "current": {
@@ -42,7 +36,6 @@
       "Walls patched but unfinished — plaster to be completed and painted",
       "Ceiling: holes, cracks, loose cable ends and a mix of downlights — make good, re-plan lighting",
       "Exposed junction box with live-looking wires above the terrace door — make safe",
-      "Fridge + washing machine stand open in the 116 cm bay — 60 cm washer + ~55 cm fridge leaves almost no side/ventilation clearance",
       "Kitchen end panel gloss vs. matt units"
     ]
   },
@@ -99,13 +92,7 @@
         "status": "idea"
       }
     ],
-    "furniture": [
-      {
-        "name": "Utility cupboard in the 116 cm bay",
-        "detail": "Option 1: full-height doors over washer + slim fridge side by side (needs a ≤54 cm fridge and rear ventilation). Option 2: washer-dryer stack or washer under a worktop with an integrated fridge elsewhere. Doors painted to match the green units.",
-        "status": "idea"
-      }
-    ],
+    "furniture": [],
     "lighting": [
       {
         "name": "Re-planned ceiling lighting",

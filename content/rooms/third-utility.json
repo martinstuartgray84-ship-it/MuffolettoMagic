@@ -1,0 +1,37 @@
+{
+  "slug": "third-utility",
+  "name": "Fridge & utility room",
+  "nameIt": "Lavanderia / dispensa",
+  "ref": "Top 1b",
+  "floor": "third",
+  "status": "survey",
+  "dimensions": {
+    "width": 1.16,
+    "notes": "116 cm wide (measured). Depth and height to measure."
+  },
+  "orientation": "Between the kitchen and the bathroom; the bathroom's sliding door opens off it",
+  "photos": [
+    {
+      "src": "/photos/third-kitchen/03.jpg",
+      "caption": "Washing machine and fridge-freezer; bathroom door on the right",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/third-bathroom/06.jpg",
+      "caption": "Bathroom door and the glass blocks above it, from this side — blocks to be plastered over",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
+  "current": {
+    "summary": "Small space next to the bathroom holding the washing machine (Beko) and a pink Candy fridge-freezer, with a two-ring hotplate on top. The bathroom's sliding door and the row of glass blocks above it are on this side. Walls patched and unpainted. More photos to come — this is the next room after the bathroom.",
+    "keep": [],
+    "issues": [
+      "Glass blocks above the bathroom door: plaster over on this side (decided)",
+      "Bathroom door surround unfinished on this side",
+      "Walls unfinished"
+    ]
+  },
+  "updated": "2026-11-14"
+}

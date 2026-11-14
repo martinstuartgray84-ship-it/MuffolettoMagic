@@ -5,7 +5,7 @@
   "floor": "third",
   "status": "in-progress",
   "dimensions": {
-    "notes": "Size to measure."
+    "notes": "Door opening 74 cm wide; door height needed 210 cm. Room size to measure."
   },
   "photos": [
     {
@@ -52,8 +52,8 @@
     ],
     "issues": [
       "JOB 1 — Behind the toilet: the waste connector shows through a rough hole in the tile and the pan stands off the wall",
-      "JOB 2 — Tile over the row of glass blocks at the top of the wall (bathroom side)",
-      "JOB 3 — Finish the door surround and fit a door of the right height: 210 cm"
+      "JOB 2 — Tile over the row of glass blocks at the top of the wall with the grey tiles (decided)",
+      "JOB 3 — Finish the door surround and fit a door of the right height: opening 74 cm wide, door 210 cm high (new or lengthened: to decide)"
     ]
   },
   "updated": "2026-11-14",
@@ -122,7 +122,7 @@
         "surface": "Glass-block row above door, bathroom side (Job 2)",
         "prep": "Glass is non-porous — tiles will not bond to it directly. Either (a) apply a grip primer for non-absorbent surfaces, or (b, more reliable) fix a thin tile-backer board over the blocks. Rake out and fill the mortar joints flush first.",
         "finish": "Tile to the ceiling with flexible (S1) adhesive; grout to match",
-        "colour": "Grey stone-effect tile (existing) — or the blush vertical tile, to choose",
+        "colour": "Grey stone-effect tile, to match the rest of that wall (decided)",
         "notes": "Tiling over removes the borrowed daylight: the room will rely fully on artificial light and needs a working extractor fan"
       },
       {
@@ -130,13 +130,13 @@
         "prep": "Square up and plaster the broken reveal and both faces round the opening; fit a timber or plaster lining and architraves each side; make good the wall above the track",
         "finish": "Paint surround to match walls; door in warm white eggshell",
         "colour": "Warm white",
-        "notes": "New sliding door 210 cm high (Italian standard height — off-the-shelf leaves exist at 60/70/80 × 210). Width of the opening to be measured before ordering. Alternative: a carpenter lengthens the existing antique door with an added bottom rail so the old door and brass handles are kept."
+        "notes": "Opening measured: 74 cm wide; door height needed 210 cm. A sliding door must overlap the opening, so the leaf should be WIDER than 74 cm: 80 × 210 cm is the standard size to order (75 cm works but leaves only 5 mm overlap each side — light and sound leak). New door vs lengthening the old one: still open. Recommendation: new 80 × 210 panelled leaf painted warm white with flush pulls; keep the old door's brass handles for reuse elsewhere."
       }
     ],
     "notes": [
       "Do not disturb the shower enclosure, tray, tiles or fittings",
       "Sliding door: the ornate projecting handles will stop the door sliding fully back — use flush pulls on a new door, or accept a part-open stop on the old one",
-      "Kitchen side of the glass blocks: confirm whether they stay visible or are plastered over"
+      "Other side of the glass blocks (fridge & utility room): to be plastered over — see that room"
     ],
     "access": "Room in daily use — agree working days"
   }

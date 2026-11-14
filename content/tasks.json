@@ -196,9 +196,9 @@
   },
   {
     "id": "t022",
-    "title": "Built-in cupboard to house washing machine + fridge at the end of the hallway",
+    "title": "Fridge & utility room: built-in housing for washing machine + fridge (space is 116 cm wide)",
     "type": "project",
-    "room": "third-kitchen",
+    "room": "third-utility",
     "priority": "medium",
     "status": "todo",
     "who": "Carpenter",
@@ -381,24 +381,24 @@
   },
   {
     "id": "t041",
-    "title": "Bathroom job 2: tile over the glass blocks (bathroom side) — primer or backer board first",
+    "title": "Bathroom job 2: tile over the glass blocks with the grey tiles — backer board or grip primer first",
     "type": "decor",
     "room": "third-bathroom",
     "priority": "high",
     "status": "todo",
     "added": "2026-11-14",
     "who": "Tiler",
-    "notes": "Decide tile: grey stone-effect or blush vertical. Decide what happens on the kitchen side"
+    "notes": "Decided: grey tiles to match the wall"
   },
   {
     "id": "t042",
-    "title": "Bathroom job 3: finish the door surround and fit a sliding door 210 cm high",
+    "title": "Bathroom job 3: finish the door surround; fit a sliding door 80 × 210 cm (opening is 74 cm wide)",
     "type": "project",
     "room": "third-bathroom",
     "priority": "high",
     "status": "todo",
     "who": "Builder / carpenter",
-    "notes": "Measure the opening width first. Option: lengthen the existing antique door instead of replacing it",
+    "notes": "Decide: new door (recommended) or lengthen the old one",
     "added": "2026-11-14"
   },
   {
@@ -407,8 +407,20 @@
     "type": "admin",
     "room": "third-bathroom",
     "priority": "high",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
+    "added": "2026-11-14",
+    "notes": "74 cm wide"
+  },
+  {
+    "id": "t044",
+    "title": "Plaster over the glass blocks on the fridge & utility room side",
+    "type": "fix",
+    "room": "third-utility",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Plasterer",
+    "notes": "Key the glass first: mesh + bonding coat, or board over",
     "added": "2026-11-14"
   }
 ]
