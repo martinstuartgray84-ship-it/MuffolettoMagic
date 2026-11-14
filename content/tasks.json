@@ -98,9 +98,10 @@
     "type": "project",
     "room": "first-small-room",
     "priority": "high",
-    "status": "todo",
+    "status": "done",
     "who": "Martin & Stefany",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "En suite has been built"
   },
   {
     "id": "t013",
@@ -108,9 +109,9 @@
     "type": "fix",
     "room": "first-small-room",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Builder",
-    "notes": "Requested in A3 Tavola 2/B",
+    "notes": "En suite has been built",
     "added": "2026-11-14"
   },
   {
@@ -140,9 +141,10 @@
     "type": "project",
     "room": "first-main-room",
     "priority": "medium",
-    "status": "todo",
+    "status": "done",
     "who": "Builder",
-    "added": "2026-11-14"
+    "added": "2026-11-14",
+    "notes": "En suite has been built"
   },
   {
     "id": "t017",
@@ -815,6 +817,25 @@
     "status": "todo",
     "who": "Martin & Stefany / fitter",
     "notes": "3 options on the room page. Still to measure: width at head height, and height from kerb to top of tiles",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t082",
+    "title": "Tell Claude your jobs and colour for the first-floor bedroom and en suite",
+    "type": "admin",
+    "priority": "medium",
+    "status": "todo",
+    "who": "Martin & Stefany",
+    "added": "2026-11-14"
+  },
+  {
+    "id": "t083",
+    "title": "First-floor en suite: have the water heater's electrical connection checked — trailing plug in a wet room",
+    "type": "fix",
+    "room": "first-small-room",
+    "priority": "high",
+    "status": "todo",
+    "who": "Electrician",
     "added": "2026-11-14"
   }
 ]

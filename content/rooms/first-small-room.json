@@ -3,7 +3,7 @@
   "name": "First-floor en-suite shower room",
   "nameIt": "Bagno en-suite, primo piano",
   "floor": "first",
-  "status": "designing",
+  "status": "in-progress",
   "dimensions": {
     "length": 1.4,
     "width": 1.0,
@@ -11,12 +11,50 @@
     "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
   },
   "orientation": "Small window (≈0.5 × 0.5 m) onto the angled side",
-  "photos": [],
+  "photos": [
+    {
+      "src": "/photos/first-small-room/01.jpg",
+      "caption": "WC, wall-hung vanity with basin and black tap, electric water heater above",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/first-small-room/05.jpg",
+      "caption": "Vanity, black-framed mirror with shelf, blue-grey vertical tiles",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/first-small-room/04.jpg",
+      "caption": "Shower: grey stone-effect tiles, raised tiled floor with drain, black shower set",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/first-small-room/03.jpg",
+      "caption": "Shower: black rain head, niche, coloured LED downlight",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/first-small-room/02.jpg",
+      "caption": "Pocket-door frame without its door; water heater with trailing hose and plug; extractor fan",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "Existing: a tiny room in the front-left corner off the main room (door 0.77 × 1.87 m), with a small window onto the triangular void beside via Pietra Rossa. To become the en-suite shower room (see proposed works).",
-    "keep": [],
+    "summary": "The new first-floor en suite, built as the architects proposed, and nearly finished. Walk-in shower at the back in large grey stone-effect tiles, with a tiled niche, a raised tiled floor with a square drain, a black rain head and hand shower. No screen or door on the shower yet. Close-coupled WC; a small wall-hung vanity in gloss black with a white basin and black tap, fitted and working by the look of it; a black-framed mirror with a shelf. Half-height tiling in blue-grey glazed tiles laid vertically, white walls above. An electric water heater is mounted high by the door, with its flexible hose looping down and its plug trailing to a socket. An extractor fan is fitted. Recessed downlights, one colour-changing. The doorway has its metal pocket-door frame but no door; a timber prop stands in the opening.",
+    "keep": [
+      "All tiling, shower fittings, WC, vanity, mirror"
+    ],
     "issues": [
-      "Very tight — every centimetre counts; true wall positions unknown until plaster is stripped"
+      "Proposed by Claude (not yet agreed): Fit the pocket door and finish its frame (lining, architraves, plaster)",
+      "Proposed by Claude (not yet agreed): Shower: add a glass screen or doors",
+      "Proposed by Claude (not yet agreed): Water heater: tidy the hose and replace the trailing plug with a proper fixed connection — it sits in a wet room",
+      "Proposed by Claude (not yet agreed): WC: flexible supply hose loops out visibly — shorten or re-route",
+      "Proposed by Claude (not yet agreed): Top edge of the half-height tiles: neat sealant line or trim",
+      "Proposed by Claude (not yet agreed): Towel rail, hooks, toilet-roll holder"
     ]
   },
   "updated": "2026-11-14",

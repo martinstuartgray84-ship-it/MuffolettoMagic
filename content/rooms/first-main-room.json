@@ -3,7 +3,7 @@
   "name": "First-floor bedroom",
   "nameIt": "Camera da letto, primo piano",
   "floor": "first",
-  "status": "designing",
+  "status": "in-progress",
   "dimensions": {
     "length": 4.5,
     "width": 3.65,
@@ -12,11 +12,43 @@
     "notes": "Scaled from the 1:50 survey — approx. ±10 cm. Ceiling height as surveyed."
   },
   "orientation": "French window to the street (1.12 × 2.12 m) with Juliet balcony",
-  "photos": [],
+  "photos": [
+    {
+      "src": "/photos/first-main-room/03.jpg",
+      "caption": "Burr-walnut wardrobe, crystal chandelier, decorative plaster ceiling, green door; walls part-filled",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/first-main-room/02.jpg",
+      "caption": "Burr-walnut chest with marble top and gilt mirror; new wall and opening to the en suite (pocket-door frame, no door yet)",
+      "kind": "current",
+      "date": "2026-11-14"
+    },
+    {
+      "src": "/photos/first-main-room/01.jpg",
+      "caption": "Bed wall: dark green walls, filler around the new wall lights and sockets, ceiling fan",
+      "kind": "current",
+      "date": "2026-11-14"
+    }
+  ],
   "current": {
-    "summary": "Regular rectangular room across most of the front of the house, with a hexagonal-pattern floor shown on the survey (tiles? to confirm). Door from the stair landing (0.84 × 1.89 m). A small side room opens off the front-left corner.",
-    "keep": [],
-    "issues": []
+    "summary": "The first-floor bedroom, mid-works. Walls are a deep green, now covered in large white filler patches where cables were chased for the bedside wall lights and sockets and where the new en-suite wall was built; the new wall itself is bare plaster. The ceiling is the finest in the house: a deep ornate plaster cornice and a ceiling with raised moulded panel frames and rosettes, all white. Wooden-blade ceiling fan and a crystal chandelier. Floor: old patterned cement tiles in a different design from the floor above — a central carpet pattern with a scrolling floral border and plain tiles round the edge. Furniture: a matching burr-walnut suite — a large three-door wardrobe with a shaped mirror and a serpentine chest of drawers with a marble top — an ornate gilt rococo mirror, and two old trunks. Cage wall lights either side of the bed. Green panelled door and frame to the stairs. The opening to the en suite has its metal pocket-door frame fitted but no door or surround yet.",
+    "keep": [
+      "Decorative plaster ceiling and cornice",
+      "Patterned cement-tile floor",
+      "Burr-walnut wardrobe and chest, gilt mirror, trunks",
+      "Crystal chandelier, ceiling fan",
+      "Old panelled door"
+    ],
+    "issues": [
+      "Proposed by Claude (not yet agreed): Walls: sand the filler, prime, and repaint the whole room (colour to decide — keep the deep green, or change)",
+      "Proposed by Claude (not yet agreed): En-suite opening: fit the pocket door, lining and architraves; plaster the edges",
+      "Proposed by Claude (not yet agreed): Ceiling and cornice: clean, touch up, repaint",
+      "Proposed by Claude (not yet agreed): Door and frame to the stairs: repaint to suit the new wall colour",
+      "Proposed by Claude (not yet agreed): Floor tiles: deep clean and seal after the works — plaster dust is on them now",
+      "Proposed by Claude (not yet agreed): Open back box high on the wall near the door (blue) — close or fit its cover"
+    ]
   },
   "updated": "2026-11-14",
   "proposal": {
