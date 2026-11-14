@@ -123,7 +123,9 @@
         "detail": "On order: IKEA black wall cabinet with reeded-glass doors, 60 cm wide × 80 cm high, 2 doors. Goes in the corner left of the hood, on the painted wall above the brass trim. Space measured: 83 cm high × 68 cm wide — it fits with 3 cm spare in height and 8 cm in width. Sit it just above the brass trim; leave about 3 cm at the corner wall so the left door can open fully, about 5 cm to the hood. Paint that wall BEFORE hanging.",
         "status": "ordered"
       }
-    ]
+    ],
+    "renderFrom": "/photos/third-kitchen/04.jpg",
+    "renderPrompt": "Edit this photo of a room in our house. Keep the exact camera angle and keep all the architecture exactly as it is — walls, room shape, windows, doors, beams, floor and fixed fittings. Do not add, move or remove anything structural, and do not change the furniture unless I say so below. Remove all clutter: tools, boxes, bags, dust sheets, loose cables, packaging, laundry and toiletries. Show the room finished and tidy.\n\nChanges to make:\n- Keep the kitchen exactly as built: deep teal-green raised-panel units, glossy dark walnut-effect worktop, black sink and tap, grey-green metro tiles and square pale-green tiles with brass trim, gas hob, steel oven, black chimney hood, charcoal glazed wall cabinets, light grey floor tiles.\n- Add aged-brass handles: round knobs on the cupboard doors, cup pulls on the three drawers, a bar handle on the dishwasher.\n- Add one black wall cabinet with two reeded-glass doors (60 cm wide, 80 cm high) in the corner to the left of the hood, sitting just above the brass tile trim.\n- The hood is finished, with its chimney cover up to the ceiling and no hanging cable.\n- Walls smooth and painted warm white; ceiling smooth off-white with neat downlights, no holes or cracks.\n- The window frame and its surround are neatly finished. The end panel of the hob run is finished.\n- The arched opening is open (no black sheet), showing a glimpse of the lounge beyond.\n\nStyle: photorealistic interior photograph, natural light plus warm 2700K lamps, no people, no text or labels."
   },
   "updated": "2026-11-14",
   "ref": "Top 2",

@@ -120,6 +120,8 @@
         "role": "ceiling, cornice, plaster mouldings",
         "finish": "matt"
       }
-    ]
+    ],
+    "renderFrom": "/photos/first-main-room/03.jpg",
+    "renderPrompt": "Edit this photo of a room in our house. Keep the exact camera angle and keep all the architecture exactly as it is — walls, room shape, windows, doors, beams, floor and fixed fittings. Do not add, move or remove anything structural, and do not change the furniture unless I say so below. Remove all clutter: tools, boxes, bags, dust sheets, loose cables, packaging, laundry and toiletries. Show the room finished and tidy.\n\nChanges to make:\n- Walls evenly painted in the same deep green, with no white filler patches.\n- The ornate white plaster cornice and decorative ceiling stay white and clean.\n- Keep the burr-walnut wardrobe and chest, the gilt mirror, the crystal chandelier, the wooden ceiling fan, the old trunks and the patterned tile floor, cleaned.\n- Remove the dust sheets: show the bed neatly made with natural linen.\n- The green door and frame freshly painted. The opening to the en suite has a white panelled pocket door in a finished frame.\n\nStyle: photorealistic interior photograph, natural light plus warm 2700K lamps, no people, no text or labels."
   }
 }

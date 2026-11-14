@@ -59,6 +59,7 @@ export type Room = {
     furniture?: Item[];
     lighting?: Item[];
     textiles?: Item[];
+    renderFrom?: string; // the photo to upload with the prompt
     renderPrompt?: string; // ready-to-paste prompt for ChatGPT/Gemini photo restyling
   };
   proposal?: {

@@ -116,7 +116,9 @@
         "name": "Existing chandelier, cage wall lights and fan stay",
         "status": "chosen"
       }
-    ]
+    ],
+    "renderFrom": "/photos/second-main-room/02.jpg",
+    "renderPrompt": "Edit this photo of a room in our house. Keep the exact camera angle and keep all the architecture exactly as it is — walls, room shape, windows, doors, beams, floor and fixed fittings. Do not add, move or remove anything structural, and do not change the furniture unless I say so below. Remove all clutter: tools, boxes, bags, dust sheets, loose cables, packaging, laundry and toiletries. Show the room finished and tidy.\n\nChanges to make:\n- Ceiling painted terracotta, with the ornate plaster cornice in the same terracotta.\n- Walls painted a pale warm mushroom.\n- All doors, door frames, the built-in cupboard doors and the skirting painted charcoal, matching the dark furniture.\n- The cornice is complete and repaired; no holes, pencil marks, patches or cables across the ceiling.\n- Keep the black four-poster bed, arched mirror, wooden ceiling fan, cage wall lights, walnut wardrobe, gilt mirror and the patterned tile floor, cleaned. Bed neatly made with linen.\n\nStyle: photorealistic interior photograph, natural light plus warm 2700K lamps, no people, no text or labels."
   },
   "brief": {
     "scope": [

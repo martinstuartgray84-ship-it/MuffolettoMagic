@@ -129,7 +129,7 @@ export default async function RoomPage({ params }: { params: Promise<{ slug: str
         </div>
       )}
       {inspo.length > 0 && (<><h3 style={{ marginTop: 22 }}>Inspiration</h3><Gallery photos={inspo} min={300} /></>)}
-      {t?.renderPrompt && <CopyPrompt text={t.renderPrompt} />}
+      {t?.renderPrompt && <CopyPrompt text={t.renderPrompt} from={t.renderFrom} />}
 
       {room.proposal && (
         <>

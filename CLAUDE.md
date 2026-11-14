@@ -47,6 +47,9 @@ target design for every room, the to-do / project / shopping lists, and produces
 - Never present a suggestion as agreed. The owners decide; record what they say.
 - Task `suggested: true` = Claude's suggestion, not agreed; shown with a “suggestion” tag. Remove the flag when the owners agree.
 - Task `who`: the lead trade first ("Electrician / builder"). `/trades` groups open jobs by that first name.
+- `/studio` (Design studio): per room, `target.renderFrom` (photo to upload) + `target.renderPrompt` (ChatGPT prompt written
+  from the AGREED design — rewrite it whenever the room's decisions change). Claude cannot generate images; the owners run
+  the prompt in ChatGPT and send the result back, which is added as a photo with `kind: render`.
 - Photo `kind`: current | detail | render (target image) | inspiration. `house.hero` = home page photo.
 - The site is public (no login): do not publish photos showing people.
 

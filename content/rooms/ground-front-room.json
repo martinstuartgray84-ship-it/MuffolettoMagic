@@ -144,7 +144,9 @@
         "detail": "Bigger shades than the current pair",
         "status": "idea"
       }
-    ]
+    ],
+    "renderFrom": "/photos/ground-front-room/04.jpg",
+    "renderPrompt": "Edit this photo of a room in our house. Keep the exact camera angle and keep all the architecture exactly as it is — walls, room shape, windows, doors, beams, floor and fixed fittings. Do not add, move or remove anything structural, and do not change the furniture unless I say so below. Remove all clutter: tools, boxes, bags, dust sheets, loose cables, packaging, laundry and toiletries. Show the room finished and tidy.\n\nChanges to make:\n- Paint the walls deep navy blue. Only the walls — leave the dark beams and the ceiling between them as they are.\n- Leave the exposed stone pier, the rock, the old wooden wall hatch and its timber lintel natural and unpainted.\n- Keep the terracotta floor and every piece of furniture exactly as it is: the carved table and chairs, the sideboard, the leather suite.\n- Remove the office chairs' clutter, boxes and the heater. Warm lamplight from the two table lamps and a soft glow on the stone.\n\nStyle: photorealistic interior photograph, natural light plus warm 2700K lamps, no people, no text or labels."
   },
   "brief": {
     "scope": [

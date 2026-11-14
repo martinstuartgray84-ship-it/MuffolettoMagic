@@ -124,7 +124,9 @@
         "name": "LED strip under the top cupboards",
         "status": "idea"
       }
-    ]
+    ],
+    "renderFrom": "/photos/third-utility/01.jpg",
+    "renderPrompt": "Edit this photo of a room in our house. Keep the exact camera angle and keep all the architecture exactly as it is — walls, room shape, windows, doors, beams, floor and fixed fittings. Do not add, move or remove anything structural, and do not change the furniture unless I say so below. Remove all clutter: tools, boxes, bags, dust sheets, loose cables, packaging, laundry and toiletries. Show the room finished and tidy.\n\nChanges to make:\n- Washing machine on the left with a dark walnut-effect worktop over it.\n- On the right, a tall slim fridge-freezer in brushed stainless steel, about 180 cm high (replace the pink fridge).\n- Above both, one continuous row of wall cupboards across the full width up to the ceiling, with raised-panel doors in deep teal-green and small aged-brass knobs, so the alcove looks fitted and deliberate.\n- Walls smooth and painted warm white. The glass blocks above the door are plastered over and painted the same white.\n- No visible pipes, valves or sockets behind the machines.\n- The bathroom door on the right is a white panelled pocket door with a flush black pull, in a finished frame.\n\nStyle: photorealistic interior photograph, natural light plus warm 2700K lamps, no people, no text or labels."
   },
   "brief": {
     "scope": [

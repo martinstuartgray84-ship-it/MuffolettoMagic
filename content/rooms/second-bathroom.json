@@ -104,7 +104,9 @@
         "link": "https://www.idromshop.com/en/catalog/nicchia-saloon-141381",
         "status": "idea"
       }
-    ]
+    ],
+    "renderFrom": "/photos/second-bathroom/02.jpg",
+    "renderPrompt": "Edit this photo of a room in our house. Keep the exact camera angle and keep all the architecture exactly as it is — walls, room shape, windows, doors, beams, floor and fixed fittings. Do not add, move or remove anything structural, and do not change the furniture unless I say so below. Remove all clutter: tools, boxes, bags, dust sheets, loose cables, packaging, laundry and toiletries. Show the room finished and tidy.\n\nChanges to make:\n- Keep the deep-blue vertical tiles, the grey stone-effect tiles, the tiled shower floor and niche, the black rain shower and the white WC.\n- Replace the shower curtain and rod with a pair of clear glass half-doors (saloon doors) with slim matt-black frames across the shower opening.\n- No visible flexible hose at the WC.\n- Fresh white walls above the tiles, a neat edge along the top of the tiling.\n\nStyle: photorealistic interior photograph, natural light plus warm 2700K lamps, no people, no text or labels."
   },
   "brief": {
     "scope": [

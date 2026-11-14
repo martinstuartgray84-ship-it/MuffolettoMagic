@@ -62,6 +62,11 @@ export default function Home() {
         )}
       </div>
 
+      <Link href="/studio" className="panel" style={{ display: "block", textDecoration: "none", marginTop: 16 }}>
+        <h3 style={{ marginBottom: 2 }}>Design studio →</h3>
+        <span className="muted small">How each room should look when finished — target images, and ready-made ChatGPT prompts for the rooms that don't have one yet.</span>
+      </Link>
+
       <div className="spread"><h2>Who's needed</h2><Link href="/trades" className="small">Job lists by trade →</Link></div>
       <div className="chips">
         {trades.map((t) => <Link key={t} className="chip" href={`/trades#${slugify(t)}`}><b>{byTrade.get(t)}</b> {t}</Link>)}

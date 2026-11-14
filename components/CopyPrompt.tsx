@@ -1,19 +1,34 @@
 "use client";
 import { useState } from "react";
-export default function CopyPrompt({ text }: { text: string }) {
+
+export function CopyButton({ text, label = "Copy prompt" }: { text: string; label?: string }) {
   const [done, setDone] = useState(false);
+  return (
+    <button className="btn" onClick={async () => {
+      try { await navigator.clipboard.writeText(text); } catch {
+        const ta = document.createElement("textarea"); ta.value = text; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove();
+      }
+      setDone(true); setTimeout(() => setDone(false), 2000);
+    }}>{done ? "Copied ✓" : label}</button>
+  );
+}
+
+export default function CopyPrompt({ text, from }: { text: string; from?: string }) {
   return (
     <div className="card" style={{ marginTop: 18 }}>
       <div className="spread">
-        <h3 style={{ margin: 0 }}>Visualise this room</h3>
-        <button className="btn" onClick={() => { navigator.clipboard?.writeText(text); setDone(true); setTimeout(() => setDone(false), 2000); }}>
-          {done ? "Copied ✓" : "Copy prompt"}
-        </button>
+        <h3 style={{ margin: 0 }}>Make a visual of this room</h3>
+        <div className="row">
+          {from && <a className="btn ghost" href={from} download>Download photo</a>}
+          <CopyButton text={text} />
+        </div>
       </div>
       <p className="muted small" style={{ margin: "8px 0" }}>
-        Open ChatGPT or Gemini, upload one of this room’s photos, paste this prompt. Send the result back to Claude to add it here as a target image.
+        Download the photo, upload it to ChatGPT, paste the prompt. Send the result to Claude to add it here as the target image.
       </p>
-      <pre style={{ whiteSpace: "pre-wrap", fontFamily: "inherit", fontSize: "0.88rem", background: "var(--paper)", padding: 12, borderRadius: 8, margin: 0 }}>{text}</pre>
+      <details><summary className="small">Read the prompt</summary>
+        <pre className="prompt">{text}</pre>
+      </details>
     </div>
   );
 }

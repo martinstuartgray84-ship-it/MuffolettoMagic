@@ -180,7 +180,9 @@
         "detail": "Only swap the bulbs to warm 2200K amber filament. No step lights, no wired picture lights.",
         "status": "chosen"
       }
-    ]
+    ],
+    "renderFrom": "/photos/ground-entrance-stair/05.jpg",
+    "renderPrompt": "Edit this photo of a room in our house. Keep the exact camera angle and keep all the architecture exactly as it is — walls, room shape, windows, doors, beams, floor and fixed fittings. Do not add, move or remove anything structural, and do not change the furniture unless I say so below. Remove all clutter: tools, boxes, bags, dust sheets, loose cables, packaging, laundry and toiletries. Show the room finished and tidy.\n\nChanges to make:\n- Upper walls in a soft tobacco-terracotta limewash with gentle cloudy movement.\n- Lower walls painted deep olive green from the floor up to about 105 cm, following the slope of the stairs, with a painted matt-black line about 4 cm wide between the olive and the terracotta. No wooden panelling or mouldings — paint only.\n- Skirting in the same olive. Ceilings and the undersides of the flights in a warm off-white.\n- Wrought-iron balustrade repainted black. Keep the black lantern wall lights exactly as they are, with warm amber bulbs.\n- Keep the marble steps, terrazzo floor and the arched niche, cleaned. No patches, cracks or stored items.\n- A framed sepia print of a Sicilian town on the wall and an olive tree in a terracotta jar on the landing.\n\nStyle: photorealistic interior photograph, natural light plus warm 2700K lamps, no people, no text or labels."
   },
   "brief": {
     "scope": [
